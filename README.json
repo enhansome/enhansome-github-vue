@@ -1,0 +1,6368 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "element",
+          "description": "★13489 - 饿了么出品的Vue2的web UI工具套件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-08-20T07:40:13Z",
+            "owner": "ElemeFE",
+            "repo": "element",
+            "stars": 54064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuetify",
+          "description": "★2925 - 为移动而生的Vue JS 2组件框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T01:08:52Z",
+            "owner": "vuetifyjs",
+            "repo": "vuetify",
+            "stars": 41025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vant",
+          "description": "★74 - 有赞出品的Vue2.0移动UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:07:19Z",
+            "owner": "youzan",
+            "repo": "vant",
+            "stars": 24361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iview",
+          "description": "★6634 - 基于 Vuejs 的开源 UI 组件库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-01-15T00:27:21Z",
+            "owner": "iview",
+            "repo": "iview",
+            "stars": 23778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue.Draggable",
+          "description": "★1191 - 实现拖放和视图模型数组同步",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-04T07:33:56Z",
+            "owner": "SortableJS",
+            "repo": "Vue.Draggable",
+            "stars": 20591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vux",
+          "description": "★8133 - 基于Vue和WeUI的组件库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-17T23:32:23Z",
+            "owner": "airyland",
+            "repo": "vux",
+            "stars": 17464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mint-ui",
+          "description": "★6253 - Vue 2的移动UI元素",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-02-28T17:06:11Z",
+            "owner": "ElemeFE",
+            "repo": "mint-ui",
+            "stars": 16438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bootstrap-vue",
+          "description": "★1267 - 应用于Vuejs2的Twitter的Bootstrap 4组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T09:36:34Z",
+            "owner": "bootstrap-vue",
+            "repo": "bootstrap-vue",
+            "stars": 14427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-awesome-swiper",
+          "description": "★1012 - vue.js触摸滑动组件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-21T15:10:44Z",
+            "owner": "surmon-china",
+            "repo": "vue-awesome-swiper",
+            "stars": 12774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-virtual-scroller",
+          "description": "★238 - 带任意数目数据的顺畅的滚动",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T06:13:53Z",
+            "owner": "Akryum",
+            "repo": "vue-virtual-scroller",
+            "stars": 10791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-echarts",
+          "description": "★649 - VueJS的ECharts组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:27:14Z",
+            "owner": "ecomfe",
+            "repo": "vue-echarts",
+            "stars": 10733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buefy",
+          "description": "★755 - 响应式UI组件轻量级库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-11T21:50:40Z",
+            "owner": "buefy",
+            "repo": "buefy",
+            "stars": 9521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muse-ui",
+          "description": "★3705 - 三端样式一致的响应式 UI 库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-09T01:15:39Z",
+            "owner": "museui",
+            "repo": "muse-ui",
+            "stars": 8135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-quill-editor",
+          "description": "★615 - 基于Quill适用于Vue2的富文本编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-17T09:28:34Z",
+            "owner": "surmon-china",
+            "repo": "vue-quill-editor",
+            "stars": 7400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-multiselect",
+          "description": "★1539 - Vue.js选择框解决方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-17T13:01:40Z",
+            "owner": "shentao",
+            "repo": "vue-multiselect",
+            "stars": 6780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mavonEditor",
+          "description": "★179 - 基于Vue的markdown编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-03-05T09:30:29Z",
+            "owner": "hinesboy",
+            "repo": "mavonEditor",
+            "stars": 6576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vueAdmin",
+          "description": "★1455 - 基于vuejs2和element的简单的管理员模板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-06-17T09:50:32Z",
+            "owner": "taylorchen709",
+            "repo": "vue-admin",
+            "stars": 6560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-chartjs",
+          "description": "★694 - vue中的Chartjs的封装",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:17:49Z",
+            "owner": "apertureless",
+            "repo": "vue-chartjs",
+            "stars": 5714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-video-player",
+          "description": "★336 - VueJS视频及直播播放器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-23T11:04:12Z",
+            "owner": "surmon-china",
+            "repo": "videojs-player",
+            "stars": 5443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cropper",
+          "description": "★42 - 一个简单的vue 的图片裁剪插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-09T12:44:41Z",
+            "owner": "xyxiao001",
+            "repo": "vue-cropper",
+            "stars": 4558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-js-modal",
+          "description": "★228 - 移动友好的Vuejs2的modal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-20T09:32:00Z",
+            "owner": "euvl",
+            "repo": "vue-js-modal",
+            "stars": 4312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keen-UI",
+          "description": "★2749 - 轻量级的基本UI组件合集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-16T07:41:38Z",
+            "owner": "JosephusPaye",
+            "repo": "Keen-UI",
+            "stars": 4055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eagle.js",
+          "description": "★1128 - hacker的幻灯片演示框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-10T19:20:42Z",
+            "owner": "Zulko",
+            "repo": "eagle.js",
+            "stars": 4052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-tooltip",
+          "description": "★129 - 带绑定信息提示的提示工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T10:33:04Z",
+            "owner": "Akryum",
+            "repo": "floating-vue",
+            "stars": 3466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vonic",
+          "description": "★1913 - 快速构建移动端单页应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-02-12T07:36:40Z",
+            "owner": "wangdahoo",
+            "repo": "vonic",
+            "stars": 3379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-amap",
+          "description": "★571 - 基于Vue 2和高德地图的地图组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T23:04:30Z",
+            "owner": "ElemeFE",
+            "repo": "vue-amap",
+            "stars": 3379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-infinite-scroll",
+          "description": "★779 - VueJS的无限滚动指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-18T15:05:15Z",
+            "owner": "ElemeFE",
+            "repo": "vue-infinite-scroll",
+            "stars": 2856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ydui",
+          "description": "★247 - 基于Vue2的移动端和微信UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-27T13:15:15Z",
+            "owner": "ydcss",
+            "repo": "vue-ydui",
+            "stars": 2727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-upload-component",
+          "description": "★298 - Vuejs文件上传组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-12T16:34:59Z",
+            "owner": "lian-yue",
+            "repo": "vue-upload-component",
+            "stars": 2688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-infinite-loading",
+          "description": "★501 - VueJS的无限滚动插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-19T09:33:23Z",
+            "owner": "PeachScript",
+            "repo": "vue-infinite-loading",
+            "stars": 2645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuejs-datepicker",
+          "description": "★314 - vue日期选择器组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-09T15:37:08Z",
+            "owner": "charliekassel",
+            "repo": "vuejs-datepicker",
+            "stars": 2591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-editor",
+          "description": "★155 - HTML编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T08:48:10Z",
+            "owner": "davidroyer",
+            "repo": "vue2-editor",
+            "stars": 2515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-slider-component",
+          "description": "★202 - 在vue1和vue2中使用滑块",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-01T07:06:28Z",
+            "owner": "NightCatSama",
+            "repo": "vue-slider-component",
+            "stars": 2422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-baidu-map",
+          "description": "★170 - 基于 Vue 2的百度地图组件库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-01-12T08:24:55Z",
+            "owner": "Dafrok",
+            "repo": "vue-baidu-map",
+            "stars": 2409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-waterfall",
+          "description": "★737 - Vue.js的瀑布布局组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-01-19T08:41:58Z",
+            "owner": "MopTym",
+            "repo": "vue-waterfall",
+            "stars": 2196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-beauty",
+          "description": "★749 - 由vue和ant design创建的优美UI组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-06T08:45:27Z",
+            "owner": "FE-Driver",
+            "repo": "vue-beauty",
+            "stars": 2099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-image-crop-upload",
+          "description": "★205 - vue图片剪裁上传组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-03T15:41:52Z",
+            "owner": "dai-siki",
+            "repo": "vue-image-crop-upload",
+            "stars": 2079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eme",
+          "description": "★1529 - 优雅的Markdown编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T20:27:42Z",
+            "owner": "egoist",
+            "repo": "eme",
+            "stars": 2058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-dropzone",
+          "description": "★233 - 用于文件上传的Vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-03-28T02:06:09Z",
+            "owner": "rowanwins",
+            "repo": "vue-dropzone",
+            "stars": 2004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-table",
+          "description": "★1009 - 简化数据表格",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-08-21T04:35:49Z",
+            "owner": "ratiw",
+            "repo": "vue-table",
+            "stars": 1822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-chat",
+          "description": "★859 - vuejs和vuex及webpack的聊天示例",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-06-11T20:47:49Z",
+            "owner": "Coffcer",
+            "repo": "vue-chat",
+            "stars": 1775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-scroller",
+          "description": "★444 - Vonic UI的功能性组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-17T08:05:17Z",
+            "owner": "wangdahoo",
+            "repo": "vue-scroller",
+            "stars": 1774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataVisualization",
+          "description": "★298 - 数据可视化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2020-09-16T07:44:07Z",
+            "owner": "SimonZhangITer",
+            "repo": "DataVisualization",
+            "stars": 1726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-blu",
+          "description": "★850 - 帮助你轻松创建web应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-06-08T00:57:37Z",
+            "owner": "chenz24",
+            "repo": "vue-blu",
+            "stars": 1559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-tables-2",
+          "description": "★291 - 显示数据的bootstrap样式网格",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-11-26T06:49:37Z",
+            "owner": "matfish2",
+            "repo": "vue-tables-2",
+            "stars": 1511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-fullcalendar",
+          "description": "★313 - 基于vue.js的全日历组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-09T14:15:54Z",
+            "owner": "Wanderxx",
+            "repo": "vue-fullcalendar",
+            "stars": 1503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-syntax-highlight",
+          "description": "★655 - Sublime Text语法高亮",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-30T07:25:41Z",
+            "owner": "vuejs",
+            "repo": "vue-syntax-highlight",
+            "stars": 1477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-progressbar",
+          "description": "★379 - vue轻量级进度条",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-10T04:29:15Z",
+            "owner": "hilongjw",
+            "repo": "vue-progressbar",
+            "stars": 1447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-particles",
+          "description": "★168 - 粒子背景的vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-16T15:58:36Z",
+            "owner": "creotip",
+            "repo": "vue-particles",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-recyclerview",
+          "description": "★849 - 管理大列表的vue-recyclerview",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-30T10:47:01Z",
+            "owner": "hilongjw",
+            "repo": "vue-recyclerview",
+            "stars": 1436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-calendar",
+          "description": "★536 - 日期选择插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-07-09T14:18:15Z",
+            "owner": "jinzhe",
+            "repo": "vue-calendar",
+            "stars": 1406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-social-sharing",
+          "description": "★142 - 社交分享组件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-09T16:25:55Z",
+            "owner": "nicolasbeauvais",
+            "repo": "vue-social-sharing",
+            "stars": 1373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-core-image-upload",
+          "description": "★393 - 轻量级的vue上传插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-08-27T20:40:45Z",
+            "owner": "Vanthink-UED",
+            "repo": "vue-core-image-upload",
+            "stars": 1344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VueCircleMenu",
+          "description": "★838 - 漂亮的vue圆环菜单",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-02-09T15:01:52Z",
+            "owner": "OYsun",
+            "repo": "VueCircleMenu",
+            "stars": 1210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-trend",
+          "description": "★332 - 简单优雅的星光线条",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T23:16:14Z",
+            "owner": "QingWei-Li",
+            "repo": "vue-trend",
+            "stars": 1186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veui",
+          "description": "★50 - VueJS百度企业UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-27T08:58:22Z",
+            "owner": "ecomfe",
+            "repo": "veui",
+            "stars": 1064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-data-tables",
+          "description": "★266 - VueJS2数据表格",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-26T08:55:01Z",
+            "owner": "njleonzhang",
+            "repo": "vue-data-tables",
+            "stars": 1015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-carousel-3d",
+          "description": "★173 - VueJS的3D轮播组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-12T00:31:45Z",
+            "owner": "Wlada",
+            "repo": "vue-carousel-3d",
+            "stars": 980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-chat",
+          "description": "★200 - Vue全家桶+Socket.io+Express/Koa2打造一个智能聊天室",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-05-10T12:45:02Z",
+            "owner": "microzz",
+            "repo": "vue-chat",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-html5-editor",
+          "description": "★303 - html5所见即所得编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-08-21T22:19:31Z",
+            "owner": "PeakTai",
+            "repo": "vue-html5-editor",
+            "stars": 950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-slider",
+          "description": "★224 - vue 滑动组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-09T20:25:27Z",
+            "owner": "warpcgd",
+            "repo": "vue-concise-slider",
+            "stars": 914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-swipe",
+          "description": "★481 - VueJS触摸滑块",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-10-15T00:59:50Z",
+            "owner": "ElemeFE",
+            "repo": "vue-swipe",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-svgicon",
+          "description": "★127 - 创建svg图标组件的工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-21T02:37:45Z",
+            "owner": "MMF-FE",
+            "repo": "svgicon",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-echarts-v3",
+          "description": "★351 - VueJS组件封装",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-14T06:55:00Z",
+            "owner": "xlsdg",
+            "repo": "vue-echarts-v3",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radon-ui",
+          "description": "★715 - 快速开发产品的Vue组件库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-05-30T15:34:52Z",
+            "owner": "luojilab",
+            "repo": "radon-ui",
+            "stars": 891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-picture-input",
+          "description": "★352 - 移动友好的图片文件输入组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-07-27T12:49:59Z",
+            "owner": "alessiomaffeis",
+            "repo": "vue-picture-input",
+            "stars": 885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VueStar",
+          "description": "★270 - 带星星动画的vue点赞按钮",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-12-17T10:53:50Z",
+            "owner": "OYsun",
+            "repo": "VueStar",
+            "stars": 856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-carbon",
+          "description": "★684 - 基于 vue 开发MD风格的移动端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-11-15T06:43:13Z",
+            "owner": "myronliu347",
+            "repo": "vue-carbon",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-douban-market",
+          "description": "★233 - 仿豆瓣市集webapp项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-03-11T08:35:25Z",
+            "owner": "Awheat",
+            "repo": "vue2-douban-market",
+            "stars": 853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-loop",
+          "description": "★701 - 无限的内容循环",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-01-09T10:15:51Z",
+            "owner": "jsmmth",
+            "repo": "vue-loop",
+            "stars": 803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-typer",
+          "description": "★130 - 模拟用户输入选择和删除文本的Vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2020-03-22T18:57:26Z",
+            "owner": "cngu",
+            "repo": "vue-typer",
+            "stars": 789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuejs-paginate",
+          "description": "★80 - 分页VueJS组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-03T09:04:20Z",
+            "owner": "lokyoung",
+            "repo": "vuejs-paginate",
+            "stars": 768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-simplemde",
+          "description": "★166 - VueJS的Markdown编辑器组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-04T03:26:46Z",
+            "owner": "F-loat",
+            "repo": "vue-simplemde",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-dragging",
+          "description": "★146 - 使元素可以拖拽",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-12T14:05:44Z",
+            "owner": "hilongjw",
+            "repo": "vue-dragging",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-chartkick",
+          "description": "★53 - VueJS一行代码实现优美图表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T04:57:35Z",
+            "owner": "ankane",
+            "repo": "vue-chartkick",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laravel-vue-pagination",
+          "description": "★26 - VueJS分页组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-12T21:46:09Z",
+            "owner": "gilbitron",
+            "repo": "laravel-vue-pagination",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sweet-modal-vue",
+          "description": "★170 - 精美的点击提示对话框",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-01-11T22:25:28Z",
+            "owner": "visma-meglerfront",
+            "repo": "sweet-modal-vue",
+            "stars": 745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-music-player",
+          "description": "★451 - Vuejs写一个音乐播放器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-09-25T03:02:36Z",
+            "owner": "microzz",
+            "repo": "vue-music-player",
+            "stars": 728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-progressive-image",
+          "description": "★148 - Vue的渐进图像加载插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T20:39:53Z",
+            "owner": "MatteoGabriele",
+            "repo": "vue-progressive-image",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-sortable",
+          "description": "★373 - 轻松添加拖拽排序",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-21T15:45:06Z",
+            "owner": "sagalbot",
+            "repo": "vue-sortable",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-datepicker",
+          "description": "★436 - 日历和日期选择组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-02-28T04:11:52Z",
+            "owner": "hilongjw",
+            "repo": "vue-datepicker",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-star-rating",
+          "description": "★49 - 简单高度自定义的星星评级组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-06T17:28:07Z",
+            "owner": "craigh411",
+            "repo": "vue-star-rating",
+            "stars": 652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vueditor",
+          "description": "★204 - 所见即所得的编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-10-31T11:35:05Z",
+            "owner": "hifarer",
+            "repo": "vueditor",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-event-calendar",
+          "description": "★91 - 简单小巧的事件日历组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-01T19:03:14Z",
+            "owner": "GeoffZhu",
+            "repo": "vue-event-calendar",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-tabs-component",
+          "description": "★116 - 渲染tabs的Vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-10-24T11:22:18Z",
+            "owner": "spatie",
+            "repo": "vue-tabs-component",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-slick",
+          "description": "★73 - 实现流畅轮播框的vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-07-20T15:30:20Z",
+            "owner": "staskjs",
+            "repo": "vue-slick",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-paginate",
+          "description": "★261 - 分页数据的简约VueJS插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-06T11:40:45Z",
+            "owner": "TahaSh",
+            "repo": "vue-paginate",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-google-maps",
+          "description": "★334 - 带有双向数据绑定Google地图组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-08-15T13:10:54Z",
+            "owner": "GuillaumeLeclerc",
+            "repo": "vue-google-maps",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-img-inputer",
+          "description": "★97 - 基于Vue2的图片输入框",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-09-06T05:03:40Z",
+            "owner": "waynecz",
+            "repo": "vue-img-inputer",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markcook",
+          "description": "★343 - 好看的markdown编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-05-15T07:02:38Z",
+            "owner": "jrainlau",
+            "repo": "markcook",
+            "stars": 547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-mugen-scroll",
+          "description": "★239 - 无限滚动组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T01:04:46Z",
+            "owner": "egoist",
+            "repo": "vue-mugen-scroll",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gokotta",
+          "description": "★375 - 简单的音乐播放器",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-04-25T11:03:46Z",
+            "owner": "Zhangdroid",
+            "repo": "Gokotta",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-calendar",
+          "description": "★236 - 支持lunar和日期事件的日期选择器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-31T00:38:40Z",
+            "owner": "icai",
+            "repo": "vue3-calendar",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-mdEditor",
+          "description": "★131 - 基于VUE的markdown文本编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-07-23T02:16:08Z",
+            "owner": "ovenslove",
+            "repo": "vue-mdEditor",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "we-vue",
+          "description": "★55 - Vue2及weui1开发的组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-27T13:28:18Z",
+            "owner": "tianyong90",
+            "repo": "we-vue",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-touch-ripple",
+          "description": "★95 - vuejs的触摸ripple组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-24T16:25:15Z",
+            "owner": "surmon-china",
+            "repo": "vue-touch-ripple",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-json-tree-view",
+          "description": "★74 - Vue的JSON树视图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-10T22:40:28Z",
+            "owner": "fitzhavey",
+            "repo": "vue-json-tree-view",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-fullcalendar",
+          "description": "★55 - vue FullCalendar封装",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2020-10-17T23:11:40Z",
+            "owner": "CroudTech",
+            "repo": "vue-fullcalendar",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-loading",
+          "description": "★60 - 使用SVG加载",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-12-22T02:14:31Z",
+            "owner": "jkchao",
+            "repo": "vue-loading",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-timepicker",
+          "description": "★84 - 下拉时间选择器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-09-23T02:22:55Z",
+            "owner": "phoenixwong",
+            "repo": "vue2-timepicker",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-instant",
+          "description": "★143 - 轻松创建自动提示的自定义搜索控件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-02T19:57:36Z",
+            "owner": "santiblanko",
+            "repo": "vue-instant",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-datasource",
+          "description": "★210 - 创建VueJS动态表格",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-07-24T02:14:34Z",
+            "owner": "coderdiaz",
+            "repo": "vue-datasource",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-highcharts",
+          "description": "★130 - HighCharts组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-18T17:49:08Z",
+            "owner": "weizhenye",
+            "repo": "vue-highcharts",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vodal",
+          "description": "★99 - 动画的vue模态",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-03-28T17:38:03Z",
+            "owner": "chenjiahan",
+            "repo": "vodal",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagicMusic",
+          "description": "★113 - 不一样的音乐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-07-12T05:58:18Z",
+            "owner": "hzzly",
+            "repo": "MagicMusic",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-dragula",
+          "description": "★157 - 使拖放变得简单",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-24T10:56:30Z",
+            "owner": "Astray-git",
+            "repo": "vue-dragula",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-easy-slider",
+          "description": "★77 - Vue 2.x的滑块组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-07T07:26:01Z",
+            "owner": "shhdgit",
+            "repo": "vue-easy-slider",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-charts",
+          "description": "★152 - 轻松渲染一个图表",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2020-04-29T02:16:31Z",
+            "owner": "GimmyHchs",
+            "repo": "vue-charts",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-datetime-picker",
+          "description": "★224 - 日期时间选择控件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-05T14:01:15Z",
+            "owner": "Haixing-Hu",
+            "repo": "vue-datetime-picker",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-drag-and-drop-list",
+          "description": "★156 - 创建排序列表的Vue指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-25T02:34:50Z",
+            "owner": "hejianxian",
+            "repo": "vue-drag-and-drop-list",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-emoji",
+          "description": "★39 - 好用的emoji插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-12-21T09:26:58Z",
+            "owner": "jkchao",
+            "repo": "vue-emoji",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-video",
+          "description": "★96 - Vue.js的HTML5视频播放器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-09-18T15:14:30Z",
+            "owner": "hilongjw",
+            "repo": "vue-video",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mint-loadmore",
+          "description": "★203 - VueJS的双向下拉刷新组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-10-28T15:08:14Z",
+            "owner": "mint-ui",
+            "repo": "mint-loadmore",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-touch-keyboard",
+          "description": "★41 - VueJS虚拟键盘组件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2022-08-02T09:41:27Z",
+            "owner": "icebob",
+            "repo": "vue-touch-keyboard",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-google-signin-button",
+          "description": "★73 - 导入谷歌登录按钮",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T19:47:17Z",
+            "owner": "phanan",
+            "repo": "vue-google-signin-button",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-good-wizard",
+          "description": "★61 - VueJS 2.x wizard plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-04T01:26:24Z",
+            "owner": "xaksis",
+            "repo": "vue-good-wizard",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rubik",
+          "description": "★217 - 基于Vuejs2的开源 UI 组件库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-03-05T07:05:26Z",
+            "owner": "ccforward",
+            "repo": "rubik",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-swiper",
+          "description": "★167 - 易于使用的滑块组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2020-01-02T01:56:28Z",
+            "owner": "ValorLin",
+            "repo": "vue-swiper",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ripple-directive",
+          "description": "★45 - 使用Vue指令的Material波纹效果",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-04T09:14:50Z",
+            "owner": "PygmySlowLoris",
+            "repo": "vue-ripple-directive",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-data-grid",
+          "description": "★151 - VueJS复杂桌面交互示例",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-03-14T16:08:19Z",
+            "owner": "LucienLee",
+            "repo": "vue-data-grid",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-loading-bar",
+          "description": "★118 - 最简单的仿Youtube加载条视图",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-12T14:05:03Z",
+            "owner": "BosNaufal",
+            "repo": "vue2-loading-bar",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-lazyload-img",
+          "description": "★147 - 移动优化的vue图片懒加载插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-04T11:45:54Z",
+            "owner": "wormsan",
+            "repo": "vue-lazyload-img",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wdui",
+          "description": "★124 - 基于Vue2的UI组件库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-26T05:43:33Z",
+            "owner": "wdfe",
+            "repo": "wdui",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-morris",
+          "description": "★50 - Vuejs组件封装Morrisjs库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T16:40:11Z",
+            "owner": "bbonnin",
+            "repo": "vue-morris",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-formly",
+          "description": "★51 - VueJS的JS表单",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-12T08:30:24Z",
+            "owner": "formly-js",
+            "repo": "vue-formly",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-msgbox",
+          "description": "★148 - vuejs的消息框",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-29T07:50:02Z",
+            "owner": "ElemeFE",
+            "repo": "vue-msgbox",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-autocomplete",
+          "description": "★51 - vue2的自动完成组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-02-18T07:16:24Z",
+            "owner": "BosNaufal",
+            "repo": "vue2-autocomplete",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-rate",
+          "description": "★68 - Vue评分组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-05-16T11:13:24Z",
+            "owner": "SinanMtl",
+            "repo": "vue-rate",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuwe",
+          "description": "★150 - 基于微信WeUI所开发的专用于Vue2的组件库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-01-11T03:21:38Z",
+            "owner": "vuwe",
+            "repo": "vuwe",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "v-bar",
+          "description": "★91 - 虚拟响应跨浏览器滚动条",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-02-28T12:15:07Z",
+            "owner": "luiguild",
+            "repo": "v-bar",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-images",
+          "description": "★139 - 显示一组图片的lightbox组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-25T02:23:01Z",
+            "owner": "littlewin-wang",
+            "repo": "vue-images",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-slide",
+          "description": "★161 - vue轻量级滑动组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-01T13:27:08Z",
+            "owner": "hilongjw",
+            "repo": "vue-slide",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-impression",
+          "description": "★134 - 移动Vuejs2 UI元素",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2022-12-08T17:15:47Z",
+            "owner": "NewDadaFE",
+            "repo": "vue-impression",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-components",
+          "description": "★49 - 移动端UI组件库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-01-07T09:47:22Z",
+            "owner": "yunfeihuang",
+            "repo": "vx-ui",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-float-label",
+          "description": "★76 - VueJS浮动标签模式",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-12-24T23:31:01Z",
+            "owner": "bartkozal",
+            "repo": "vue-float-label",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-mask",
+          "description": "★67 - 拥有独一无二mask的表单",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-03-18T12:01:05Z",
+            "owner": "wirecardBrasil",
+            "repo": "awesome-mask",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-region-picker",
+          "description": "★111 - 选择中国的省份市和地区",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-06-13T02:42:01Z",
+            "owner": "QingWei-Li",
+            "repo": "vue-region-picker",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-tabs",
+          "description": "★47 - 多tab页轻型框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-25T03:05:55Z",
+            "owner": "alexqdjay",
+            "repo": "vue-tabs",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-simple-upload",
+          "description": "★31 - 简单的VueJS上传组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-12-06T23:14:41Z",
+            "owner": "saivarunk",
+            "repo": "vue-simple-upload",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-toast-mobile",
+          "description": "★79 - VueJS的toast插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-10-25T11:02:48Z",
+            "owner": "ElemeFE",
+            "repo": "vue-toast-mobile",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ztree",
+          "description": "★41 - 用 vue 写的树层级组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-07-16T07:25:42Z",
+            "owner": "lisiyizu",
+            "repo": "vue-ztree",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-loading",
+          "description": "★102 - 元素中加载block的Vue指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-20T10:26:29Z",
+            "owner": "Coffcer",
+            "repo": "vue-loading",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-pull-to-refresh",
+          "description": "★35 - Vue2的上拉下拉",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-05T03:42:40Z",
+            "owner": "bajian",
+            "repo": "vue-pull-to-refresh",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-city",
+          "description": "★19 - 城市选择器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-03-06T15:35:51Z",
+            "owner": "xinxingyu",
+            "repo": "vue-city",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-datatable",
+          "description": "★102 - 使用Vuejs创建的DataTableView",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2016-10-30T06:07:51Z",
+            "owner": "galenyuan",
+            "repo": "vue-datatable",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-quill",
+          "description": "★65 - vue组件构建quill编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2019-02-19T08:52:29Z",
+            "owner": "CroudTech",
+            "repo": "vue-quill",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-scrollbar",
+          "description": "★76 - 最简单的滚动区域组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-09-29T22:49:27Z",
+            "owner": "BosNaufal",
+            "repo": "vue-scrollbar",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datepicker",
+          "description": "★59 - 基于flatpickr的时间选择组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-11-18T17:42:50Z",
+            "owner": "vue-bulma",
+            "repo": "datepicker",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-datepicker",
+          "description": "★78 - 漂亮的Vue日期选择器组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-11T07:33:06Z",
+            "owner": "weifeiyue",
+            "repo": "vue-datepicker",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-date-picker",
+          "description": "★63 - VueJS日期选择器组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-10-24T04:36:42Z",
+            "owner": "8788",
+            "repo": "vue-date-picker",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cubeex",
+          "description": "★40 - 包含一套完整的移动UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-03T15:36:36Z",
+            "owner": "fangyongbao",
+            "repo": "cubeex",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-bootstrap-table",
+          "description": "★39 - 可排序可检索的表格",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-10-02T01:02:38Z",
+            "owner": "jbaysolutions",
+            "repo": "vue-bootstrap-table",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-image-clip",
+          "description": "★34 - 基于vue的图像剪辑组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-03-08T02:52:40Z",
+            "owner": "legeneek",
+            "repo": "vue-image-clip",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-parallax",
+          "description": "★23 - 整洁的视觉效果",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-10-29T10:40:37Z",
+            "owner": "vue-comps",
+            "repo": "vue-parallax",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-tree",
+          "description": "★22 - vue树视图组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-26T03:14:06Z",
+            "owner": "weibangtuo",
+            "repo": "vue-tree",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-area",
+          "description": "★37 - 省市区三级联动插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-14T04:25:25Z",
+            "owner": "blue0728",
+            "repo": "vue-area",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-image-scroll",
+          "description": "★36 - 仿网易云音乐的vue图片滚动插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-05-25T13:02:52Z",
+            "owner": "ShanaMaid",
+            "repo": "vue-image-scroll",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-tagsinput",
+          "description": "★48 - 基于VueJS的标签组件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2018-05-25T05:49:39Z",
+            "owner": "Ginhing",
+            "repo": "vue-tagsinput",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-music-master",
+          "description": "★40 - vue手机端网页音乐播放器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-10-20T02:44:59Z",
+            "owner": "yunyi1895",
+            "repo": "vue-music-master",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-popup-mixin",
+          "description": "★47 - 用于管理弹出框的遮盖层",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-09T02:09:16Z",
+            "owner": "myronliu347",
+            "repo": "vue-popup-mixin",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-placeholders",
+          "description": "★58 - 处理占位符图片和乱码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-02-18T15:52:13Z",
+            "owner": "lithiumjake",
+            "repo": "vue-placeholders",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mint-indicator",
+          "description": "★35 - VueJS移动加载指示器插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-01-22T11:49:15Z",
+            "owner": "mint-ui",
+            "repo": "mint-indicator",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chartjs",
+          "description": "★29 - Vue Bulma的chartjs组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-05-19T00:38:45Z",
+            "owner": "vue-bulma",
+            "repo": "chartjs",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-lazy-background-images",
+          "description": "★29 - 懒加载背景组件的Vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-05-26T21:55:57Z",
+            "owner": "darrynten",
+            "repo": "vue-lazy-background-images",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coffeebreak",
+          "description": "★62 - 实时编辑CSS组件工具",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2017-10-21T21:55:42Z",
+            "owner": "kocisov",
+            "repo": "coffeebreak",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-smoothscroll",
+          "description": "★20 - smoothscroll的VueJS版本",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-07-09T00:36:14Z",
+            "owner": "Teddy-Zhu",
+            "repo": "vue-smoothscroll",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-datepicker-simple",
+          "description": "★26 - 基于vue的日期选择器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-28T03:15:36Z",
+            "owner": "dai-siki",
+            "repo": "vue-datepicker-simple",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-form-2",
+          "description": "★37 - 全面的HTML表单管理的解决方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-12T08:33:37Z",
+            "owner": "matfish2",
+            "repo": "vue-form-2",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-m-carousel",
+          "description": "★26 - vue 移动端轮播组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-31T09:43:06Z",
+            "owner": "shiye515",
+            "repo": "vue-m-carousel",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-side-nav",
+          "description": "★37 - 响应式的侧边导航",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-03-24T12:11:47Z",
+            "owner": "vue-comps",
+            "repo": "vue-side-nav",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-chart",
+          "description": "★40 - 强大的高速的vue图表解析",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-29T16:07:56Z",
+            "owner": "miaolz123",
+            "repo": "vue-chart",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ripple",
+          "description": "★29 - 制作谷歌MD风格涟漪效果的Vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-07-15T10:03:13Z",
+            "owner": "BosNaufal",
+            "repo": "vue-ripple",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-waves",
+          "description": "★22 - waves的VueJS版本",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-02T08:21:20Z",
+            "owner": "Teddy-Zhu",
+            "repo": "vue-waves",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-verify-pop",
+          "description": "★22 - 带气泡提示的vue校验插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-08T12:36:22Z",
+            "owner": "aweiu",
+            "repo": "vue-verify-pop",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "handsontable",
+          "description": "★39 - 网页表格组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-03-04T23:04:37Z",
+            "owner": "vue-bulma",
+            "repo": "handsontable",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-img-loader",
+          "description": "★22 - 图片加载UI组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-07-10T14:13:49Z",
+            "owner": "JackGit",
+            "repo": "vue-img-loader",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-scroll",
+          "description": "★27 - vue滚动",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-19T06:38:16Z",
+            "owner": "suguangwen",
+            "repo": "vue-scroll",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cmap",
+          "description": "★14 - Vue China map可视化组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-06T13:50:12Z",
+            "owner": "doodlewind",
+            "repo": "vue-cmap",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ios-alertview",
+          "description": "★14 - iOS7+ 风格的alertview服务",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2017-06-16T08:09:13Z",
+            "owner": "ik0r",
+            "repo": "vue-ios-alertview",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-typewriter",
+          "description": "★15 - vue组件类型",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2018-04-06T02:16:36Z",
+            "owner": "eduardostuart",
+            "repo": "vue-typewriter",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cascading-address",
+          "description": "★9 - vue地区选择器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-24T03:29:54Z",
+            "owner": "savokiss",
+            "repo": "vue-cascading-address",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-laypage",
+          "description": "★17 - 简单的VueJS分页组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-09-02T08:56:05Z",
+            "owner": "sinchang",
+            "repo": "vue-laypage",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-button",
+          "description": "★5 - Vue按钮组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-22T03:36:07Z",
+            "owner": "steven5538",
+            "repo": "vue-button",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paco-ui-vue",
+          "description": "★12 - PACOUI的vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-01-12T02:37:28Z",
+            "owner": "yeseason",
+            "repo": "paco-ui-vue",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dd-vue-component",
+          "description": "★7 - 订单来了的公共组件库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-06-14T08:13:36Z",
+            "owner": "ibufu",
+            "repo": "dd-vue-component",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-material",
+          "description": "★3328 - 通过Vue Material和Vue 2建立精美的app应用",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-keynote",
+          "description": "★73 - 实现声明性代码幻灯片",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-radial-progress",
+          "description": "★65 - Vue.js放射性进度条组件",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "cxlt-vue2-toastr",
+          "description": "★52 - 弹出提示的Vue2组件",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-material-design",
+          "description": "★34 - Vue MD风格组件",
+          "children": []
+        }
+      ],
+      "title": "UI组件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vue.js",
+          "description": "★56380 - 流行的轻量高效的前端组件化方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-10T07:24:15Z",
+            "owner": "vuejs",
+            "repo": "vue",
+            "stars": 210240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-element-admin",
+          "description": "★1986 - vue2管理系统模板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-10-24T11:25:46Z",
+            "owner": "PanJiaChen",
+            "repo": "vue-element-admin",
+            "stars": 90209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quasar",
+          "description": "★2353 - 响应式网站和混合移动应用程序",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T16:24:37Z",
+            "owner": "quasarframework",
+            "repo": "quasar",
+            "stars": 27209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electron-vue",
+          "description": "★2085 - Electron及VueJS快速启动样板",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-01-14T15:11:42Z",
+            "owner": "SimulatedGREG",
+            "repo": "electron-vue",
+            "stars": 15387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-admin",
+          "description": "★4612 - Vue管理面板框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-04-06T12:06:14Z",
+            "owner": "vue-bulma",
+            "repo": "vue-admin",
+            "stars": 9331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuepack",
+          "description": "★1618 - 现代VueJS启动器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-26T06:50:33Z",
+            "owner": "egoist",
+            "repo": "vuepack",
+            "stars": 2394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VueThink",
+          "description": "★373 - 前后端分离框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-03-05T03:09:28Z",
+            "owner": "honraytech",
+            "repo": "VueThink",
+            "stars": 1327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-admin-lte",
+          "description": "★154 - vue2版本的adminLTE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-03-26T01:48:22Z",
+            "owner": "devjin0617",
+            "repo": "vue2-admin-lte",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "N3-components",
+          "description": "★656 - 快速构建页面和应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-12-15T06:58:59Z",
+            "owner": "N3-components",
+            "repo": "N3-components",
+            "stars": 1003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-2.0-boilerplate",
+          "description": "★358 - Vue2单页应用样板​",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T17:03:12Z",
+            "owner": "petervmeijgaard",
+            "repo": "vue-2-boilerplate",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Framework7-Vue",
+          "description": "★283 - VueJS与Framework7结合",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2018-07-09T14:24:06Z",
+            "owner": "framework7io",
+            "repo": "framework7-vue",
+            "stars": 668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-spa-template",
+          "description": "★344 - 前后端分离后的单页应用开发",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-03T03:42:28Z",
+            "owner": "annnhan",
+            "repo": "vue-spa-template",
+            "stars": 662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jspangAdmin",
+          "description": "★140 - 基于Vue2的后台管理系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-02-08T03:51:55Z",
+            "owner": "shenghy",
+            "repo": "jspangAdmin",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuetiful",
+          "description": "★189 - 创建业务及管理应用程序",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-09-05T14:30:14Z",
+            "owner": "andrewcourtice",
+            "repo": "vuetiful",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-bulma",
+          "description": "★215 - 轻量级高性能MVVM Admin UI框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-03-25T14:25:38Z",
+            "owner": "wangxg2016",
+            "repo": "vue-bulma",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-fullstack",
+          "description": "★140 - 实时的用户友好的后台系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-16T17:55:09Z",
+            "owner": "erguotou520",
+            "repo": "vue-fullstack",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-element-starter",
+          "description": "★83 - vue启动页",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-12-12T07:05:59Z",
+            "owner": "Metnew",
+            "repo": "vue-element-starter",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-stack-2.0",
+          "description": "★155 - Vue2项目样板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-02T16:19:18Z",
+            "owner": "cklmercer",
+            "repo": "vue-stack-2.0",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-webgulp",
+          "description": "★113 - 仿VueJS Vue loader示例",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-13T16:48:35Z",
+            "owner": "threeaccents",
+            "repo": "vue-webgulp",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-paper-dashboard",
+          "description": "★120 - Vue的Tim Paper 仪表盘",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-05-25T08:45:26Z",
+            "owner": "cristijora",
+            "repo": "vue-paper-dashboard",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuemin",
+          "description": "★17 - 基于Vue的企业级前端开发框架",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-team-template",
+          "description": "★12 - 一种构建vue项目的选择方案",
+          "children": []
+        }
+      ],
+      "title": "开发框架"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vuex",
+          "description": "★8043 - 专为 Vue.js 应用程序开发的状态管理模式",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-25T13:26:41Z",
+            "owner": "vuejs",
+            "repo": "vuex",
+            "stars": 28324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-lazyload",
+          "description": "★1224 - 用于懒加载的Vue模块",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-30T06:57:44Z",
+            "owner": "hilongjw",
+            "repo": "vue-lazyload",
+            "stars": 7993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-i18n",
+          "description": "★1053 - VueJS的多语言切换插件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-12-31T15:15:58Z",
+            "owner": "kazupon",
+            "repo": "vue-i18n",
+            "stars": 7223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuelidate",
+          "description": "★1075 - 简单轻量级的基于模块的Vue.js验证",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-10T10:49:50Z",
+            "owner": "vuelidate",
+            "repo": "vuelidate",
+            "stars": 6874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-property-decorator",
+          "description": "★104 - VueJS和属性Decorator",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-04-11T05:28:16Z",
+            "owner": "kaorun343",
+            "repo": "vue-property-decorator",
+            "stars": 5470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-loader",
+          "description": "★1847 - Vue.js 针对Webpack的组件装载插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-07T07:28:11Z",
+            "owner": "vuejs",
+            "repo": "vue-loader",
+            "stars": 4962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-meta",
+          "description": "★467 - 管理app的meta信息",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-09-25T17:50:31Z",
+            "owner": "nuxt",
+            "repo": "vue-meta",
+            "stars": 4072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue-Socketio",
+          "description": "★533 - VueJS的socketio实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-09T02:18:05Z",
+            "owner": "MetinSeylan",
+            "repo": "Vue-Socket.io",
+            "stars": 3899
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "portal-vue",
+          "description": "★239 - 在组件外部渲染DOM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-11-25T19:14:42Z",
+            "owner": "LinusBorg",
+            "repo": "portal-vue",
+            "stars": 3887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-awesome",
+          "description": "★532 - VueJS字体Awesome组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T12:07:54Z",
+            "owner": "Justineo",
+            "repo": "vue-awesome",
+            "stars": 2426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-validator",
+          "description": "★1807 - vue的验证器插件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-12-25T10:57:43Z",
+            "owner": "kazupon",
+            "repo": "vue-validator",
+            "stars": 2168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-scrollTo",
+          "description": "★174 - 滚动到元素的VueJS指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-16T09:34:20Z",
+            "owner": "rigor789",
+            "repo": "vue-scrollto",
+            "stars": 2063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-axios",
+          "description": "★491 - 将axios整合到VueJS的封装",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T15:37:24Z",
+            "owner": "imcvampire",
+            "repo": "vue-axios",
+            "stars": 1998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-observe-visibility",
+          "description": "★42 - 当元素在页面上可见或隐藏时检测",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-08T02:15:08Z",
+            "owner": "Akryum",
+            "repo": "vue-observe-visibility",
+            "stars": 1643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-vue-loader",
+          "description": "★84 - 从html及js环境加载vue文件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-06-30T11:54:56Z",
+            "owner": "FranckFreiburger",
+            "repo": "http-vue-loader",
+            "stars": 1481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-authenticate",
+          "description": "★177 - 简单的VueJS身份认证库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-14T17:33:56Z",
+            "owner": "dgrubelic",
+            "repo": "vue-authenticate",
+            "stars": 1423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-aplayer",
+          "description": "★100 - 便于配置的音乐播放器vue2组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-12T18:14:18Z",
+            "owner": "SevenOutman",
+            "repo": "vue-aplayer",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-head",
+          "description": "★396 - head标签的meta信息操作",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-08T22:12:04Z",
+            "owner": "ktquez",
+            "repo": "vue-head",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uiv",
+          "description": "★70 - Vue实现的Bootstrap组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T03:36:32Z",
+            "owner": "uiv-lib",
+            "repo": "uiv",
+            "stars": 938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-shortkey",
+          "description": "★74 - 应用于Vue.js的Vue-ShortKey 插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-15T05:53:02Z",
+            "owner": "fgr-araujo",
+            "repo": "vue-shortkey",
+            "stars": 891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-vue-component",
+          "description": "★382 - vue和meteor整合",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-17T02:20:08Z",
+            "owner": "meteor-vue",
+            "repo": "vue-meteor",
+            "stars": 885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuep",
+          "description": "★118 - 用实时编辑和预览来渲染Vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T16:05:18Z",
+            "owner": "QingWei-Li",
+            "repo": "vuep",
+            "stars": 877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "avoriaz",
+          "description": "★338 - VueJS测试实用工具库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T01:23:01Z",
+            "owner": "eddyerburgh",
+            "repo": "avoriaz",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-timeago",
+          "description": "★195 - VueJS的时间前组件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-05-27T08:29:56Z",
+            "owner": "egoist",
+            "repo": "vue-timeago",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-notifications",
+          "description": "★80 - 非阻塞通知库",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-03-18T22:46:48Z",
+            "owner": "se-panfilov",
+            "repo": "vue-notifications",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-local-storage",
+          "description": "★88 - 具有类型支持的Vuejs本地储存插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T20:39:42Z",
+            "owner": "pinguinjkeke",
+            "repo": "vue-local-storage",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuex-i18n",
+          "description": "★71 - 定位插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T19:01:22Z",
+            "owner": "dkfbasel",
+            "repo": "vuex-i18n",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-parallax",
+          "description": "★84 - 快速60fps视差滚动效果组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T23:14:15Z",
+            "owner": "apertureless",
+            "repo": "vue-parallax",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-worker",
+          "description": "★56 - 使用webworkers的Vue插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-01T19:36:02Z",
+            "owner": "israelss",
+            "repo": "vue-worker",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-password-strength-meter",
+          "description": "★97 - 交互式密码强度计",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-01-23T10:09:03Z",
+            "owner": "apertureless",
+            "repo": "vue-password-strength-meter",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-svg-icon",
+          "description": "★157 - vue2的可变彩色svg图标方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-08T04:25:23Z",
+            "owner": "cenkai88",
+            "repo": "vue-svg-icon",
+            "stars": 554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuex-shared-mutations",
+          "description": "★34 - 分享某种Vuex mutations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-16T05:15:20Z",
+            "owner": "xanf",
+            "repo": "vuex-shared-mutations",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-desktop",
+          "description": "★496 - 创建管理面板网站的UI库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-02-11T13:47:38Z",
+            "owner": "ElemeFE",
+            "repo": "vue-desktop",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ls",
+          "description": "★49 - 适配Vuecontext中LocalStorage的Vue插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T12:23:33Z",
+            "owner": "RobinCK",
+            "repo": "vue-ls",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-websocket",
+          "description": "★91 - VueJS的Websocket插件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-09-02T11:49:00Z",
+            "owner": "icebob",
+            "repo": "vue-websocket",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-eslint-parser",
+          "description": "★27 - ESLint自定义解析",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T20:17:39Z",
+            "owner": "vuejs",
+            "repo": "vue-eslint-parser",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuet",
+          "description": "★116 - 一个跨页面、跨组件的状态管理插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-24T05:47:27Z",
+            "owner": "lzxb",
+            "repo": "vuet",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-focus",
+          "description": "★148 - 可重用VueJS组件的焦点指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-18T05:27:35Z",
+            "owner": "simplesmiler",
+            "repo": "vue-focus",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blessed-vue",
+          "description": "★181 - 编写命令行UI的VueJS运行时",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-12T06:33:45Z",
+            "owner": "lyonlai",
+            "repo": "blessed-vue",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-acl",
+          "description": "★54 - VueJS访问控制列表插件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-04T23:30:23Z",
+            "owner": "leonardovilarinho",
+            "repo": "vue-acl",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cordova",
+          "description": "★85 - Cordova的VueJS插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-26T22:53:53Z",
+            "owner": "kartsims",
+            "repo": "vue-cordova",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue.resize",
+          "description": "★51 - 检测HTML调整大小事件的vue指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-23T19:49:23Z",
+            "owner": "David-Desmaisons",
+            "repo": "Vue.resize",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "element-admin",
+          "description": "★130 - 支持 vuecli 的 Element UI 的后台模板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-20T08:22:41Z",
+            "owner": "lynzz",
+            "repo": "element-admin",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-kindergarten",
+          "description": "★83 - 将kindergarten集成到VueJS应用",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-11-30T10:17:46Z",
+            "owner": "JiriChara",
+            "repo": "vue-kindergarten",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-bus",
+          "description": "★71 - VueJS的事件总线",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T03:27:03Z",
+            "owner": "yangmingshan",
+            "repo": "vue-bus",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-electron",
+          "description": "★66 - 将选择的API封装到Vue对象中的插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-10T00:27:07Z",
+            "owner": "SimulatedGREG",
+            "repo": "vue-electron",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-qart",
+          "description": "★86 - 用于qartjs的Vue2指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-13T16:38:17Z",
+            "owner": "superman66",
+            "repo": "vue-qart",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-recyclist",
+          "description": "★88 - vuejs无限滚动列表",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-08-02T04:29:44Z",
+            "owner": "xtongs",
+            "repo": "vue-recyclist",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-events",
+          "description": "★83 - 简化事件的VueJS插件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-25T15:44:32Z",
+            "owner": "cklmercer",
+            "repo": "vue-events",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-lazy-render",
+          "description": "★87 - 用于Vue组件的延迟渲染",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-06-07T00:34:02Z",
+            "owner": "HeftyKoo",
+            "repo": "vue-lazy-render",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-clip",
+          "description": "★67 - 简约的破解文件上传器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-29T18:16:34Z",
+            "owner": "thetutlage",
+            "repo": "vue-clip",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-unit",
+          "description": "★179 - 创建单元测试组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-04T15:50:22Z",
+            "owner": "wrseward",
+            "repo": "vue-unit",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-pagination-2",
+          "description": "★46 - 简单通用的分页组件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-11-26T06:55:43Z",
+            "owner": "matfish2",
+            "repo": "vue-pagination-2",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-animate",
+          "description": "★106 - 跨浏览器CSS3动画库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-08-28T15:26:35Z",
+            "owner": "haydenbbickerton",
+            "repo": "vue-animate",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-clipboard",
+          "description": "★84 - VueJS的剪贴板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-28T07:51:14Z",
+            "owner": "xiaokaike",
+            "repo": "vue-clipboard",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-bootstrap-modal",
+          "description": "★112 - vue的Bootstrap样式组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-04-17T10:33:52Z",
+            "owner": "Coffcer",
+            "repo": "vue-bootstrap-modal",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-gesture",
+          "description": "★69 - VueJS的手势事件插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-14T07:22:06Z",
+            "owner": "mlyknown",
+            "repo": "vue-gesture",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue.ImagesLoaded",
+          "description": "★20 - 检测图片加载的VueJS指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-03T22:35:29Z",
+            "owner": "David-Desmaisons",
+            "repo": "Vue.ImagesLoaded",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuemit",
+          "description": "★63 - 处理VueJS事件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T04:21:32Z",
+            "owner": "gocanto",
+            "repo": "vuemit",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-vue",
+          "description": "★134 - VueJS和Meteor的桥接",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-29T19:43:57Z",
+            "owner": "zhouzhuojie",
+            "repo": "meteor-vue",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-reactive-storage",
+          "description": "★37 - vue插件的Reactive层",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-14T00:57:03Z",
+            "owner": "rop7",
+            "repo": "vue-reactive-storage",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-drag-zone",
+          "description": "★28 - 适用于Vue2的dom拖动组件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-05-09T02:52:41Z",
+            "owner": "surmon-china",
+            "repo": "vue-drag-zone",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-online",
+          "description": "★77 - reactive的在线和离线组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2020-08-25T08:59:40Z",
+            "owner": "Sopamo",
+            "repo": "vue-online",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-router-transition",
+          "description": "★69 - 页面过渡插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-13T03:41:13Z",
+            "owner": "repairearth",
+            "repo": "vue-router-transition",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "v-media-query",
+          "description": "★44 - vue中添加用于配合媒体查询的方法",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T01:30:48Z",
+            "owner": "AStaroverov",
+            "repo": "v-media-query",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cleave",
+          "description": "★64 - 基于cleave.js的Cleave组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-12-14T12:04:21Z",
+            "owner": "vue-bulma",
+            "repo": "cleave",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-framework7",
+          "description": "★85 - 结合VueJS使用的Framework7组件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2018-07-11T06:13:29Z",
+            "owner": "lmk123",
+            "repo": "vue-framework7",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ts-loader",
+          "description": "★54 - 在Vue装载机检查脚本",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-08T01:31:48Z",
+            "owner": "HerringtonDarkholme",
+            "repo": "vue-ts-loader",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-router-storage",
+          "description": "★9 - vue历史路由持久化的解决方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-03T08:06:56Z",
+            "owner": "ElderJames",
+            "repo": "vue-router-storage",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-lazy-component",
+          "description": "★38 - 懒加载组件或者元素的Vue指令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-27T02:32:27Z",
+            "owner": "Coffcer",
+            "repo": "vue-lazy-component",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuedeux",
+          "description": "★50 - 轻量级开源实用用层",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-18T02:07:33Z",
+            "owner": "Vuedeux",
+            "repo": "vuedeux",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-helmet",
+          "description": "★37 - HTML标题管理器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-28T14:05:12Z",
+            "owner": "miaolz123",
+            "repo": "vue-helmet",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazy-vue",
+          "description": "★48 - 懒加载图片",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-11-03T17:27:30Z",
+            "owner": "gocanto",
+            "repo": "lazy-vue",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-truncate-filter",
+          "description": "★10 - 截断字符串的VueJS过滤器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-22T18:54:19Z",
+            "owner": "imcvampire",
+            "repo": "vue-truncate-filter",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modal",
+          "description": "★26 - Vue Bulma的modal组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-05-09T19:16:35Z",
+            "owner": "vue-bulma",
+            "repo": "modal",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-file-base64",
+          "description": "★22 - 将文件转换为Base64的vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-01-22T11:49:48Z",
+            "owner": "BosNaufal",
+            "repo": "vue-file-base64",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-methods-promise",
+          "description": "★21 - 使vue方法支持promise",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-29T14:11:33Z",
+            "owner": "lzxb",
+            "repo": "vue-methods-promise",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "voir",
+          "description": "★35 - 保持mutation与视图组件的分离",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-29T05:08:01Z",
+            "owner": "richardanaya",
+            "repo": "voir",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-plan",
+          "description": "★25 - Vuex-状态管理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-10T23:45:20Z",
+            "owner": "wakeupmypig",
+            "repo": "vue-plan",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-zoombox",
+          "description": "★12 - 一个高级zoombox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-10-26T16:58:55Z",
+            "owner": "vue-comps",
+            "repo": "vue-zoombox",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leo-vue-validator",
+          "description": "★15 - 异步的表单验证组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-09T06:18:18Z",
+            "owner": "LeoHuiyi",
+            "repo": "leo-vue-validator",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue-Easy-Validator",
+          "description": "★12 - 简单的表单验证",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-30T13:11:03Z",
+            "owner": "MetinSeylan",
+            "repo": "Vue-Easy-Validator",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-input-autosize",
+          "description": "★9 - 基于内容自动调整文本输入的大小",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-08-22T23:02:29Z",
+            "owner": "syropian",
+            "repo": "vue-input-autosize",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Famous-Vue",
+          "description": "★16 - Famous库的vue组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-02-17T04:28:38Z",
+            "owner": "irwansyahwii",
+            "repo": "Famous-Vue",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-lazyloadImg",
+          "description": "★4 - 图片懒加载插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-29T11:52:55Z",
+            "owner": "yodfz",
+            "repo": "vue-lazyloadImg",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-titlecase",
+          "description": "★13 - 用于字符串titlecased的VueJS过滤器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-01T15:13:58Z",
+            "owner": "Haixing-Hu",
+            "repo": "vue-titlecase",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-data-validator",
+          "description": "★4 - Vuejs2的数据验证插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-08T09:41:47Z",
+            "owner": "phphe",
+            "repo": "vue-data-validator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qingcheng",
+          "description": "★736 - qingcheng主题",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-flatpickr",
+          "description": "★228 - 封装Flatpickr的Vue组件",
+          "children": []
+        }
+      ],
+      "title": "实用库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nuxt.js",
+          "description": "★4564 - 用于服务器渲染Vue app的最小化框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:43:33Z",
+            "owner": "nuxt",
+            "repo": "nuxt",
+            "stars": 60758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "express-vue",
+          "description": "★302 - 简单的使用服务器端渲染vue.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-10T16:57:22Z",
+            "owner": "express-vue",
+            "repo": "express-vue",
+            "stars": 1300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unvue",
+          "description": "★310 - 使用简单的通用VueJS应用",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-01-13T20:06:19Z",
+            "owner": "ream",
+            "repo": "deprecated",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doubanMovie-SSR",
+          "description": "★85 - Vue豆瓣电影服务端渲染",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-09-02T17:56:55Z",
+            "owner": "muwoo",
+            "repo": "doubanMovie-SSR",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ssr",
+          "description": "★92 - 非常简单的VueJS服务器端渲染模板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-20T02:09:49Z",
+            "owner": "ccforward",
+            "repo": "vue-ssr",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ssr",
+          "description": "★80 - 结合Express使用Vue2服务端渲染",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-17T11:28:20Z",
+            "owner": "hilongjw",
+            "repo": "vue-ssr",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-easy-renderer",
+          "description": "★44 - Nodejs服务端渲染",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-08T01:41:36Z",
+            "owner": "leaves4j",
+            "repo": "vue-easy-renderer",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "服务端"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vue-play",
+          "description": "★641 - 展示Vue组件的最小化框架",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-10-12T09:50:09Z",
+            "owner": "vue-play",
+            "repo": "vue-play",
+            "stars": 959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DejaVue",
+          "description": "★635 - Vuejs可视化及压力测试",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-16T18:41:02Z",
+            "owner": "MiCottOn",
+            "repo": "DejaVue",
+            "stars": 768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-VueHelper",
+          "description": "★228 - 目前vscode最好的vue代码提示插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-27T03:29:16Z",
+            "owner": "OYsun",
+            "repo": "vscode-VueHelper",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-generate-component",
+          "description": "★56 - 轻松生成Vue js组件的CLI工具",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-06-04T15:25:02Z",
+            "owner": "NetanelBasal",
+            "repo": "vue-generate-component",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-multipage-cli",
+          "description": "★40 - 简单的多页CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-12T05:51:23Z",
+            "owner": "xwpongithub",
+            "repo": "vue-multipage-cli",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VuejsStarterKit",
+          "description": "★29 - vuejs starter套件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-01-10T10:18:28Z",
+            "owner": "MetinSeylan",
+            "repo": "VuejsStarterKit",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "辅助工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vue-manage-system",
+          "description": "★2057 - 后台管理系统解决方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-08-17T10:54:54Z",
+            "owner": "lin-xin",
+            "repo": "vue-manage-system",
+            "stars": 19627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koel",
+          "description": "★7773 - 基于网络的个人音频流媒体服务",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T20:49:05Z",
+            "owner": "koel",
+            "repo": "koel",
+            "stars": 17220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pagekit",
+          "description": "★4225 - 轻量级的CMS建站系统",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2022-09-30T19:04:02Z",
+            "owner": "pagekit",
+            "repo": "pagekit",
+            "stars": 5457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PJ Blog",
+          "description": "★1018 - 开源博客",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-06-08T08:03:30Z",
+            "owner": "jcc",
+            "repo": "blog",
+            "stars": 2856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rss-reader",
+          "description": "★368 - 简单的rss阅读器",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2023-09-28T13:09:24Z",
+            "owner": "hello-efficiency-inc",
+            "repo": "raven-reader",
+            "stars": 2810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuedo",
+          "description": "★1265 - 博客平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-10-01T14:37:45Z",
+            "owner": "Vuedo",
+            "repo": "vuedo",
+            "stars": 2267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goldfish",
+          "description": "★518 - 用于HashiCorp Vault的Admin UI",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2018-09-05T03:18:53Z",
+            "owner": "Caiyeon",
+            "repo": "goldfish",
+            "stars": 2127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-blog",
+          "description": "★143 - 使用Vue2.0 和Vuex的vue-blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-04-20T12:54:56Z",
+            "owner": "surmon-china",
+            "repo": "surmon.me",
+            "stars": 2127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jackblog-vue",
+          "description": "★1120 - 个人博客系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-11-14T08:58:52Z",
+            "owner": "hutuxuhui",
+            "repo": "jackblog-vue",
+            "stars": 1933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-management-platform",
+          "description": "★74 - vue2.0+ elementUI 后台管理平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-08T08:59:21Z",
+            "owner": "suweiteng",
+            "repo": "vue2-management-platform",
+            "stars": 1822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cnode",
+          "description": "★787 - 重写vue版cnode社区",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-10-26T01:42:08Z",
+            "owner": "lzxb",
+            "repo": "vue-cnode",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adminify",
+          "description": "★46 - 一个基于Vuetify material的Admin面板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-08-27T08:56:16Z",
+            "owner": "topfullstack",
+            "repo": "adminify",
+            "stars": 958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMS-of-Blog",
+          "description": "★541 - 博客内容管理器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-17T06:43:13Z",
+            "owner": "ciqulover",
+            "repo": "CMS-of-Blog",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ghpages-blog",
+          "description": "★254 - 依赖GitHub Pages无需本地生成的静态博客",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-02-19T09:42:26Z",
+            "owner": "viko16",
+            "repo": "vue-ghpages-blog",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loopa-News",
+          "description": "★133 - 开源社会新闻应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-30T06:58:03Z",
+            "owner": "Angarsk8",
+            "repo": "Loopa-News",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swoole-vue-webim",
+          "description": "★137 - Web版的聊天应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-12-02T07:38:12Z",
+            "owner": "mogody",
+            "repo": "swoole-vue-webim",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tomato5",
+          "description": "★134 - 实时的协作工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-12-14T15:30:51Z",
+            "owner": "zhangxin840",
+            "repo": "tomato5",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-dashing-js",
+          "description": "★70 - nuvo-dashing-js的fork",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-17T05:04:26Z",
+            "owner": "thelinuxlich",
+            "repo": "vue-dashing-js",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vms",
+          "description": "★629 - vuejs2管理系统",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "fewords",
+          "description": "★63 - 功能极其简单的笔记本",
+          "children": []
+        }
+      ],
+      "title": "应用实例"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vue2-elm",
+          "description": "★8036 - 重写饿了么webapp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-04-11T12:52:02Z",
+            "owner": "bailicangdu",
+            "repo": "vue2-elm",
+            "stars": 41033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-manage",
+          "description": "★457 - 基于 vue + element-ui 的后台管理系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-07-05T12:16:35Z",
+            "owner": "bailicangdu",
+            "repo": "vue2-manage",
+            "stars": 13627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-happyfri",
+          "description": "★1535 - vue2及vuex的入门练习项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-11T08:06:55Z",
+            "owner": "bailicangdu",
+            "repo": "vue2-happyfri",
+            "stars": 10538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue-cnodejs",
+          "description": "★2491 - 基于vue重写Cnodejs.org的webapp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-18T09:17:53Z",
+            "owner": "shinygang",
+            "repo": "Vue-cnodejs",
+            "stars": 3019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-axios-github",
+          "description": "★448 - 登录拦截登出功能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-09T08:24:34Z",
+            "owner": "superman66",
+            "repo": "vue-axios-github",
+            "stars": 2668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeteaseCloudWebApp",
+          "description": "★1549 - 高仿网易云音乐的webapp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-01-27T15:19:40Z",
+            "owner": "javaswing",
+            "repo": "NeteaseCloudWebApp",
+            "stars": 2578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "douban",
+          "description": "★606 - 基于vue全家桶的精致豆瓣DEMO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-11-05T07:20:09Z",
+            "owner": "jeneser",
+            "repo": "douban",
+            "stars": 2293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-WeChat",
+          "description": "★558 - 基于Vue2高仿微信App的单页应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-05T11:28:54Z",
+            "owner": "zhaohaodang",
+            "repo": "vue-WeChat",
+            "stars": 2114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-demo",
+          "description": "★994 - 从零构建vue2 + vue-router + vuex 开发环境",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-14T09:29:16Z",
+            "owner": "lzxb",
+            "repo": "vue-demo",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-todos",
+          "description": "★95 - vue最新实战项目教程",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-03T03:30:02Z",
+            "owner": "liangxiaojuan",
+            "repo": "vue-todos",
+            "stars": 1961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-wechat",
+          "description": "★939 - vue.js开发微信app界面",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-10-19T06:52:51Z",
+            "owner": "useryangtao",
+            "repo": "vue-wechat",
+            "stars": 1676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-music",
+          "description": "★621 - Vue 音乐搜索播放",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-09-06T17:55:21Z",
+            "owner": "Sioxas",
+            "repo": "vue-music",
+            "stars": 1597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eleme",
+          "description": "★882 - 高仿饿了么app商家详情",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-04-20T02:46:22Z",
+            "owner": "liangxiaojuan",
+            "repo": "eleme",
+            "stars": 1589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-Meizi",
+          "description": "★604 - vue最新实战项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-27T15:34:16Z",
+            "owner": "liangxiaojuan",
+            "repo": "vue-Meizi",
+            "stars": 1527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VueDemo_Sell_Eleme",
+          "description": "★636 - Vue2高仿饿了么外卖平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-06-06T13:15:44Z",
+            "owner": "SimonZhangITer",
+            "repo": "VueDemo_Sell_Eleme",
+            "stars": 1373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue-Admin",
+          "description": "★33 - 基于Vue2的Admin系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-11-27T00:44:42Z",
+            "owner": "lanux",
+            "repo": "Vue-Admin",
+            "stars": 1321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xyy-vue",
+          "description": "★396 - 大学生交流平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-19T03:06:54Z",
+            "owner": "hzzly",
+            "repo": "xyy-vue",
+            "stars": 1309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-demo",
+          "description": "★755 - vue简易留言板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-07T09:58:24Z",
+            "owner": "kenberkeley",
+            "repo": "vue-demo",
+            "stars": 1291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-zhihu-daily",
+          "description": "★1010 - 知乎日报 with Vuejs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-31T15:36:04Z",
+            "owner": "hilongjw",
+            "repo": "vue-zhihu-daily",
+            "stars": 1269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2.0-taopiaopiao",
+          "description": "★402 - vue2.0与express构建淘票票页面",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-04-21T01:53:01Z",
+            "owner": "canfoo",
+            "repo": "vue2.0-taopiaopiao",
+            "stars": 1225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-demo-kugou",
+          "description": "★500 - vuejs仿写酷狗音乐webapp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-07T04:12:45Z",
+            "owner": "lavyun",
+            "repo": "vue-demo-kugou",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easy-vue",
+          "description": "★370 - 使用Vue实现简易web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-02-19T08:39:42Z",
+            "owner": "TIGERB",
+            "repo": "easy-vue",
+            "stars": 901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spa-starter-kit",
+          "description": "★646 - 单页应用启动套件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-10-03T23:19:57Z",
+            "owner": "codecasts",
+            "repo": "spa-starter-kit",
+            "stars": 900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2.x-douban",
+          "description": "★360 - Vue2实现简易豆瓣电影webApp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-30T02:24:17Z",
+            "owner": "superman66",
+            "repo": "vue2.x-douban",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-163-music",
+          "description": "★448 - vue仿网易云音乐客户端版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-28T07:46:30Z",
+            "owner": "ShanaMaid",
+            "repo": "vue-163-music",
+            "stars": 788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maizuo",
+          "description": "★603 - vue/vuex/redux仿卖座网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T11:36:16Z",
+            "owner": "zhengguorong",
+            "repo": "maizuo",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-koa-demo",
+          "description": "★128 - 使用Vue2和Koa1的全栈demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-12T07:23:16Z",
+            "owner": "Molunerfinn",
+            "repo": "vue-koa-demo",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "musiccloudWebapp",
+          "description": "★44 - 用vuejs仿网易云音乐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-06-21T10:27:13Z",
+            "owner": "hua1995116",
+            "repo": "musiccloudWebapp",
+            "stars": 725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-MiniQQ",
+          "description": "★351 - 基于Vue2实现的仿手机QQ单页面应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2020-12-10T15:05:34Z",
+            "owner": "jiangqizheng",
+            "repo": "vue2-MiniQQ",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VueBlog",
+          "description": "★73 - 前后端分离的个人博客",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-01-25T10:13:53Z",
+            "owner": "rudyxu1102",
+            "repo": "vue-blog",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhihudaily-vue",
+          "description": "★455 - 知乎日报web版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-05-17T14:40:32Z",
+            "owner": "yatessss",
+            "repo": "zhihudaily-vue",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notepad",
+          "description": "★216 - 本地存储的记事本",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-07-15T06:55:46Z",
+            "owner": "lin-xin",
+            "repo": "notepad",
+            "stars": 628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-shopping",
+          "description": "★404 - 蘑菇街移动端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-08-03T01:36:59Z",
+            "owner": "andylei18",
+            "repo": "vue-shopping",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-blog",
+          "description": "★171 - 单用户博客",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-11T13:56:42Z",
+            "owner": "BUPT-HJM",
+            "repo": "vue-blog",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-jd",
+          "description": "★76 - 京东移动web商城",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-01-29T06:57:50Z",
+            "owner": "huangche007",
+            "repo": "vue-jd",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-express-mongodb",
+          "description": "★189 - 简单的前后端分离案例",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-13T02:26:53Z",
+            "owner": "xrr2016",
+            "repo": "vue-express-mongodb",
+            "stars": 587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "houtai",
+          "description": "★125 - 基于vue和Element的后台管理系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-05-07T12:08:28Z",
+            "owner": "A-FE",
+            "repo": "houtai",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-quasar-admin-example",
+          "description": "★99 - 将Quasar和VueJS应用于SPA项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-07T00:58:06Z",
+            "owner": "odranoelBR",
+            "repo": "vue-quasar-admin-example",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-music",
+          "description": "★91 - 网易云音乐Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-04-21T03:45:55Z",
+            "owner": "ddqre12345",
+            "repo": "vue-music",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-nReader",
+          "description": "★73 - 使用vue2.0 + vue-router + vuex 的一个多页面小说阅读webapp",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2018-06-22T08:32:13Z",
+            "owner": "zimplexing",
+            "repo": "vue-nReader",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doubanMovie-SSR",
+          "description": "★85 - Vue豆瓣电影服务端渲染",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-09-02T17:56:55Z",
+            "owner": "muwoo",
+            "repo": "doubanMovie-SSR",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "daily-zhihu",
+          "description": "★275 - 基于Vue2的知乎日报单页应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-21T07:18:12Z",
+            "owner": "walleeeee",
+            "repo": "daily-zhihu",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canvas-vue",
+          "description": "★50 - 一个Vue+Cnavas酷炫后台管理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T15:48:49Z",
+            "owner": "hzzly",
+            "repo": "vue-particle-line",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixel-Web",
+          "description": "★198 - 一个 Vue 微博客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-05T10:14:35Z",
+            "owner": "werbhelius",
+            "repo": "Pixel-Web",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mi-by-vue",
+          "description": "★291 - VueJS仿小米官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2016-10-11T03:01:25Z",
+            "owner": "taomas",
+            "repo": "mi-by-vue",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-qqmusic",
+          "description": "★90 - Vue全家桶+Mint-Ui打造高仿QQMusic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-03-05T14:05:51Z",
+            "owner": "Panda-Hope",
+            "repo": "vue-qqmusic",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beauty",
+          "description": "★245 - 豆瓣美女clone",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-30T14:36:09Z",
+            "owner": "beauty-enjoy",
+            "repo": "beauty",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netease_yanxuan",
+          "description": "★198 - vue版网易严选",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-02-23T01:35:22Z",
+            "owner": "MengZhaoFly",
+            "repo": "netease_yanxuan",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "websocket_chat",
+          "description": "★127 - 基于vue和websocket的多人在线聊天室",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-02-20T16:16:57Z",
+            "owner": "secreter",
+            "repo": "websocket_chat",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gouyan-movie-vue",
+          "description": "★151 - 基于vue的在线电影影讯网站",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-07-10T02:59:22Z",
+            "owner": "zhixuanziben",
+            "repo": "gouyan-movie-vue",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doubanMovie",
+          "description": "★119 - 豆瓣电影展示",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-09-11T09:54:12Z",
+            "owner": "muwoo",
+            "repo": "doubanMovie",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-adminLte-vue-router",
+          "description": "★243 - vue和adminLte整合应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-14T07:12:35Z",
+            "owner": "liujians",
+            "repo": "vue-adminLte-vue-router",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VueMusic-PC",
+          "description": "★260 - Vue.js高还原网易云音乐系列",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-01-25T07:55:19Z",
+            "owner": "reusser",
+            "repo": "VueMusic-PC",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bilibili-vue",
+          "description": "★694 - 全栈式开发bilibili首页",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2023-07-06T03:08:33Z",
+            "owner": "lybenson",
+            "repo": "bilibili-vue",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-leancloud-blog",
+          "description": "★268 - 一个前后端完全分离的单页应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-02T20:28:51Z",
+            "owner": "jiangjiu",
+            "repo": "vue-leancloud-blog",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack-vue-vueRouter",
+          "description": "★130 - webpack及vue开发的简单项目实例",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-07T08:11:09Z",
+            "owner": "193Eric",
+            "repo": "study",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2-hybridapp-haoshiqi",
+          "description": "★32 - 实现单页面webapp以及hybridapp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-20T10:43:33Z",
+            "owner": "liupeijun",
+            "repo": "vue2-hybridapp-haoshiqi",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hello-vue-django",
+          "description": "★160 - 使用带有Django的vuejs的样板项目",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-12-27T08:40:51Z",
+            "owner": "rokups",
+            "repo": "hello-vue-django",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-demo-maizuo",
+          "description": "★210 - 使用Vue2全家桶仿制卖座电影",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-10T03:54:56Z",
+            "owner": "ChuckCZC",
+            "repo": "vue-demo-maizuo",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wuji",
+          "description": "★168 - 吾记网页版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-02-12T06:00:38Z",
+            "owner": "xiaobinwu",
+            "repo": "Wuji",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue-News",
+          "description": "★107 - 基于vue全家桶的仿知乎日报单页应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-11-14T09:14:44Z",
+            "owner": "biaodigit",
+            "repo": "vue-news",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eleme-vue2",
+          "description": "★112 - 仿饿了么H5纯前端Vue版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-26T12:04:36Z",
+            "owner": "hbxywdk",
+            "repo": "eleme-vue2",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vueBlog",
+          "description": "★127 - 前后端分离博客",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-21T18:35:50Z",
+            "owner": "elva2596",
+            "repo": "vueBlog",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-zhihu-daily",
+          "description": "★111 - 基于Vue全家桶开发的知乎日报",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-09-06T03:38:50Z",
+            "owner": "cccyb",
+            "repo": "vue-zhihu-daily",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmdb-app",
+          "description": "★194 - TMDbVueJS应用",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2019-10-27T21:54:37Z",
+            "owner": "dmtrbrl",
+            "repo": "tmdb-app",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-vue-server-webpack",
+          "description": "★253 - Node.js+Vue.js+webpack快速开发框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-13T07:20:40Z",
+            "owner": "yjj5855",
+            "repo": "node-vue-server-webpack",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vdo",
+          "description": "★179 - VueJS与MD重构豆瓣",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-10T07:21:31Z",
+            "owner": "RalfZhang",
+            "repo": "Vdo",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-mini-shop",
+          "description": "★121 - VueJS在线商店",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-04T00:25:55Z",
+            "owner": "BosNaufal",
+            "repo": "vue-mini-shop",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iview2-management-system",
+          "description": "★119 - 后台管理系统解决方案简单示例",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2017-06-04T09:05:19Z",
+            "owner": "vanishcode",
+            "repo": "iview2-management-system",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cnode",
+          "description": "★121 - 开源的CNode社区",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-04-19T09:06:03Z",
+            "owner": "microzz",
+            "repo": "vue-cnode",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tencent-sports",
+          "description": "★154 - Vue全家桶仿腾讯体育",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-08-09T09:16:12Z",
+            "owner": "renjie1996",
+            "repo": "Vue-draggable-router-tencent-sport",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "photoShare",
+          "description": "★120 - 基于图片分享的社交平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-05-15T01:52:17Z",
+            "owner": "beidan",
+            "repo": "photoShare",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x-blog",
+          "description": "★145 - 开源的个人blog项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-03-07T13:28:59Z",
+            "owner": "CommanderXL",
+            "repo": "x-blog",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-zhihudaily",
+          "description": "★187 - 知乎日报 Web 版本",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-08-15T14:43:38Z",
+            "owner": "iHaPBoy",
+            "repo": "vue-zhihudaily",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-loopback-vue",
+          "description": "★104 - 典型前后端分离项目模板",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-27T08:58:08Z",
+            "owner": "qxl1231",
+            "repo": "generator-loopback-vue",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-musicApp",
+          "description": "★132 - 使用vue全家桶制作的音乐播放器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-17T07:26:44Z",
+            "owner": "lxyisme",
+            "repo": "vue-musicApp",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zhihu-Daily-Vue.js",
+          "description": "★157 - Vuejs单页网页应用",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2019-11-16T09:57:55Z",
+            "owner": "pomelo-chuan",
+            "repo": "Zhihu-Daily-Vue.js",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-h5plus",
+          "description": "★31 - 前卫的vue及html5plus跨平台demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-06-19T14:38:50Z",
+            "owner": "NewsNIng",
+            "repo": "vue-h5plus",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cnode",
+          "description": "★131 - vue单页应用demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-03-12T15:26:02Z",
+            "owner": "wszgxa",
+            "repo": "vue-cnode",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue2.x-Cnode",
+          "description": "★88 - 基于vue全家桶的Cnode社区",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-08-09T17:32:00Z",
+            "owner": "scarecrowdu",
+            "repo": "vue2.x-Cnode",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "douban-movie",
+          "description": "★107 - 仿豆瓣电影wap端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-09-15T18:13:47Z",
+            "owner": "xingbofeng",
+            "repo": "douban-movie",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-weather",
+          "description": "★26 - 基于vue.js 2.0的百度天气应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-10-01T12:36:46Z",
+            "owner": "l20",
+            "repo": "vue-weather",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doubanApp",
+          "description": "★55 - 用vue2实现仿豆瓣app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-09T14:52:10Z",
+            "owner": "MrMoveon",
+            "repo": "doubanApp",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuecommunity",
+          "description": "★47 - vue.js中文社区",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-07-20T03:51:59Z",
+            "owner": "gaohongwei11",
+            "repo": "vuecommunity",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-explorer",
+          "description": "★63 - 寻找最有趣的GitHub库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-10T19:18:27Z",
+            "owner": "SidKwok",
+            "repo": "github-explorer",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "m-eleme",
+          "description": "★37 - 基于Vue全家桶仿饿了么移动端webapp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-04-17T10:02:09Z",
+            "owner": "JerryYgh",
+            "repo": "m-eleme",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-memo",
+          "description": "★20 - 用 vue写的记事本应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2021-05-04T01:39:35Z",
+            "owner": "youknowznm",
+            "repo": "vue-memo",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cli-multipage-bootstrap",
+          "description": "★60 - 将vue官方在线示例整合到组件中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-06-06T13:26:17Z",
+            "owner": "zhoou",
+            "repo": "vue-cli-multipage-bootstrap",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-zhihudaily-2.0",
+          "description": "★97 - 使用Vue2.0+vue-router+vuex创建的zhihudaily",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-06-08T13:14:15Z",
+            "owner": "cs1707",
+            "repo": "vue-zhihudaily-2.0",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ruby-china",
+          "description": "★86 - VueJS框架搭建的rubychina平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-08T10:42:25Z",
+            "owner": "hql123",
+            "repo": "vue-ruby-china",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue2-MV",
+          "description": "★45 - 仿网易云音乐MV的webapp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-05-08T16:16:00Z",
+            "owner": "safaring",
+            "repo": "Vue2-MV",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eagles",
+          "description": "★36 - 各种组件封装",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-31T02:35:44Z",
+            "owner": "lavieAll",
+            "repo": "eagles",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-music163",
+          "description": "★47 - 音乐VueJS项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-01T01:30:08Z",
+            "owner": "pluto1114",
+            "repo": "vue-music163",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webApp",
+          "description": "★64 - Vue2的移动端webApp音乐播放器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-19T03:54:27Z",
+            "owner": "AnnoWook",
+            "repo": "project-2016",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue-NetEaseCloudMusic",
+          "description": "★59 - 模仿IOS版网易云音乐的手机网站",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-12-15T02:15:46Z",
+            "owner": "leehomeok",
+            "repo": "Vue-NetEaseCloudMusic",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simply-calculator-vuejs",
+          "description": "★19 - 用VueJS实现简易计算器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-05-07T14:14:04Z",
+            "owner": "heyacherry",
+            "repo": "simply-calculator-vuejs",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Todos_Vuejs",
+          "description": "★35 - vuejs2搭建的极简的todolist",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-30T08:13:18Z",
+            "owner": "fishenal",
+            "repo": "Todos_Vuejs",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-flexible-app",
+          "description": "★19 - vue开发的一个简易app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-01-20T00:35:27Z",
+            "owner": "momopig",
+            "repo": "vue-flexible-app",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cnode-vue",
+          "description": "★40 - 基于vue和vue-router构建的cnodejs web网站SPA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-06-18T06:15:14Z",
+            "owner": "jo0ger",
+            "repo": "cnode-vue",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "life-app-vue",
+          "description": "★59 - 使用vue2完成多功能集合到小webapp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-05-03T09:04:52Z",
+            "owner": "shaqihe",
+            "repo": "life-app-vue",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyaReader",
+          "description": "★35 - 移动友好的阅读器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-10T11:03:13Z",
+            "owner": "GitaiQAQ",
+            "repo": "HyaReader",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-shopping-mall",
+          "description": "★16 - 基于Vue.js 2.x系列 + vue2-router + axios + iview 商城",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-22T10:10:25Z",
+            "owner": "hj624608494",
+            "repo": "vue-shopping-mall",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zhihu_Daily",
+          "description": "★73 - 基于Vue和Nodejs的Web单页应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-07T05:03:00Z",
+            "owner": "littlewin-wang",
+            "repo": "Zhihu_Daily",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cnode-mobile",
+          "description": "★29 - 搭建cnode社区",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-04-20T07:26:31Z",
+            "owner": "soulcm",
+            "repo": "vue-cnode-mobile",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-ssr-boilerplate",
+          "description": "★48 - 精简版的ofvue-hackernews-2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-03T15:02:40Z",
+            "owner": "albertchan",
+            "repo": "vue-ssr-boilerplate",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vuejs-SalePlatform",
+          "description": "★19 - vuejs搭建的售卖平台demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-12-10T06:45:11Z",
+            "owner": "fishenal",
+            "repo": "vuejs-demo-project",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-user-center",
+          "description": "★26 - vuejs直播类应用web端个人中心",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-04-12T03:16:36Z",
+            "owner": "doterlin",
+            "repo": "vue-user-center",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "v-notes",
+          "description": "★20 - 简单美观的记事本",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-11-21T18:41:05Z",
+            "owner": "IgorHalfeld",
+            "repo": "v-notes",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-dropload",
+          "description": "★19 - 用以测试下拉加载与简单路由",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-03-27T02:26:58Z",
+            "owner": "ITCNZ",
+            "repo": "vue-dropload",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Framework7-VueJS",
+          "description": "★38 - 使用移动框架的示例",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-03-31T14:42:41Z",
+            "owner": "tyllo",
+            "repo": "Framework7-VueJS",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhihu-daily",
+          "description": "★32 - 轻松查看知乎日报内容",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-03-19T10:21:27Z",
+            "owner": "xrr2016",
+            "repo": "zhihu-daily",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-vue-fabaocn",
+          "description": "★21 - 基于 node 和 vue 实现的移动官网",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-20T02:30:08Z",
+            "owner": "wx1993",
+            "repo": "node-vue-fabaocn",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qqmusic",
+          "description": "★13 - QQ音乐vue",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-07T15:35:08Z",
+            "owner": "yangbo5207",
+            "repo": "qqmusic",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gank",
+          "description": "★32 - gankio资源的阅读应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-09T05:59:37Z",
+            "owner": "xandeer",
+            "repo": "gank",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhihu-daily-vue",
+          "description": "★22 - 知乎日报",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-28T01:44:58Z",
+            "owner": "moonou",
+            "repo": "zhihu-daily-vue",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-starter",
+          "description": "★22 - VueJs项目的简单启动页",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-01T14:46:47Z",
+            "owner": "BosNaufal",
+            "repo": "vue-starter",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-weather",
+          "description": "★12 - VueJS天气demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T20:43:40Z",
+            "owner": "deshes",
+            "repo": "vue-weather",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cnode",
+          "description": "★22 - 使用cNode社区提供的接口",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2017-01-16T05:51:58Z",
+            "owner": "Damonlw",
+            "repo": "vue-cnode",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-XiaoMi-Shop",
+          "description": "★59 - 高仿小米商城的项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-07T01:05:34Z",
+            "owner": "beautifulBoys",
+            "repo": "vue-XiaoMi-Shop",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "douban",
+          "description": "★440 - 模仿豆瓣前端",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-fis3",
+          "description": "★217 - 流行开源工具集成demo",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-toutiao",
+          "description": "★121 - vuejs高仿今日头条移动端",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-koa2-login",
+          "description": "★67 - 使用 VueJS & NodeJS 实现的登录注册",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-trip",
+          "description": "★64 - vue2做的出行webapp",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "seeMusic",
+          "description": "★63 - 跨平台云音乐播放器",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "ios7-vue",
+          "description": "★52 - 使用vue2.0 vue-router vuex模拟ios7",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-bushishiren",
+          "description": "★49 - 不是诗人应用",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "sls-vuex2-demo",
+          "description": "★37 - vuex2商城购物车demo",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cnode",
+          "description": "★35 - 用 Vue 做的 CNode 官网",
+          "children": []
+        }
+      ],
+      "title": "Demo示例"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:22:51.523Z",
+    "original_repository": "opendigg/awesome-github-vue",
+    "original_repository_sha": "2ee30deb7b580c2958c4e3b16f55898220d8cd79",
+    "enhanced_repository": "enhansome/enhansome-github-vue",
+    "enhanced_repository_description": null,
+    "title": "Awesome 内容 with stars"
+  }
+}
