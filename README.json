@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T01:39:14Z",
+            "last_commit": "2026-08-16T01:00:26Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41027
+            "stars": 41031
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-14T17:30:35Z",
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24362
+            "stars": 24361
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2022-02-28T17:06:11Z",
             "owner": "ElemeFE",
             "repo": "mint-ui",
-            "stars": 16438
+            "stars": 16439
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-14T20:42:40Z",
             "owner": "apertureless",
             "repo": "vue-chartjs",
-            "stars": 5713
+            "stars": 5714
           }
         },
         {
@@ -1218,7 +1218,7 @@
             "last_commit": "2021-01-06T11:40:45Z",
             "owner": "TahaSh",
             "repo": "vue-paginate",
-            "stars": 594
+            "stars": 593
           }
         },
         {
@@ -1610,7 +1610,7 @@
             "last_commit": "2022-12-06T19:47:17Z",
             "owner": "phanan",
             "repo": "vue-google-signin-button",
-            "stars": 293
+            "stars": 292
           }
         },
         {
@@ -2640,7 +2640,7 @@
             "last_commit": "2024-10-10T07:24:15Z",
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210215
+            "stars": 210224
           }
         },
         {
@@ -2654,7 +2654,7 @@
             "last_commit": "2024-10-24T11:25:46Z",
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90200
+            "stars": 90201
           }
         },
         {
@@ -2668,7 +2668,7 @@
             "last_commit": "2026-08-14T22:54:01Z",
             "owner": "quasarframework",
             "repo": "quasar",
-            "stars": 27206
+            "stars": 27204
           }
         },
         {
@@ -2938,7 +2938,7 @@
             "last_commit": "2024-09-25T13:26:41Z",
             "owner": "vuejs",
             "repo": "vuex",
-            "stars": 28322
+            "stars": 28323
           }
         },
         {
@@ -2952,7 +2952,7 @@
             "last_commit": "2023-06-30T06:57:44Z",
             "owner": "hilongjw",
             "repo": "vue-lazyload",
-            "stars": 7994
+            "stars": 7993
           }
         },
         {
@@ -3036,7 +3036,7 @@
             "last_commit": "2023-02-09T02:18:05Z",
             "owner": "MetinSeylan",
             "repo": "Vue-Socket.io",
-            "stars": 3899
+            "stars": 3898
           }
         },
         {
@@ -3187,7 +3187,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T20:46:02Z",
+            "last_commit": "2026-08-16T01:02:35Z",
             "owner": "uiv-lib",
             "repo": "uiv",
             "stars": 938
@@ -4171,10 +4171,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:09:13Z",
+            "last_commit": "2026-08-15T18:45:33Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60758
+            "stars": 60759
           }
         },
         {
@@ -4202,7 +4202,7 @@
             "last_commit": "2020-01-13T20:06:19Z",
             "owner": "ream",
             "repo": "deprecated",
-            "stars": 817
+            "stars": 816
           }
         },
         {
@@ -4368,7 +4368,7 @@
             "last_commit": "2024-08-17T10:54:54Z",
             "owner": "lin-xin",
             "repo": "vue-manage-system",
-            "stars": 19627
+            "stars": 19628
           }
         },
         {
@@ -4382,7 +4382,7 @@
             "last_commit": "2026-08-10T20:49:05Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17221
+            "stars": 17222
           }
         },
         {
@@ -4438,7 +4438,7 @@
             "last_commit": "2020-10-01T14:37:45Z",
             "owner": "Vuedo",
             "repo": "vuedo",
-            "stars": 2267
+            "stars": 2268
           }
         },
         {
@@ -4638,7 +4638,7 @@
             "last_commit": "2025-04-11T12:52:02Z",
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 41029
+            "stars": 41028
           }
         },
         {
@@ -4652,7 +4652,7 @@
             "last_commit": "2024-07-05T12:16:35Z",
             "owner": "bailicangdu",
             "repo": "vue2-manage",
-            "stars": 13624
+            "stars": 13623
           }
         },
         {
@@ -5380,7 +5380,7 @@
             "last_commit": "2023-07-06T03:08:33Z",
             "owner": "lybenson",
             "repo": "bilibili-vue",
-            "stars": 346
+            "stars": 345
           }
         },
         {
@@ -6358,7 +6358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:12:28.556Z",
+    "last_updated": "2026-08-16T03:26:54.120Z",
     "original_repository": "opendigg/awesome-github-vue",
     "original_repository_sha": "2ee30deb7b580c2958c4e3b16f55898220d8cd79",
     "enhanced_repository": "enhansome/enhansome-github-vue",
