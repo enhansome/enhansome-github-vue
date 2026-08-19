@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67274736,
             "language": "Vue",
             "last_commit": "2024-08-20T07:40:13Z",
             "owner": "ElemeFE",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T00:06:33Z",
+            "last_commit": "2026-08-19T11:50:33Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41031
+            "stars": 41030
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88717215,
             "language": "TypeScript",
             "last_commit": "2026-08-18T01:42:21Z",
             "owner": "youzan",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64355429,
             "language": "Vue",
             "last_commit": "2024-01-15T00:27:21Z",
             "owner": "iview",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62104779,
             "language": "JavaScript",
             "last_commit": "2024-03-04T07:33:56Z",
             "owner": "SortableJS",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51728141,
             "language": "Vue",
             "last_commit": "2026-07-17T23:32:23Z",
             "owner": "airyland",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59010815,
             "language": "Vue",
             "last_commit": "2022-02-28T17:06:11Z",
             "owner": "ElemeFE",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70342215,
             "language": "JavaScript",
             "last_commit": "2026-04-02T09:36:34Z",
             "owner": "bootstrap-vue",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70081812,
             "language": "JavaScript",
             "last_commit": "2022-12-21T15:10:44Z",
             "owner": "surmon-china",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75092644,
             "language": "TypeScript",
             "last_commit": "2026-08-12T06:13:53Z",
             "owner": "Akryum",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61364083,
             "language": "TypeScript",
             "last_commit": "2026-08-17T18:07:49Z",
             "owner": "ecomfe",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86840811,
             "language": "Vue",
             "last_commit": "2026-08-17T17:04:24Z",
             "owner": "buefy",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68556226,
             "language": "Vue",
             "last_commit": "2022-12-09T01:15:39Z",
             "owner": "museui",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76567547,
             "language": "JavaScript",
             "last_commit": "2024-05-17T09:28:34Z",
             "owner": "surmon-china",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56919458,
             "language": "JavaScript",
             "last_commit": "2026-03-17T13:01:40Z",
             "owner": "shentao",
@@ -220,11 +235,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87947354,
             "language": "Vue",
             "last_commit": "2025-03-05T09:30:29Z",
             "owner": "hinesboy",
             "repo": "mavonEditor",
-            "stars": 6576
+            "stars": 6577
           }
         },
         {
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72974961,
             "language": "Vue",
             "last_commit": "2022-06-17T09:50:32Z",
             "owner": "taylorchen709",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61990007,
             "language": "TypeScript",
             "last_commit": "2026-08-18T14:52:08Z",
             "owner": "apertureless",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69470049,
             "language": "TypeScript",
             "last_commit": "2022-08-23T11:04:12Z",
             "owner": "surmon-china",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92027632,
             "language": "Vue",
             "last_commit": "2026-03-09T12:44:41Z",
             "owner": "xyxiao001",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73701576,
             "language": "Vue",
             "last_commit": "2023-03-20T09:32:00Z",
             "owner": "euvl",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54435333,
             "language": "JavaScript",
             "last_commit": "2023-08-16T07:41:38Z",
             "owner": "JosephusPaye",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84742532,
             "language": "JavaScript",
             "last_commit": "2022-07-10T19:20:42Z",
             "owner": "Zulko",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76463651,
             "language": "TypeScript",
             "last_commit": "2026-07-31T10:33:04Z",
             "owner": "Akryum",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70445310,
             "language": "JavaScript",
             "last_commit": "2022-12-07T23:04:30Z",
             "owner": "ElemeFE",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66696928,
             "language": "Vue",
             "last_commit": "2022-02-12T07:36:40Z",
             "owner": "wangdahoo",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47816884,
             "language": "JavaScript",
             "last_commit": "2023-11-18T15:05:15Z",
             "owner": "ElemeFE",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79314248,
             "language": "Vue",
             "last_commit": "2026-07-27T13:15:15Z",
             "owner": "ydcss",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59257347,
             "language": "Vue",
             "last_commit": "2026-08-12T16:34:59Z",
             "owner": "lian-yue",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58442415,
             "language": "JavaScript",
             "last_commit": "2023-09-19T09:33:23Z",
             "owner": "PeachScript",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52266845,
             "language": "JavaScript",
             "last_commit": "2024-07-09T15:37:08Z",
             "owner": "charliekassel",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75029275,
             "language": "JavaScript",
             "last_commit": "2026-08-11T08:48:10Z",
             "owner": "davidroyer",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69530328,
             "language": "TypeScript",
             "last_commit": "2024-08-01T07:06:28Z",
             "owner": "NightCatSama",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78600743,
             "language": "Vue",
             "last_commit": "2023-01-12T08:24:55Z",
             "owner": "Dafrok",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51736849,
             "language": "Vue",
             "last_commit": "2018-01-19T08:41:58Z",
             "owner": "MopTym",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65170293,
             "language": "JavaScript",
             "last_commit": "2024-03-06T08:45:27Z",
             "owner": "FE-Driver",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76937227,
             "language": "JavaScript",
             "last_commit": "2022-12-03T15:41:52Z",
             "owner": "dai-siki",
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63537564,
             "language": "JavaScript",
             "last_commit": "2022-12-10T20:27:42Z",
             "owner": "egoist",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64359813,
             "language": "Vue",
             "last_commit": "2024-03-28T02:06:09Z",
             "owner": "rowanwins",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55744946,
             "language": "Vue",
             "last_commit": "2018-08-21T04:35:49Z",
             "owner": "ratiw",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41623844,
             "language": "Vue",
             "last_commit": "2024-06-11T20:47:49Z",
             "owner": "Coffcer",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68451869,
             "language": "JavaScript",
             "last_commit": "2020-02-17T08:05:17Z",
             "owner": "wangdahoo",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78825356,
             "language": "Vue",
             "last_commit": "2020-09-16T07:44:07Z",
             "owner": "SimonZhangITer",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77820661,
             "language": "Vue",
             "last_commit": "2025-06-08T00:57:37Z",
             "owner": "chenz24",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 68045914,
             "language": "JavaScript",
             "last_commit": "2021-11-26T06:49:37Z",
             "owner": "matfish2",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62790563,
             "language": "JavaScript",
             "last_commit": "2021-07-09T14:15:54Z",
             "owner": "Wanderxx",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26773986,
             "language": null,
             "last_commit": "2023-10-30T07:25:41Z",
             "owner": "vuejs",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50559652,
             "language": "JavaScript",
             "last_commit": "2024-03-10T04:29:15Z",
             "owner": "hilongjw",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89562316,
             "language": "JavaScript",
             "last_commit": "2024-03-16T15:58:36Z",
             "owner": "creotip",
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86926929,
             "language": "JavaScript",
             "last_commit": "2020-03-30T10:47:01Z",
             "owner": "hilongjw",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48101056,
             "language": "Vue",
             "last_commit": "2021-07-09T14:18:15Z",
             "owner": "jinzhe",
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 71474933,
             "language": "JavaScript",
             "last_commit": "2024-01-09T16:25:55Z",
             "owner": "nicolasbeauvais",
@@ -738,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67475809,
             "language": "Vue",
             "last_commit": "2024-08-27T20:40:45Z",
             "owner": "Vanthink-UED",
@@ -752,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78957596,
             "language": "CSS",
             "last_commit": "2017-02-09T15:01:52Z",
             "owner": "OYsun",
@@ -766,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84595218,
             "language": "JavaScript",
             "last_commit": "2022-12-06T23:16:14Z",
             "owner": "QingWei-Li",
@@ -780,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85544646,
             "language": "JavaScript",
             "last_commit": "2026-04-27T08:58:22Z",
             "owner": "ecomfe",
@@ -794,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76699330,
             "language": "JavaScript",
             "last_commit": "2023-06-26T08:55:01Z",
             "owner": "njleonzhang",
@@ -808,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81604054,
             "language": "Vue",
             "last_commit": "2026-08-12T00:31:45Z",
             "owner": "Wlada",
@@ -822,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89237130,
             "language": "Vue",
             "last_commit": "2017-05-10T12:45:02Z",
             "owner": "microzz",
@@ -836,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61286619,
             "language": "JavaScript",
             "last_commit": "2023-08-21T22:19:31Z",
             "owner": "PeakTai",
@@ -850,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65403965,
             "language": "Vue",
             "last_commit": "2022-12-09T20:25:27Z",
             "owner": "warpcgd",
@@ -864,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47816524,
             "language": "Vue",
             "last_commit": "2019-10-15T00:59:50Z",
             "owner": "ElemeFE",
@@ -878,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82665523,
             "language": "TypeScript",
             "last_commit": "2024-02-21T02:37:45Z",
             "owner": "MMF-FE",
@@ -892,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76919786,
             "language": "JavaScript",
             "last_commit": "2025-11-14T06:55:00Z",
             "owner": "xlsdg",
@@ -906,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65465229,
             "language": "Vue",
             "last_commit": "2018-05-30T15:34:52Z",
             "owner": "luojilab",
@@ -920,6 +985,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82540897,
             "language": "Vue",
             "last_commit": "2026-08-18T11:58:16Z",
             "owner": "alessiomaffeis",
@@ -934,6 +1000,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65694932,
             "language": "Vue",
             "last_commit": "2016-11-15T06:43:13Z",
             "owner": "myronliu347",
@@ -948,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80282421,
             "language": "CSS",
             "last_commit": "2019-12-17T10:53:50Z",
             "owner": "OYsun",
@@ -962,6 +1030,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85266395,
             "language": "Vue",
             "last_commit": "2021-03-11T08:35:25Z",
             "owner": "Awheat",
@@ -976,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89729942,
             "language": "Vue",
             "last_commit": "2018-01-09T10:15:51Z",
             "owner": "jsmmth",
@@ -990,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76760815,
             "language": "Vue",
             "last_commit": "2020-03-22T18:57:26Z",
             "owner": "cngu",
@@ -1004,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78718184,
             "language": "JavaScript",
             "last_commit": "2022-06-03T09:04:20Z",
             "owner": "lokyoung",
@@ -1018,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77827411,
             "language": "Vue",
             "last_commit": "2023-03-04T03:26:46Z",
             "owner": "F-loat",
@@ -1032,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73891624,
             "language": "JavaScript",
             "last_commit": "2018-12-12T14:05:44Z",
             "owner": "hilongjw",
@@ -1046,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72378378,
             "language": "JavaScript",
             "last_commit": "2026-06-29T04:57:35Z",
             "owner": "ankane",
@@ -1060,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78198825,
             "language": "JavaScript",
             "last_commit": "2024-12-12T21:46:09Z",
             "owner": "gilbitron",
@@ -1074,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83697037,
             "language": "Vue",
             "last_commit": "2023-01-11T22:25:28Z",
             "owner": "visma-meglerfront",
@@ -1088,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84845268,
             "language": "Vue",
             "last_commit": "2017-09-25T03:02:36Z",
             "owner": "microzz",
@@ -1102,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80320133,
             "language": "TypeScript",
             "last_commit": "2026-08-01T20:39:53Z",
             "owner": "MatteoGabriele",
@@ -1116,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55619351,
             "language": "JavaScript",
             "last_commit": "2020-08-21T15:45:06Z",
             "owner": "sagalbot",
@@ -1130,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49931909,
             "language": "Vue",
             "last_commit": "2022-02-28T04:11:52Z",
             "owner": "hilongjw",
@@ -1144,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78943801,
             "language": "JavaScript",
             "last_commit": "2023-03-06T17:28:07Z",
             "owner": "craigh411",
@@ -1158,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59802364,
             "language": "Vue",
             "last_commit": "2023-10-31T11:35:05Z",
             "owner": "hifarer",
@@ -1172,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75699129,
             "language": "Vue",
             "last_commit": "2023-03-01T19:03:14Z",
             "owner": "GeoffZhu",
@@ -1186,6 +1270,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90276836,
             "language": "JavaScript",
             "last_commit": "2018-10-24T11:22:18Z",
             "owner": "spatie",
@@ -1200,6 +1285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72110506,
             "language": "Vue",
             "last_commit": "2023-07-20T15:30:20Z",
             "owner": "staskjs",
@@ -1214,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52541340,
             "language": "JavaScript",
             "last_commit": "2021-01-06T11:40:45Z",
             "owner": "TahaSh",
@@ -1228,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48057155,
             "language": "Vue",
             "last_commit": "2018-08-15T13:10:54Z",
             "owner": "GuillaumeLeclerc",
@@ -1242,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82367007,
             "language": "Vue",
             "last_commit": "2019-09-06T05:03:40Z",
             "owner": "waynecz",
@@ -1256,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49821343,
             "language": "Vue",
             "last_commit": "2018-05-15T07:02:38Z",
             "owner": "jrainlau",
@@ -1270,6 +1360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71581500,
             "language": "JavaScript",
             "last_commit": "2022-12-07T01:04:46Z",
             "owner": "egoist",
@@ -1284,6 +1375,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52215589,
             "language": "JavaScript",
             "last_commit": "2018-04-25T11:03:46Z",
             "owner": "Zhangdroid",
@@ -1298,6 +1390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71651993,
             "language": "JavaScript",
             "last_commit": "2024-08-31T00:38:40Z",
             "owner": "icai",
@@ -1312,6 +1405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86129554,
             "language": "Vue",
             "last_commit": "2021-07-23T02:16:08Z",
             "owner": "ovenslove",
@@ -1326,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71558166,
             "language": "TypeScript",
             "last_commit": "2023-01-27T13:28:18Z",
             "owner": "tianyong90",
@@ -1340,6 +1435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69447801,
             "language": "TypeScript",
             "last_commit": "2023-01-24T16:25:15Z",
             "owner": "surmon-china",
@@ -1354,6 +1450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82283573,
             "language": "Vue",
             "last_commit": "2026-08-10T22:40:28Z",
             "owner": "fitzhavey",
@@ -1368,6 +1465,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64202317,
             "language": "Vue",
             "last_commit": "2020-10-17T23:11:40Z",
             "owner": "CroudTech",
@@ -1382,6 +1480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89768574,
             "language": "Vue",
             "last_commit": "2018-12-22T02:14:31Z",
             "owner": "jkchao",
@@ -1396,6 +1495,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71625714,
             "language": "Vue",
             "last_commit": "2022-09-23T02:22:55Z",
             "owner": "phoenixwong",
@@ -1410,6 +1510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77713683,
             "language": "Vue",
             "last_commit": "2023-03-02T19:57:36Z",
             "owner": "santiblanko",
@@ -1424,6 +1525,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78689257,
             "language": "JavaScript",
             "last_commit": "2019-07-24T02:14:34Z",
             "owner": "coderdiaz",
@@ -1438,6 +1540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70497892,
             "language": "JavaScript",
             "last_commit": "2020-09-18T17:49:08Z",
             "owner": "weizhenye",
@@ -1452,6 +1555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79110868,
             "language": "CSS",
             "last_commit": "2024-03-28T17:38:03Z",
             "owner": "chenjiahan",
@@ -1466,6 +1570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88009755,
             "language": "Vue",
             "last_commit": "2019-07-12T05:58:18Z",
             "owner": "hzzly",
@@ -1480,6 +1585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57106699,
             "language": "JavaScript",
             "last_commit": "2021-03-24T10:56:30Z",
             "owner": "Astray-git",
@@ -1494,6 +1600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65568646,
             "language": "JavaScript",
             "last_commit": "2024-03-07T07:26:01Z",
             "owner": "shhdgit",
@@ -1508,6 +1615,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70677157,
             "language": "Vue",
             "last_commit": "2020-04-29T02:16:31Z",
             "owner": "GimmyHchs",
@@ -1522,6 +1630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43632175,
             "language": "JavaScript",
             "last_commit": "2018-12-05T14:01:15Z",
             "owner": "Haixing-Hu",
@@ -1536,6 +1645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66568718,
             "language": "JavaScript",
             "last_commit": "2017-08-25T02:34:50Z",
             "owner": "hejianxian",
@@ -1550,6 +1660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87601935,
             "language": "CSS",
             "last_commit": "2018-12-21T09:26:58Z",
             "owner": "jkchao",
@@ -1564,6 +1675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61721231,
             "language": "Vue",
             "last_commit": "2018-09-18T15:14:30Z",
             "owner": "hilongjw",
@@ -1578,6 +1690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58606839,
             "language": "Vue",
             "last_commit": "2016-10-28T15:08:14Z",
             "owner": "mint-ui",
@@ -1592,6 +1705,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 71574087,
             "language": "Vue",
             "last_commit": "2022-08-02T09:41:27Z",
             "owner": "icebob",
@@ -1606,6 +1720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75591343,
             "language": "JavaScript",
             "last_commit": "2022-12-06T19:47:17Z",
             "owner": "phanan",
@@ -1620,6 +1735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92636826,
             "language": "Vue",
             "last_commit": "2023-03-04T01:26:24Z",
             "owner": "xaksis",
@@ -1634,6 +1750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77287804,
             "language": "Vue",
             "last_commit": "2018-03-05T07:05:26Z",
             "owner": "ccforward",
@@ -1648,6 +1765,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58324411,
             "language": "Vue",
             "last_commit": "2020-01-02T01:56:28Z",
             "owner": "ValorLin",
@@ -1662,6 +1780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91068883,
             "language": "JavaScript",
             "last_commit": "2021-02-04T09:14:50Z",
             "owner": "PygmySlowLoris",
@@ -1676,6 +1795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82662634,
             "language": "Vue",
             "last_commit": "2017-03-14T16:08:19Z",
             "owner": "LucienLee",
@@ -1690,6 +1810,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71417301,
             "language": "JavaScript",
             "last_commit": "2017-01-12T14:05:03Z",
             "owner": "BosNaufal",
@@ -1704,6 +1825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56170563,
             "language": "JavaScript",
             "last_commit": "2018-05-04T11:45:54Z",
             "owner": "wormsan",
@@ -1718,6 +1840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89446035,
             "language": "JavaScript",
             "last_commit": "2019-03-26T05:43:33Z",
             "owner": "wdfe",
@@ -1732,6 +1855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78194012,
             "language": "JavaScript",
             "last_commit": "2022-12-10T16:40:11Z",
             "owner": "bbonnin",
@@ -1746,6 +1870,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75647048,
             "language": "JavaScript",
             "last_commit": "2023-01-12T08:30:24Z",
             "owner": "formly-js",
@@ -1760,6 +1885,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48184118,
             "language": "JavaScript",
             "last_commit": "2016-10-29T07:50:02Z",
             "owner": "ElemeFE",
@@ -1774,6 +1900,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77671894,
             "language": "Vue",
             "last_commit": "2019-02-18T07:16:24Z",
             "owner": "BosNaufal",
@@ -1788,6 +1915,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90373678,
             "language": "Vue",
             "last_commit": "2022-05-16T11:13:24Z",
             "owner": "SinanMtl",
@@ -1802,6 +1930,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77122240,
             "language": "Vue",
             "last_commit": "2017-01-11T03:21:38Z",
             "owner": "vuwe",
@@ -1816,6 +1945,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85858411,
             "language": "Vue",
             "last_commit": "2023-02-28T12:15:07Z",
             "owner": "luiguild",
@@ -1830,6 +1960,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77899385,
             "language": "JavaScript",
             "last_commit": "2017-11-25T02:23:01Z",
             "owner": "littlewin-wang",
@@ -1844,6 +1975,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53724791,
             "language": "JavaScript",
             "last_commit": "2018-02-01T13:27:08Z",
             "owner": "hilongjw",
@@ -1858,6 +1990,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74549742,
             "language": "Vue",
             "last_commit": "2022-12-08T17:15:47Z",
             "owner": "NewDadaFE",
@@ -1872,6 +2005,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85474780,
             "language": "Vue",
             "last_commit": "2023-01-07T09:47:22Z",
             "owner": "yunfeihuang",
@@ -1886,6 +2020,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 82948342,
             "language": "JavaScript",
             "last_commit": "2018-12-24T23:31:01Z",
             "owner": "bartkozal",
@@ -1900,6 +2035,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79461021,
             "language": "JavaScript",
             "last_commit": "2019-03-18T12:01:05Z",
             "owner": "wirecardBrasil",
@@ -1914,6 +2050,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48502005,
             "language": "JavaScript",
             "last_commit": "2017-06-13T02:42:01Z",
             "owner": "QingWei-Li",
@@ -1928,6 +2065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75364593,
             "language": "JavaScript",
             "last_commit": "2018-06-25T03:05:55Z",
             "owner": "alexqdjay",
@@ -1942,6 +2080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78508015,
             "language": "HTML",
             "last_commit": "2022-12-06T23:14:41Z",
             "owner": "saivarunk",
@@ -1956,6 +2095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57936542,
             "language": "HTML",
             "last_commit": "2016-10-25T11:02:48Z",
             "owner": "ElemeFE",
@@ -1970,6 +2110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72504964,
             "language": "Vue",
             "last_commit": "2018-07-16T07:25:42Z",
             "owner": "lisiyizu",
@@ -1984,6 +2125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55840262,
             "language": "JavaScript",
             "last_commit": "2016-10-20T10:26:29Z",
             "owner": "Coffcer",
@@ -1998,6 +2140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69225117,
             "language": "JavaScript",
             "last_commit": "2018-12-05T03:42:40Z",
             "owner": "bajian",
@@ -2012,6 +2155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74441354,
             "language": "Vue",
             "last_commit": "2017-03-06T15:35:51Z",
             "owner": "xinxingyu",
@@ -2026,6 +2170,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 66148768,
             "language": "Vue",
             "last_commit": "2016-10-30T06:07:51Z",
             "owner": "galenyuan",
@@ -2040,6 +2185,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 53732389,
             "language": "Vue",
             "last_commit": "2019-02-19T08:52:29Z",
             "owner": "CroudTech",
@@ -2054,6 +2200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58300726,
             "language": "Vue",
             "last_commit": "2016-09-29T22:49:27Z",
             "owner": "BosNaufal",
@@ -2068,6 +2215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63055392,
             "language": "Vue",
             "last_commit": "2017-11-18T17:42:50Z",
             "owner": "vue-bulma",
@@ -2082,6 +2230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58896080,
             "language": "JavaScript",
             "last_commit": "2017-10-11T07:33:06Z",
             "owner": "weifeiyue",
@@ -2096,6 +2245,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50108198,
             "language": "Vue",
             "last_commit": "2019-10-24T04:36:42Z",
             "owner": "8788",
@@ -2110,6 +2260,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76916560,
             "language": "JavaScript",
             "last_commit": "2017-11-03T15:36:36Z",
             "owner": "fangyongbao",
@@ -2124,6 +2275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65224661,
             "language": "Vue",
             "last_commit": "2019-10-02T01:02:38Z",
             "owner": "jbaysolutions",
@@ -2138,6 +2290,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62205333,
             "language": "Vue",
             "last_commit": "2021-03-08T02:52:40Z",
             "owner": "legeneek",
@@ -2152,6 +2305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56017428,
             "language": "Vue",
             "last_commit": "2016-10-29T10:40:37Z",
             "owner": "vue-comps",
@@ -2166,6 +2320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71475132,
             "language": "JavaScript",
             "last_commit": "2017-04-26T03:14:06Z",
             "owner": "weibangtuo",
@@ -2180,6 +2335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62188326,
             "language": "JavaScript",
             "last_commit": "2017-11-14T04:25:25Z",
             "owner": "blue0728",
@@ -2194,6 +2350,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83298390,
             "language": "Vue",
             "last_commit": "2017-05-25T13:02:52Z",
             "owner": "ShanaMaid",
@@ -2208,6 +2365,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57951346,
             "language": "Vue",
             "last_commit": "2018-05-25T05:49:39Z",
             "owner": "Ginhing",
@@ -2222,6 +2380,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68079430,
             "language": "Vue",
             "last_commit": "2016-10-20T02:44:59Z",
             "owner": "yunyi1895",
@@ -2236,6 +2395,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67177547,
             "language": "JavaScript",
             "last_commit": "2016-09-09T02:09:16Z",
             "owner": "myronliu347",
@@ -2250,6 +2410,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16946886,
             "language": "JavaScript",
             "last_commit": "2014-02-18T15:52:13Z",
             "owner": "lithiumjake",
@@ -2264,6 +2425,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58120303,
             "language": "Vue",
             "last_commit": "2018-01-22T11:49:15Z",
             "owner": "mint-ui",
@@ -2278,6 +2440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63356853,
             "language": "Vue",
             "last_commit": "2018-05-19T00:38:45Z",
             "owner": "vue-bulma",
@@ -2292,6 +2455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76109468,
             "language": "Vue",
             "last_commit": "2021-05-26T21:55:57Z",
             "owner": "darrynten",
@@ -2306,6 +2470,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 53679463,
             "language": "HTML",
             "last_commit": "2017-10-21T21:55:42Z",
             "owner": "kocisov",
@@ -2320,6 +2485,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58705984,
             "language": "JavaScript",
             "last_commit": "2018-07-09T00:36:14Z",
             "owner": "Teddy-Zhu",
@@ -2334,6 +2500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70860401,
             "language": "JavaScript",
             "last_commit": "2019-04-28T03:15:36Z",
             "owner": "dai-siki",
@@ -2348,6 +2515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70282613,
             "language": "JavaScript",
             "last_commit": "2023-01-12T08:33:37Z",
             "owner": "matfish2",
@@ -2362,6 +2530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62610332,
             "language": "JavaScript",
             "last_commit": "2017-08-31T09:43:06Z",
             "owner": "shiye515",
@@ -2376,6 +2545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55700247,
             "language": "Vue",
             "last_commit": "2017-03-24T12:11:47Z",
             "owner": "vue-comps",
@@ -2390,6 +2560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58752921,
             "language": "JavaScript",
             "last_commit": "2016-10-29T16:07:56Z",
             "owner": "miaolz123",
@@ -2404,6 +2575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58217266,
             "language": "Vue",
             "last_commit": "2017-07-15T10:03:13Z",
             "owner": "BosNaufal",
@@ -2418,6 +2590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56121928,
             "language": "JavaScript",
             "last_commit": "2018-04-02T08:21:20Z",
             "owner": "Teddy-Zhu",
@@ -2432,6 +2605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71983760,
             "language": "JavaScript",
             "last_commit": "2019-09-08T12:36:22Z",
             "owner": "aweiu",
@@ -2446,6 +2620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67153113,
             "language": "Vue",
             "last_commit": "2017-03-04T23:04:37Z",
             "owner": "vue-bulma",
@@ -2460,6 +2635,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71472764,
             "language": "Vue",
             "last_commit": "2018-07-10T14:13:49Z",
             "owner": "JackGit",
@@ -2474,6 +2650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56024681,
             "language": "JavaScript",
             "last_commit": "2016-05-19T06:38:16Z",
             "owner": "suguangwen",
@@ -2488,6 +2665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75201641,
             "language": "JavaScript",
             "last_commit": "2016-12-06T13:50:12Z",
             "owner": "doodlewind",
@@ -2502,6 +2680,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 72603943,
             "language": "Vue",
             "last_commit": "2017-06-16T08:09:13Z",
             "owner": "ik0r",
@@ -2516,6 +2695,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 68704475,
             "language": "Vue",
             "last_commit": "2018-04-06T02:16:36Z",
             "owner": "eduardostuart",
@@ -2530,6 +2710,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70777511,
             "language": "JavaScript",
             "last_commit": "2018-01-24T03:29:54Z",
             "owner": "savokiss",
@@ -2544,6 +2725,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81448022,
             "language": "Vue",
             "last_commit": "2019-09-02T08:56:05Z",
             "owner": "sinchang",
@@ -2558,6 +2740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74272756,
             "language": "JavaScript",
             "last_commit": "2016-11-22T03:36:07Z",
             "owner": "steven5538",
@@ -2572,6 +2755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72703000,
             "language": "Vue",
             "last_commit": "2017-01-12T02:37:28Z",
             "owner": "yeseason",
@@ -2586,48 +2770,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71201613,
             "language": "Vue",
             "last_commit": "2017-06-14T08:13:36Z",
             "owner": "ibufu",
             "repo": "dd-vue-component",
             "stars": 12
           }
-        },
-        {
-          "node_type": "item",
-          "title": "vue-material",
-          "description": "★3328 - 通过Vue Material和Vue 2建立精美的app应用",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-keynote",
-          "description": "★73 - 实现声明性代码幻灯片",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-radial-progress",
-          "description": "★65 - Vue.js放射性进度条组件",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "cxlt-vue2-toastr",
-          "description": "★52 - 弹出提示的Vue2组件",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-material-design",
-          "description": "★34 - Vue MD风格组件",
-          "children": []
         }
       ],
       "title": "UI组件"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2636,11 +2791,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11730342,
             "language": "TypeScript",
             "last_commit": "2024-10-10T07:24:15Z",
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210237
+            "stars": 210239
           }
         },
         {
@@ -2650,11 +2806,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88464704,
             "language": "Vue",
             "last_commit": "2024-10-24T11:25:46Z",
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90205
+            "stars": 90207
           }
         },
         {
@@ -2664,8 +2821,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43695474,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T16:44:55Z",
+            "last_commit": "2026-08-19T12:00:43Z",
             "owner": "quasarframework",
             "repo": "quasar",
             "stars": 27205
@@ -2678,6 +2836,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58616946,
             "language": "JavaScript",
             "last_commit": "2022-01-14T15:11:42Z",
             "owner": "SimulatedGREG",
@@ -2692,6 +2851,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60311506,
             "language": null,
             "last_commit": "2020-04-06T12:06:14Z",
             "owner": "vue-bulma",
@@ -2706,6 +2866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46028717,
             "language": "JavaScript",
             "last_commit": "2022-06-26T06:50:33Z",
             "owner": "egoist",
@@ -2720,6 +2881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82142712,
             "language": "PHP",
             "last_commit": "2019-03-05T03:09:28Z",
             "owner": "honraytech",
@@ -2734,6 +2896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81933178,
             "language": "Vue",
             "last_commit": "2025-03-26T01:48:22Z",
             "owner": "devjin0617",
@@ -2748,6 +2911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65902952,
             "language": "Vue",
             "last_commit": "2018-12-15T06:58:59Z",
             "owner": "N3-components",
@@ -2762,6 +2926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65889120,
             "language": "JavaScript",
             "last_commit": "2022-12-10T17:03:12Z",
             "owner": "petervmeijgaard",
@@ -2776,6 +2941,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70493457,
             "language": "Vue",
             "last_commit": "2018-07-09T14:24:06Z",
             "owner": "framework7io",
@@ -2790,6 +2956,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70915986,
             "language": "JavaScript",
             "last_commit": "2017-05-03T03:42:28Z",
             "owner": "annnhan",
@@ -2804,6 +2971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84285216,
             "language": "Vue",
             "last_commit": "2018-02-08T03:51:55Z",
             "owner": "shenghy",
@@ -2818,6 +2986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76627910,
             "language": "Vue",
             "last_commit": "2018-09-05T14:30:14Z",
             "owner": "andrewcourtice",
@@ -2832,6 +3001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70542119,
             "language": "Vue",
             "last_commit": "2017-03-25T14:25:38Z",
             "owner": "wangxg2016",
@@ -2846,6 +3016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61994384,
             "language": "JavaScript",
             "last_commit": "2018-04-16T17:55:09Z",
             "owner": "erguotou520",
@@ -2860,6 +3031,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 81698236,
             "language": "JavaScript",
             "last_commit": "2018-12-12T07:05:59Z",
             "owner": "Metnew",
@@ -2874,6 +3046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65040090,
             "language": "JavaScript",
             "last_commit": "2017-02-02T16:19:18Z",
             "owner": "cklmercer",
@@ -2888,6 +3061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47741163,
             "language": "JavaScript",
             "last_commit": "2017-09-13T16:48:35Z",
             "owner": "threeaccents",
@@ -2902,30 +3076,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134828887,
             "language": "HTML",
             "last_commit": "2018-05-25T08:45:26Z",
             "owner": "cristijora",
             "repo": "vue-paper-dashboard",
             "stars": 26
           }
-        },
-        {
-          "node_type": "item",
-          "title": "vuemin",
-          "description": "★17 - 基于Vue的企业级前端开发框架",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-team-template",
-          "description": "★12 - 一种构建vue项目的选择方案",
-          "children": []
         }
       ],
       "title": "开发框架"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2934,6 +3097,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39176269,
             "language": "JavaScript",
             "last_commit": "2024-09-25T13:26:41Z",
             "owner": "vuejs",
@@ -2948,6 +3112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49623638,
             "language": "JavaScript",
             "last_commit": "2023-06-30T06:57:44Z",
             "owner": "hilongjw",
@@ -2962,6 +3127,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19382828,
             "language": "JavaScript",
             "last_commit": "2024-12-31T15:15:58Z",
             "owner": "kazupon",
@@ -2976,6 +3142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72931382,
             "language": "JavaScript",
             "last_commit": "2025-06-10T10:49:50Z",
             "owner": "vuelidate",
@@ -2990,6 +3157,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 49648180,
             "language": "TypeScript",
             "last_commit": "2023-04-11T05:28:16Z",
             "owner": "kaorun343",
@@ -3004,6 +3172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24700171,
             "language": "TypeScript",
             "last_commit": "2024-08-07T07:28:11Z",
             "owner": "vuejs",
@@ -3018,6 +3187,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 72311680,
             "language": "JavaScript",
             "last_commit": "2025-09-25T17:50:31Z",
             "owner": "nuxt",
@@ -3032,6 +3202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58210518,
             "language": "JavaScript",
             "last_commit": "2023-02-09T02:18:05Z",
             "owner": "MetinSeylan",
@@ -3046,6 +3217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77739535,
             "language": "Vue",
             "last_commit": "2023-11-25T19:14:42Z",
             "owner": "LinusBorg",
@@ -3060,6 +3232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55218353,
             "language": "JavaScript",
             "last_commit": "2026-08-01T12:07:54Z",
             "owner": "Justineo",
@@ -3074,6 +3247,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15117001,
             "language": "JavaScript",
             "last_commit": "2017-12-25T10:57:43Z",
             "owner": "kazupon",
@@ -3088,6 +3262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55913375,
             "language": "JavaScript",
             "last_commit": "2023-08-16T09:34:20Z",
             "owner": "rigor789",
@@ -3102,6 +3277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71871673,
             "language": "JavaScript",
             "last_commit": "2024-06-18T15:37:24Z",
             "owner": "imcvampire",
@@ -3116,6 +3292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77232800,
             "language": "JavaScript",
             "last_commit": "2022-11-08T02:15:08Z",
             "owner": "Akryum",
@@ -3130,6 +3307,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80741549,
             "language": "JavaScript",
             "last_commit": "2024-06-30T11:54:56Z",
             "owner": "FranckFreiburger",
@@ -3144,6 +3322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86714667,
             "language": "JavaScript",
             "last_commit": "2024-03-14T17:33:56Z",
             "owner": "dgrubelic",
@@ -3158,6 +3337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74473078,
             "language": "Vue",
             "last_commit": "2026-08-19T02:16:40Z",
             "owner": "SevenOutman",
@@ -3172,6 +3352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60439154,
             "language": "JavaScript",
             "last_commit": "2023-06-08T22:12:04Z",
             "owner": "ktquez",
@@ -3186,6 +3367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83400754,
             "language": "JavaScript",
             "last_commit": "2026-08-19T02:40:26Z",
             "owner": "uiv-lib",
@@ -3200,6 +3382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73330692,
             "language": "JavaScript",
             "last_commit": "2024-03-15T05:53:02Z",
             "owner": "fgr-araujo",
@@ -3214,6 +3397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59831190,
             "language": "JavaScript",
             "last_commit": "2023-05-17T02:20:08Z",
             "owner": "meteor-vue",
@@ -3228,6 +3412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77316374,
             "language": "JavaScript",
             "last_commit": "2022-12-06T16:05:18Z",
             "owner": "QingWei-Li",
@@ -3242,6 +3427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78473918,
             "language": "JavaScript",
             "last_commit": "2022-12-07T01:23:01Z",
             "owner": "eddyerburgh",
@@ -3256,6 +3442,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 58115472,
             "language": "JavaScript",
             "last_commit": "2021-05-27T08:29:56Z",
             "owner": "egoist",
@@ -3270,6 +3457,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 69965960,
             "language": "TypeScript",
             "last_commit": "2026-03-18T22:46:48Z",
             "owner": "se-panfilov",
@@ -3284,6 +3472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67285897,
             "language": "JavaScript",
             "last_commit": "2023-01-03T20:39:42Z",
             "owner": "pinguinjkeke",
@@ -3298,6 +3487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70233312,
             "language": "JavaScript",
             "last_commit": "2023-01-03T19:01:22Z",
             "owner": "dkfbasel",
@@ -3312,6 +3502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76790473,
             "language": "JavaScript",
             "last_commit": "2022-12-06T23:14:15Z",
             "owner": "apertureless",
@@ -3326,6 +3517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90286999,
             "language": "JavaScript",
             "last_commit": "2018-11-01T19:36:02Z",
             "owner": "israelss",
@@ -3340,6 +3532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78948861,
             "language": "Vue",
             "last_commit": "2026-01-23T10:09:03Z",
             "owner": "apertureless",
@@ -3354,6 +3547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76828839,
             "language": "JavaScript",
             "last_commit": "2018-04-08T04:25:23Z",
             "owner": "cenkai88",
@@ -3368,6 +3562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80455431,
             "language": "JavaScript",
             "last_commit": "2021-08-16T05:15:20Z",
             "owner": "xanf",
@@ -3382,6 +3577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45233799,
             "language": "Vue",
             "last_commit": "2022-02-11T13:47:38Z",
             "owner": "ElemeFE",
@@ -3396,6 +3592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81789440,
             "language": "JavaScript",
             "last_commit": "2026-01-21T12:23:33Z",
             "owner": "RobinCK",
@@ -3410,6 +3607,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 73479603,
             "language": "JavaScript",
             "last_commit": "2018-09-02T11:49:00Z",
             "owner": "icebob",
@@ -3424,6 +3622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76510980,
             "language": "TypeScript",
             "last_commit": "2026-08-11T20:17:39Z",
             "owner": "vuejs",
@@ -3438,6 +3637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91758686,
             "language": "JavaScript",
             "last_commit": "2018-10-24T05:47:27Z",
             "owner": "lzxb",
@@ -3452,6 +3652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48305706,
             "language": "JavaScript",
             "last_commit": "2021-04-18T05:27:35Z",
             "owner": "simplesmiler",
@@ -3466,6 +3667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87927675,
             "language": "JavaScript",
             "last_commit": "2023-01-12T06:33:45Z",
             "owner": "lyonlai",
@@ -3480,6 +3682,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79571787,
             "language": "JavaScript",
             "last_commit": "2020-09-04T23:30:23Z",
             "owner": "leonardovilarinho",
@@ -3494,6 +3697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59546304,
             "language": "JavaScript",
             "last_commit": "2018-09-26T22:53:53Z",
             "owner": "kartsims",
@@ -3508,6 +3712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77872525,
             "language": "JavaScript",
             "last_commit": "2020-03-23T19:49:23Z",
             "owner": "David-Desmaisons",
@@ -3522,6 +3727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73798481,
             "language": "JavaScript",
             "last_commit": "2019-12-20T08:22:41Z",
             "owner": "lynzz",
@@ -3536,6 +3742,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83591638,
             "language": "JavaScript",
             "last_commit": "2018-11-30T10:17:46Z",
             "owner": "JiriChara",
@@ -3550,6 +3757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73187284,
             "language": "JavaScript",
             "last_commit": "2023-03-04T03:27:03Z",
             "owner": "yangmingshan",
@@ -3564,6 +3772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60203511,
             "language": "JavaScript",
             "last_commit": "2019-10-10T00:27:07Z",
             "owner": "SimulatedGREG",
@@ -3578,6 +3787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81069060,
             "language": "JavaScript",
             "last_commit": "2018-07-13T16:38:17Z",
             "owner": "superman66",
@@ -3592,6 +3802,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 82245297,
             "language": "JavaScript",
             "last_commit": "2018-08-02T04:29:44Z",
             "owner": "xtongs",
@@ -3606,6 +3817,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 65210535,
             "language": "JavaScript",
             "last_commit": "2019-02-25T15:44:32Z",
             "owner": "cklmercer",
@@ -3620,6 +3832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77235243,
             "language": "Vue",
             "last_commit": "2025-06-07T00:34:02Z",
             "owner": "HeftyKoo",
@@ -3634,6 +3847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77749979,
             "language": "JavaScript",
             "last_commit": "2019-10-29T18:16:34Z",
             "owner": "thetutlage",
@@ -3648,6 +3862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89644558,
             "language": "JavaScript",
             "last_commit": "2018-06-04T15:50:22Z",
             "owner": "wrseward",
@@ -3662,6 +3877,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 66722564,
             "language": "JavaScript",
             "last_commit": "2021-11-26T06:55:43Z",
             "owner": "matfish2",
@@ -3676,6 +3892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55311572,
             "language": "CSS",
             "last_commit": "2017-08-28T15:26:35Z",
             "owner": "haydenbbickerton",
@@ -3690,6 +3907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58638214,
             "language": "JavaScript",
             "last_commit": "2017-06-28T07:51:14Z",
             "owner": "xiaokaike",
@@ -3704,6 +3922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54107008,
             "language": "Vue",
             "last_commit": "2017-04-17T10:33:52Z",
             "owner": "Coffcer",
@@ -3718,6 +3937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54968452,
             "language": "JavaScript",
             "last_commit": "2018-06-14T07:22:06Z",
             "owner": "mlyknown",
@@ -3732,6 +3952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77718675,
             "language": "JavaScript",
             "last_commit": "2021-07-03T22:35:29Z",
             "owner": "David-Desmaisons",
@@ -3746,6 +3967,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80557791,
             "language": "JavaScript",
             "last_commit": "2023-04-18T04:21:32Z",
             "owner": "gocanto",
@@ -3760,6 +3982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20390613,
             "language": "JavaScript",
             "last_commit": "2015-12-29T19:43:57Z",
             "owner": "zhouzhuojie",
@@ -3774,6 +3997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70089015,
             "language": "JavaScript",
             "last_commit": "2018-06-14T00:57:03Z",
             "owner": "rop7",
@@ -3788,6 +4012,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77051747,
             "language": "JavaScript",
             "last_commit": "2022-05-09T02:52:41Z",
             "owner": "surmon-china",
@@ -3802,6 +4027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74564900,
             "language": "Vue",
             "last_commit": "2020-08-25T08:59:40Z",
             "owner": "Sopamo",
@@ -3816,6 +4042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63770564,
             "language": "JavaScript",
             "last_commit": "2017-02-13T03:41:13Z",
             "owner": "repairearth",
@@ -3830,6 +4057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52066607,
             "language": "JavaScript",
             "last_commit": "2022-12-10T01:30:48Z",
             "owner": "AStaroverov",
@@ -3844,6 +4072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63875853,
             "language": "Vue",
             "last_commit": "2018-12-14T12:04:21Z",
             "owner": "vue-bulma",
@@ -3858,6 +4087,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 55838020,
             "language": "Vue",
             "last_commit": "2018-07-11T06:13:29Z",
             "owner": "lmk123",
@@ -3872,6 +4102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73137167,
             "language": "JavaScript",
             "last_commit": "2016-11-08T01:31:48Z",
             "owner": "HerringtonDarkholme",
@@ -3886,6 +4117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87102570,
             "language": "JavaScript",
             "last_commit": "2019-02-03T08:06:56Z",
             "owner": "ElderJames",
@@ -3900,6 +4132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67865483,
             "language": "JavaScript",
             "last_commit": "2016-10-27T02:32:27Z",
             "owner": "Coffcer",
@@ -3914,6 +4147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79397278,
             "language": "JavaScript",
             "last_commit": "2017-11-18T02:07:33Z",
             "owner": "Vuedeux",
@@ -3928,6 +4162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58213691,
             "language": "JavaScript",
             "last_commit": "2016-06-28T14:05:12Z",
             "owner": "miaolz123",
@@ -3942,6 +4177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72676817,
             "language": "HTML",
             "last_commit": "2016-11-03T17:27:30Z",
             "owner": "gocanto",
@@ -3956,6 +4192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65781941,
             "language": "JavaScript",
             "last_commit": "2018-04-22T18:54:19Z",
             "owner": "imcvampire",
@@ -3970,6 +4207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63351226,
             "language": "Vue",
             "last_commit": "2018-05-09T19:16:35Z",
             "owner": "vue-bulma",
@@ -3984,6 +4222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57898920,
             "language": "Vue",
             "last_commit": "2019-01-22T11:49:48Z",
             "owner": "BosNaufal",
@@ -3998,6 +4237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82754353,
             "language": "JavaScript",
             "last_commit": "2017-03-29T14:11:33Z",
             "owner": "lzxb",
@@ -4012,6 +4252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73018381,
             "language": "JavaScript",
             "last_commit": "2020-01-29T05:08:01Z",
             "owner": "richardanaya",
@@ -4026,6 +4267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90724018,
             "language": "JavaScript",
             "last_commit": "2017-05-10T23:45:20Z",
             "owner": "wakeupmypig",
@@ -4040,6 +4282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56278796,
             "language": "Vue",
             "last_commit": "2016-10-26T16:58:55Z",
             "owner": "vue-comps",
@@ -4054,6 +4297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75607475,
             "language": "JavaScript",
             "last_commit": "2017-01-09T06:18:18Z",
             "owner": "LeoHuiyi",
@@ -4068,6 +4312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72347965,
             "language": "JavaScript",
             "last_commit": "2016-10-30T13:11:03Z",
             "owner": "MetinSeylan",
@@ -4082,6 +4327,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64070989,
             "language": "JavaScript",
             "last_commit": "2017-08-22T23:02:29Z",
             "owner": "syropian",
@@ -4096,6 +4342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51641628,
             "language": "Vue",
             "last_commit": "2016-02-17T04:28:38Z",
             "owner": "irwansyahwii",
@@ -4110,6 +4357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67971688,
             "language": "JavaScript",
             "last_commit": "2016-09-29T11:52:55Z",
             "owner": "yodfz",
@@ -4124,6 +4372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43634673,
             "language": "JavaScript",
             "last_commit": "2016-11-01T15:13:58Z",
             "owner": "Haixing-Hu",
@@ -4138,30 +4387,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70300460,
             "language": "JavaScript",
             "last_commit": "2019-04-08T09:41:47Z",
             "owner": "phphe",
             "repo": "vue-data-validator",
             "stars": 6
           }
-        },
-        {
-          "node_type": "item",
-          "title": "qingcheng",
-          "description": "★736 - qingcheng主题",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-flatpickr",
-          "description": "★228 - 封装Flatpickr的Vue组件",
-          "children": []
         }
       ],
       "title": "实用库"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4170,11 +4408,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71995937,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T02:30:52Z",
+            "last_commit": "2026-08-19T12:31:29Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60762
+            "stars": 60763
           }
         },
         {
@@ -4184,6 +4423,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70153011,
             "language": "JavaScript",
             "last_commit": "2022-11-10T16:57:22Z",
             "owner": "express-vue",
@@ -4198,6 +4438,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 85492238,
             "language": "JavaScript",
             "last_commit": "2020-01-13T20:06:19Z",
             "owner": "ream",
@@ -4212,6 +4453,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85812257,
             "language": "Vue",
             "last_commit": "2017-09-02T17:56:55Z",
             "owner": "muwoo",
@@ -4226,6 +4468,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77323962,
             "language": "JavaScript",
             "last_commit": "2017-01-20T02:09:49Z",
             "owner": "ccforward",
@@ -4240,6 +4483,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70765003,
             "language": "JavaScript",
             "last_commit": "2016-11-17T11:28:20Z",
             "owner": "hilongjw",
@@ -4254,6 +4498,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79916708,
             "language": "JavaScript",
             "last_commit": "2017-11-08T01:41:36Z",
             "owner": "leaves4j",
@@ -4265,7 +4510,7 @@
       "title": "服务端"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4274,6 +4519,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70248705,
             "language": "JavaScript",
             "last_commit": "2018-10-12T09:50:09Z",
             "owner": "vue-play",
@@ -4288,6 +4534,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78888140,
             "language": "JavaScript",
             "last_commit": "2017-09-16T18:41:02Z",
             "owner": "MiCottOn",
@@ -4302,6 +4549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77163450,
             "language": "JavaScript",
             "last_commit": "2018-06-27T03:29:16Z",
             "owner": "OYsun",
@@ -4316,6 +4564,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75200497,
             "language": "JavaScript",
             "last_commit": "2020-06-04T15:25:02Z",
             "owner": "NetanelBasal",
@@ -4330,6 +4579,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80980207,
             "language": "JavaScript",
             "last_commit": "2021-01-12T05:51:23Z",
             "owner": "xwpongithub",
@@ -4344,6 +4594,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56269157,
             "language": "CSS",
             "last_commit": "2017-01-10T10:18:28Z",
             "owner": "MetinSeylan",
@@ -4355,7 +4606,7 @@
       "title": "辅助工具"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4364,6 +4615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75158620,
             "language": "Vue",
             "last_commit": "2024-08-17T10:54:54Z",
             "owner": "lin-xin",
@@ -4378,8 +4630,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47495360,
             "language": "PHP",
-            "last_commit": "2026-08-10T20:49:05Z",
+            "last_commit": "2026-08-19T06:33:18Z",
             "owner": "koel",
             "repo": "koel",
             "stars": 17222
@@ -4392,6 +4645,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 17486281,
             "language": "PHP",
             "last_commit": "2022-09-30T19:04:02Z",
             "owner": "pagekit",
@@ -4406,6 +4660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77424415,
             "language": "PHP",
             "last_commit": "2023-06-08T08:03:30Z",
             "owner": "jcc",
@@ -4420,6 +4675,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48921934,
             "language": "Vue",
             "last_commit": "2023-09-28T13:09:24Z",
             "owner": "hello-efficiency-inc",
@@ -4434,6 +4690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63396077,
             "language": "PHP",
             "last_commit": "2020-10-01T14:37:45Z",
             "owner": "Vuedo",
@@ -4448,6 +4705,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79487641,
             "language": "Vue",
             "last_commit": "2018-09-05T03:18:53Z",
             "owner": "Caiyeon",
@@ -4462,6 +4720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68979180,
             "language": "Vue",
             "last_commit": "2026-04-20T12:54:56Z",
             "owner": "surmon-china",
@@ -4476,6 +4735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51818825,
             "language": "Vue",
             "last_commit": "2019-11-14T08:58:52Z",
             "owner": "hutuxuhui",
@@ -4490,6 +4750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83962073,
             "language": "JavaScript",
             "last_commit": "2021-09-08T08:59:21Z",
             "owner": "suweiteng",
@@ -4504,6 +4765,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62640405,
             "language": "Vue",
             "last_commit": "2018-10-26T01:42:08Z",
             "owner": "lzxb",
@@ -4518,6 +4780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92293536,
             "language": "Vue",
             "last_commit": "2018-08-27T08:56:16Z",
             "owner": "topfullstack",
@@ -4532,6 +4795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65212671,
             "language": "JavaScript",
             "last_commit": "2020-02-17T06:43:13Z",
             "owner": "ciqulover",
@@ -4546,6 +4810,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46337788,
             "language": "JavaScript",
             "last_commit": "2021-02-19T09:42:26Z",
             "owner": "viko16",
@@ -4560,6 +4825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76485480,
             "language": "JavaScript",
             "last_commit": "2017-01-30T06:58:03Z",
             "owner": "Angarsk8",
@@ -4574,6 +4840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72903119,
             "language": "Vue",
             "last_commit": "2016-12-02T07:38:12Z",
             "owner": "mogody",
@@ -4588,6 +4855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62712881,
             "language": "Vue",
             "last_commit": "2016-12-14T15:30:51Z",
             "owner": "zhangxin840",
@@ -4602,30 +4870,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38734251,
             "language": "JavaScript",
             "last_commit": "2017-03-17T05:04:26Z",
             "owner": "thelinuxlich",
             "repo": "vue-dashing-js",
             "stars": 80
           }
-        },
-        {
-          "node_type": "item",
-          "title": "vms",
-          "description": "★629 - vuejs2管理系统",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "fewords",
-          "description": "★63 - 功能极其简单的笔记本",
-          "children": []
         }
       ],
       "title": "应用实例"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -4634,6 +4891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77189043,
             "language": "Vue",
             "last_commit": "2025-04-11T12:52:02Z",
             "owner": "bailicangdu",
@@ -4648,6 +4906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89571184,
             "language": "Vue",
             "last_commit": "2024-07-05T12:16:35Z",
             "owner": "bailicangdu",
@@ -4662,6 +4921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75890962,
             "language": "JavaScript",
             "last_commit": "2023-03-11T08:06:55Z",
             "owner": "bailicangdu",
@@ -4676,6 +4936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40704350,
             "language": "JavaScript",
             "last_commit": "2017-11-18T09:17:53Z",
             "owner": "shinygang",
@@ -4690,6 +4951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82163712,
             "language": "JavaScript",
             "last_commit": "2020-06-09T08:24:34Z",
             "owner": "superman66",
@@ -4704,6 +4966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78425501,
             "language": "Vue",
             "last_commit": "2023-01-27T15:19:40Z",
             "owner": "javaswing",
@@ -4718,6 +4981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83137235,
             "language": "Vue",
             "last_commit": "2017-11-05T07:20:09Z",
             "owner": "jeneser",
@@ -4732,6 +4996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82990097,
             "language": "Vue",
             "last_commit": "2023-03-05T11:28:54Z",
             "owner": "zhaohaodang",
@@ -4746,6 +5011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72350685,
             "language": "TypeScript",
             "last_commit": "2024-12-14T09:29:16Z",
             "owner": "lzxb",
@@ -4760,6 +5026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92159195,
             "language": "JavaScript",
             "last_commit": "2021-08-03T03:30:02Z",
             "owner": "liangxiaojuan",
@@ -4774,6 +5041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67803662,
             "language": "Vue",
             "last_commit": "2017-10-19T06:52:51Z",
             "owner": "useryangtao",
@@ -4788,6 +5056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70393704,
             "language": "Vue",
             "last_commit": "2022-09-06T17:55:21Z",
             "owner": "Sioxas",
@@ -4802,6 +5071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76105333,
             "language": null,
             "last_commit": "2020-04-20T02:46:22Z",
             "owner": "liangxiaojuan",
@@ -4816,6 +5086,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78085794,
             "language": "JavaScript",
             "last_commit": "2021-04-27T15:34:16Z",
             "owner": "liangxiaojuan",
@@ -4830,6 +5101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76451994,
             "language": "Vue",
             "last_commit": "2021-06-06T13:15:44Z",
             "owner": "SimonZhangITer",
@@ -4844,6 +5116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89670974,
             "language": "Vue",
             "last_commit": "2017-11-27T00:44:42Z",
             "owner": "lanux",
@@ -4858,6 +5131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82867574,
             "language": "JavaScript",
             "last_commit": "2019-02-19T03:06:54Z",
             "owner": "hzzly",
@@ -4872,6 +5146,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63043024,
             "language": "JavaScript",
             "last_commit": "2022-03-07T09:58:24Z",
             "owner": "kenberkeley",
@@ -4886,6 +5161,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59345600,
             "language": "JavaScript",
             "last_commit": "2022-12-31T15:36:04Z",
             "owner": "hilongjw",
@@ -4900,11 +5176,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77158392,
             "language": "Vue",
             "last_commit": "2018-04-21T01:53:01Z",
             "owner": "canfoo",
             "repo": "vue2.0-taopiaopiao",
-            "stars": 1224
+            "stars": 1223
           }
         },
         {
@@ -4914,6 +5191,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72845514,
             "language": "Vue",
             "last_commit": "2022-12-07T04:12:45Z",
             "owner": "lavyun",
@@ -4928,6 +5206,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50521757,
             "language": "Vue",
             "last_commit": "2023-02-19T08:39:42Z",
             "owner": "TIGERB",
@@ -4942,6 +5221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74694970,
             "language": "PHP",
             "last_commit": "2018-10-03T23:19:57Z",
             "owner": "codecasts",
@@ -4956,11 +5236,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76215805,
             "language": "JavaScript",
             "last_commit": "2018-05-30T02:24:17Z",
             "owner": "superman66",
             "repo": "vue2.x-douban",
-            "stars": 795
+            "stars": 794
           }
         },
         {
@@ -4970,6 +5251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82763226,
             "language": "JavaScript",
             "last_commit": "2017-06-28T07:46:30Z",
             "owner": "ShanaMaid",
@@ -4984,6 +5266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62528761,
             "language": "JavaScript",
             "last_commit": "2023-01-04T11:36:16Z",
             "owner": "zhengguorong",
@@ -4998,6 +5281,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79197599,
             "language": "JavaScript",
             "last_commit": "2022-02-12T07:23:16Z",
             "owner": "Molunerfinn",
@@ -5012,6 +5296,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85907208,
             "language": "Vue",
             "last_commit": "2024-06-21T10:27:13Z",
             "owner": "hua1995116",
@@ -5026,6 +5311,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85984047,
             "language": "Vue",
             "last_commit": "2020-12-10T15:05:34Z",
             "owner": "jiangqizheng",
@@ -5040,6 +5326,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89340083,
             "language": "Vue",
             "last_commit": "2026-01-25T10:13:53Z",
             "owner": "rudyxu1102",
@@ -5054,6 +5341,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61360359,
             "language": "Vue",
             "last_commit": "2019-05-17T14:40:32Z",
             "owner": "yatessss",
@@ -5068,6 +5356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78932326,
             "language": "Vue",
             "last_commit": "2019-07-15T06:55:46Z",
             "owner": "lin-xin",
@@ -5082,6 +5371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58305699,
             "language": "CSS",
             "last_commit": "2021-08-03T01:36:59Z",
             "owner": "andylei18",
@@ -5096,6 +5386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76863123,
             "language": "JavaScript",
             "last_commit": "2022-02-11T13:56:42Z",
             "owner": "BUPT-HJM",
@@ -5110,6 +5401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87599507,
             "language": "Vue",
             "last_commit": "2022-01-29T06:57:50Z",
             "owner": "huangche007",
@@ -5124,6 +5416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81932789,
             "language": "JavaScript",
             "last_commit": "2022-12-13T02:26:53Z",
             "owner": "xrr2016",
@@ -5138,6 +5431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72275243,
             "language": "Vue",
             "last_commit": "2017-05-07T12:08:28Z",
             "owner": "A-FE",
@@ -5152,6 +5446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83734805,
             "language": "Vue",
             "last_commit": "2022-12-07T00:58:06Z",
             "owner": "odranoelBR",
@@ -5166,6 +5461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87702666,
             "language": "Vue",
             "last_commit": "2019-04-21T03:45:55Z",
             "owner": "ddqre12345",
@@ -5180,6 +5476,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 91473277,
             "language": "Vue",
             "last_commit": "2018-06-22T08:32:13Z",
             "owner": "zimplexing",
@@ -5194,6 +5491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85812257,
             "language": "Vue",
             "last_commit": "2017-09-02T17:56:55Z",
             "owner": "muwoo",
@@ -5208,6 +5506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84925302,
             "language": "JavaScript",
             "last_commit": "2018-03-21T07:18:12Z",
             "owner": "walleeeee",
@@ -5222,6 +5521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85668544,
             "language": "JavaScript",
             "last_commit": "2023-01-03T15:48:49Z",
             "owner": "hzzly",
@@ -5236,6 +5536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90045489,
             "language": "JavaScript",
             "last_commit": "2017-09-05T10:14:35Z",
             "owner": "werbhelius",
@@ -5250,6 +5551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65448750,
             "language": "Vue",
             "last_commit": "2016-10-11T03:01:25Z",
             "owner": "taomas",
@@ -5264,6 +5566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91589575,
             "language": "Vue",
             "last_commit": "2018-03-05T14:05:51Z",
             "owner": "Panda-Hope",
@@ -5278,6 +5581,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83416974,
             "language": "JavaScript",
             "last_commit": "2017-05-30T14:36:09Z",
             "owner": "beauty-enjoy",
@@ -5292,6 +5596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93353109,
             "language": "Vue",
             "last_commit": "2019-02-23T01:35:22Z",
             "owner": "MengZhaoFly",
@@ -5306,6 +5611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68393245,
             "language": "Vue",
             "last_commit": "2017-02-20T16:16:57Z",
             "owner": "secreter",
@@ -5320,6 +5626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83557778,
             "language": "Vue",
             "last_commit": "2021-07-10T02:59:22Z",
             "owner": "zhixuanziben",
@@ -5334,6 +5641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84931059,
             "language": "Vue",
             "last_commit": "2017-09-11T09:54:12Z",
             "owner": "muwoo",
@@ -5348,6 +5656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72602759,
             "language": "JavaScript",
             "last_commit": "2017-06-14T07:12:35Z",
             "owner": "liujians",
@@ -5362,6 +5671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88011518,
             "language": "Vue",
             "last_commit": "2018-01-25T07:55:19Z",
             "owner": "reusser",
@@ -5376,6 +5686,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79654412,
             "language": "Vue",
             "last_commit": "2023-07-06T03:08:33Z",
             "owner": "lybenson",
@@ -5390,6 +5701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62598854,
             "language": "JavaScript",
             "last_commit": "2019-11-02T20:28:51Z",
             "owner": "jiangjiu",
@@ -5404,6 +5716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85938424,
             "language": "JavaScript",
             "last_commit": "2021-01-07T08:11:09Z",
             "owner": "193Eric",
@@ -5418,6 +5731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90278348,
             "language": "JavaScript",
             "last_commit": "2017-11-20T10:43:33Z",
             "owner": "liupeijun",
@@ -5432,6 +5746,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78030087,
             "language": "Python",
             "last_commit": "2017-12-27T08:40:51Z",
             "owner": "rokups",
@@ -5446,6 +5761,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77131970,
             "language": "JavaScript",
             "last_commit": "2018-04-10T03:54:56Z",
             "owner": "ChuckCZC",
@@ -5460,6 +5776,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79462068,
             "language": "CSS",
             "last_commit": "2022-02-12T06:00:38Z",
             "owner": "xiaobinwu",
@@ -5474,6 +5791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87898823,
             "language": "Vue",
             "last_commit": "2018-11-14T09:14:44Z",
             "owner": "biaodigit",
@@ -5488,6 +5806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82382173,
             "language": "JavaScript",
             "last_commit": "2018-05-26T12:04:36Z",
             "owner": "hbxywdk",
@@ -5502,6 +5821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82672902,
             "language": "JavaScript",
             "last_commit": "2021-05-21T18:35:50Z",
             "owner": "elva2596",
@@ -5516,6 +5836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84075600,
             "language": "Vue",
             "last_commit": "2018-09-06T03:38:50Z",
             "owner": "cccyb",
@@ -5530,6 +5851,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83898313,
             "language": "Vue",
             "last_commit": "2019-10-27T21:54:37Z",
             "owner": "dmtrbrl",
@@ -5544,6 +5866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50477449,
             "language": "JavaScript",
             "last_commit": "2017-09-13T07:20:40Z",
             "owner": "yjj5855",
@@ -5558,6 +5881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82712247,
             "language": "JavaScript",
             "last_commit": "2018-08-10T07:21:31Z",
             "owner": "RalfZhang",
@@ -5572,6 +5896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54734381,
             "language": "JavaScript",
             "last_commit": "2016-05-04T00:25:55Z",
             "owner": "BosNaufal",
@@ -5586,6 +5911,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 84942078,
             "language": "Vue",
             "last_commit": "2017-06-04T09:05:19Z",
             "owner": "vanishcode",
@@ -5600,6 +5926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88171522,
             "language": "Vue",
             "last_commit": "2017-04-19T09:06:03Z",
             "owner": "microzz",
@@ -5614,6 +5941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93243609,
             "language": "Vue",
             "last_commit": "2018-08-09T09:16:12Z",
             "owner": "renjie1996",
@@ -5628,6 +5956,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75282601,
             "language": "HTML",
             "last_commit": "2017-05-15T01:52:17Z",
             "owner": "beidan",
@@ -5642,6 +5971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81634279,
             "language": "Vue",
             "last_commit": "2017-03-07T13:28:59Z",
             "owner": "CommanderXL",
@@ -5656,6 +5986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70404410,
             "language": "Vue",
             "last_commit": "2017-08-15T14:43:38Z",
             "owner": "iHaPBoy",
@@ -5670,6 +6001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50626143,
             "language": "JavaScript",
             "last_commit": "2021-08-27T08:58:08Z",
             "owner": "qxl1231",
@@ -5684,6 +6016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89985547,
             "language": "JavaScript",
             "last_commit": "2021-11-17T07:26:44Z",
             "owner": "lxyisme",
@@ -5698,6 +6031,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78510035,
             "language": "Vue",
             "last_commit": "2019-11-16T09:57:55Z",
             "owner": "pomelo-chuan",
@@ -5712,6 +6046,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79038623,
             "language": "JavaScript",
             "last_commit": "2023-06-19T14:38:50Z",
             "owner": "NewsNIng",
@@ -5726,6 +6061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64007840,
             "language": "Vue",
             "last_commit": "2017-03-12T15:26:02Z",
             "owner": "wszgxa",
@@ -5740,6 +6076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82165028,
             "language": "Vue",
             "last_commit": "2017-08-09T17:32:00Z",
             "owner": "scarecrowdu",
@@ -5754,6 +6091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87641927,
             "language": "Vue",
             "last_commit": "2018-09-15T18:13:47Z",
             "owner": "xingbofeng",
@@ -5768,6 +6106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89853751,
             "language": "CSS",
             "last_commit": "2017-10-01T12:36:46Z",
             "owner": "l20",
@@ -5782,6 +6121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83198178,
             "language": "JavaScript",
             "last_commit": "2017-03-09T14:52:10Z",
             "owner": "MrMoveon",
@@ -5796,6 +6136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90349214,
             "language": "Vue",
             "last_commit": "2017-07-20T03:51:59Z",
             "owner": "gaohongwei11",
@@ -5810,6 +6151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65252036,
             "language": "Vue",
             "last_commit": "2022-12-10T19:18:27Z",
             "owner": "SidKwok",
@@ -5824,6 +6166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87823284,
             "language": "Vue",
             "last_commit": "2017-04-17T10:02:09Z",
             "owner": "JerryYgh",
@@ -5838,6 +6181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69742940,
             "language": "Vue",
             "last_commit": "2021-05-04T01:39:35Z",
             "owner": "youknowznm",
@@ -5852,6 +6196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73467662,
             "language": "Vue",
             "last_commit": "2018-06-06T13:26:17Z",
             "owner": "zhoou",
@@ -5866,6 +6211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70802512,
             "language": "CSS",
             "last_commit": "2025-06-08T13:14:15Z",
             "owner": "cs1707",
@@ -5880,6 +6226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80791434,
             "language": "JavaScript",
             "last_commit": "2017-02-08T10:42:25Z",
             "owner": "hql123",
@@ -5894,6 +6241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88877927,
             "language": "Vue",
             "last_commit": "2017-05-08T16:16:00Z",
             "owner": "safaring",
@@ -5908,6 +6256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91161998,
             "language": "JavaScript",
             "last_commit": "2020-08-31T02:35:44Z",
             "owner": "lavieAll",
@@ -5922,6 +6271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72617215,
             "language": "JavaScript",
             "last_commit": "2018-06-01T01:30:08Z",
             "owner": "pluto1114",
@@ -5936,6 +6286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83060065,
             "language": "Vue",
             "last_commit": "2026-03-19T03:54:27Z",
             "owner": "AnnoWook",
@@ -5950,6 +6301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90500931,
             "language": "Vue",
             "last_commit": "2023-12-15T02:15:46Z",
             "owner": "leehomeok",
@@ -5964,6 +6316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78827654,
             "language": "Vue",
             "last_commit": "2017-05-07T14:14:04Z",
             "owner": "heyacherry",
@@ -5978,6 +6331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52081116,
             "language": "JavaScript",
             "last_commit": "2017-07-30T08:13:18Z",
             "owner": "fishenal",
@@ -5992,6 +6346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93192663,
             "language": "Vue",
             "last_commit": "2018-01-20T00:35:27Z",
             "owner": "momopig",
@@ -6006,6 +6361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70706187,
             "language": "Vue",
             "last_commit": "2026-06-18T06:15:14Z",
             "owner": "jo0ger",
@@ -6020,6 +6376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74320161,
             "language": "Vue",
             "last_commit": "2018-05-03T09:04:52Z",
             "owner": "shaqihe",
@@ -6034,6 +6391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80115150,
             "language": "JavaScript",
             "last_commit": "2017-02-10T11:03:13Z",
             "owner": "GitaiQAQ",
@@ -6048,6 +6406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89047163,
             "language": "JavaScript",
             "last_commit": "2017-04-22T10:10:25Z",
             "owner": "hj624608494",
@@ -6057,25 +6416,12 @@
         },
         {
           "node_type": "item",
-          "title": "Zhihu_Daily",
-          "description": "★73 - 基于Vue和Nodejs的Web单页应用",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2022-12-07T05:03:00Z",
-            "owner": "littlewin-wang",
-            "repo": "Zhihu_Daily",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
           "title": "vue-cnode-mobile",
           "description": "★29 - 搭建cnode社区",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73047982,
             "language": "Vue",
             "last_commit": "2017-04-20T07:26:31Z",
             "owner": "soulcm",
@@ -6085,11 +6431,27 @@
         },
         {
           "node_type": "item",
+          "title": "Zhihu_Daily",
+          "description": "★73 - 基于Vue和Nodejs的Web单页应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77361592,
+            "language": "Vue",
+            "last_commit": "2022-12-07T05:03:00Z",
+            "owner": "littlewin-wang",
+            "repo": "Zhihu_Daily",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
           "title": "vue-ssr-boilerplate",
           "description": "★48 - 精简版的ofvue-hackernews-2",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74530816,
             "language": "JavaScript",
             "last_commit": "2016-12-03T15:02:40Z",
             "owner": "albertchan",
@@ -6104,6 +6466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64754275,
             "language": "Vue",
             "last_commit": "2017-12-10T06:45:11Z",
             "owner": "fishenal",
@@ -6118,6 +6481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82246551,
             "language": "Vue",
             "last_commit": "2017-04-12T03:16:36Z",
             "owner": "doterlin",
@@ -6132,6 +6496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61853161,
             "language": "HTML",
             "last_commit": "2024-11-21T18:41:05Z",
             "owner": "IgorHalfeld",
@@ -6146,6 +6511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78824444,
             "language": "Vue",
             "last_commit": "2017-03-27T02:26:58Z",
             "owner": "ITCNZ",
@@ -6160,6 +6526,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 54607463,
             "language": "JavaScript",
             "last_commit": "2016-03-31T14:42:41Z",
             "owner": "tyllo",
@@ -6174,6 +6541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80924506,
             "language": "CSS",
             "last_commit": "2017-03-19T10:21:27Z",
             "owner": "xrr2016",
@@ -6188,6 +6556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90845537,
             "language": "JavaScript",
             "last_commit": "2017-10-20T02:30:08Z",
             "owner": "wx1993",
@@ -6202,6 +6571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91677478,
             "language": "JavaScript",
             "last_commit": "2017-08-07T15:35:08Z",
             "owner": "yangbo5207",
@@ -6216,6 +6586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81725877,
             "language": "JavaScript",
             "last_commit": "2017-03-09T05:59:37Z",
             "owner": "xandeer",
@@ -6230,6 +6601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72599957,
             "language": "JavaScript",
             "last_commit": "2018-04-28T01:44:58Z",
             "owner": "moonou",
@@ -6244,6 +6616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64901194,
             "language": "JavaScript",
             "last_commit": "2016-10-01T14:46:47Z",
             "owner": "BosNaufal",
@@ -6258,6 +6631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78328551,
             "language": "JavaScript",
             "last_commit": "2022-12-10T20:43:40Z",
             "owner": "deshes",
@@ -6272,6 +6646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78743959,
             "language": "Vue",
             "last_commit": "2017-01-16T05:51:58Z",
             "owner": "Damonlw",
@@ -6286,80 +6661,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80900846,
             "language": "JavaScript",
             "last_commit": "2019-03-07T01:05:34Z",
             "owner": "beautifulBoys",
             "repo": "vue-XiaoMi-Shop",
             "stars": 16
           }
-        },
-        {
-          "node_type": "item",
-          "title": "douban",
-          "description": "★440 - 模仿豆瓣前端",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-fis3",
-          "description": "★217 - 流行开源工具集成demo",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-toutiao",
-          "description": "★121 - vuejs高仿今日头条移动端",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-koa2-login",
-          "description": "★67 - 使用 VueJS & NodeJS 实现的登录注册",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-trip",
-          "description": "★64 - vue2做的出行webapp",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "seeMusic",
-          "description": "★63 - 跨平台云音乐播放器",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "ios7-vue",
-          "description": "★52 - 使用vue2.0 vue-router vuex模拟ios7",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-bushishiren",
-          "description": "★49 - 不是诗人应用",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "sls-vuex2-demo",
-          "description": "★37 - vuex2商城购物车demo",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "vue-cnode",
-          "description": "★35 - 用 Vue 做的 CNode 官网",
-          "children": []
         }
       ],
       "title": "Demo示例"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:25:20.013Z",
+    "last_updated": "2026-08-19T12:34:51.780Z",
     "original_repository": "opendigg/awesome-github-vue",
+    "original_repository_id": 84019065,
     "original_repository_sha": "2ee30deb7b580c2958c4e3b16f55898220d8cd79",
     "enhanced_repository": "enhansome/enhansome-github-vue",
     "enhanced_repository_description": null,
