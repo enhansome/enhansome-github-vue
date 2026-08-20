@@ -27,10 +27,10 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:50:33Z",
+            "last_commit": "2026-08-19T18:29:49Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41030
+            "stars": 41031
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 88717215,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T01:42:21Z",
+            "last_commit": "2026-08-19T16:46:52Z",
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24362
+            "stars": 24363
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-03-04T07:33:56Z",
             "owner": "SortableJS",
             "repo": "Vue.Draggable",
-            "stars": 20588
+            "stars": 20589
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-17T23:32:23Z",
             "owner": "airyland",
             "repo": "vux",
-            "stars": 17460
+            "stars": 17461
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 61364083,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T18:07:49Z",
+            "last_commit": "2026-08-20T01:37:56Z",
             "owner": "ecomfe",
             "repo": "vue-echarts",
             "stars": 10735
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-17T17:04:24Z",
             "owner": "buefy",
             "repo": "buefy",
-            "stars": 9520
+            "stars": 9519
           }
         },
         {
@@ -365,6 +365,21 @@
         },
         {
           "node_type": "item",
+          "title": "vonic",
+          "description": "★1913 - 快速构建移动端单页应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66696928,
+            "language": "Vue",
+            "last_commit": "2022-02-12T07:36:40Z",
+            "owner": "wangdahoo",
+            "repo": "vonic",
+            "stars": 3379
+          }
+        },
+        {
+          "node_type": "item",
           "title": "vue-amap",
           "description": "★571 - 基于Vue 2和高德地图的地图组件",
           "children": [],
@@ -376,21 +391,6 @@
             "owner": "ElemeFE",
             "repo": "vue-amap",
             "stars": 3379
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vonic",
-          "description": "★1913 - 快速构建移动端单页应用",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 66696928,
-            "language": "Vue",
-            "last_commit": "2022-02-12T07:36:40Z",
-            "owner": "wangdahoo",
-            "repo": "vonic",
-            "stars": 3378
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-07-27T13:15:15Z",
             "owner": "ydcss",
             "repo": "vue-ydui",
-            "stars": 2727
+            "stars": 2728
           }
         },
         {
@@ -1575,7 +1575,7 @@
             "last_commit": "2019-07-12T05:58:18Z",
             "owner": "hzzly",
             "repo": "MagicMusic",
-            "stars": 372
+            "stars": 371
           }
         },
         {
@@ -2796,7 +2796,7 @@
             "last_commit": "2024-10-10T07:24:15Z",
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210239
+            "stars": 210236
           }
         },
         {
@@ -2811,7 +2811,7 @@
             "last_commit": "2024-10-24T11:25:46Z",
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90207
+            "stars": 90208
           }
         },
         {
@@ -2823,7 +2823,7 @@
             "archived": false,
             "id": 43695474,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:00:43Z",
+            "last_commit": "2026-08-19T14:43:30Z",
             "owner": "quasarframework",
             "repo": "quasar",
             "stars": 27205
@@ -3162,7 +3162,7 @@
             "last_commit": "2023-04-11T05:28:16Z",
             "owner": "kaorun343",
             "repo": "vue-property-decorator",
-            "stars": 5469
+            "stars": 5468
           }
         },
         {
@@ -3339,7 +3339,7 @@
             "archived": false,
             "id": 74473078,
             "language": "Vue",
-            "last_commit": "2026-08-19T02:16:40Z",
+            "last_commit": "2026-08-19T16:02:19Z",
             "owner": "SevenOutman",
             "repo": "vue-aplayer",
             "stars": 1333
@@ -3369,7 +3369,7 @@
             "archived": false,
             "id": 83400754,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T02:40:26Z",
+            "last_commit": "2026-08-19T22:30:35Z",
             "owner": "uiv-lib",
             "repo": "uiv",
             "stars": 938
@@ -4410,10 +4410,10 @@
             "archived": false,
             "id": 71995937,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:31:29Z",
+            "last_commit": "2026-08-19T21:28:15Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60763
+            "stars": 60764
           }
         },
         {
@@ -4443,7 +4443,7 @@
             "last_commit": "2020-01-13T20:06:19Z",
             "owner": "ream",
             "repo": "deprecated",
-            "stars": 816
+            "stars": 814
           }
         },
         {
@@ -4632,7 +4632,7 @@
             "archived": false,
             "id": 47495360,
             "language": "PHP",
-            "last_commit": "2026-08-19T06:33:18Z",
+            "last_commit": "2026-08-19T20:49:08Z",
             "owner": "koel",
             "repo": "koel",
             "stars": 17222
@@ -4650,7 +4650,7 @@
             "last_commit": "2022-09-30T19:04:02Z",
             "owner": "pagekit",
             "repo": "pagekit",
-            "stars": 5456
+            "stars": 5457
           }
         },
         {
@@ -4896,7 +4896,7 @@
             "last_commit": "2025-04-11T12:52:02Z",
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 41026
+            "stars": 41025
           }
         },
         {
@@ -4911,7 +4911,7 @@
             "last_commit": "2024-07-05T12:16:35Z",
             "owner": "bailicangdu",
             "repo": "vue2-manage",
-            "stars": 13621
+            "stars": 13620
           }
         },
         {
@@ -4926,7 +4926,7 @@
             "last_commit": "2023-03-11T08:06:55Z",
             "owner": "bailicangdu",
             "repo": "vue2-happyfri",
-            "stars": 10539
+            "stars": 10538
           }
         },
         {
@@ -5091,7 +5091,7 @@
             "last_commit": "2021-04-27T15:34:16Z",
             "owner": "liangxiaojuan",
             "repo": "vue-Meizi",
-            "stars": 1526
+            "stars": 1525
           }
         },
         {
@@ -5181,7 +5181,7 @@
             "last_commit": "2018-04-21T01:53:01Z",
             "owner": "canfoo",
             "repo": "vue2.0-taopiaopiao",
-            "stars": 1223
+            "stars": 1222
           }
         },
         {
@@ -6674,7 +6674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:51.780Z",
+    "last_updated": "2026-08-20T03:24:49.869Z",
     "original_repository": "opendigg/awesome-github-vue",
     "original_repository_id": 84019065,
     "original_repository_sha": "2ee30deb7b580c2958c4e3b16f55898220d8cd79",
