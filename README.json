@@ -27,10 +27,10 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T18:29:49Z",
+            "last_commit": "2026-08-21T00:21:23Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41031
+            "stars": 41029
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 88717215,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T16:46:52Z",
+            "last_commit": "2026-08-20T10:15:17Z",
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24363
+            "stars": 24365
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2025-03-05T09:30:29Z",
             "owner": "hinesboy",
             "repo": "mavonEditor",
-            "stars": 6577
+            "stars": 6578
           }
         },
         {
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 61990007,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T14:52:08Z",
+            "last_commit": "2026-08-20T13:11:03Z",
             "owner": "apertureless",
             "repo": "vue-chartjs",
             "stars": 5713
@@ -300,7 +300,7 @@
             "last_commit": "2026-03-09T12:44:41Z",
             "owner": "xyxiao001",
             "repo": "vue-cropper",
-            "stars": 4558
+            "stars": 4559
           }
         },
         {
@@ -365,21 +365,6 @@
         },
         {
           "node_type": "item",
-          "title": "vonic",
-          "description": "★1913 - 快速构建移动端单页应用",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 66696928,
-            "language": "Vue",
-            "last_commit": "2022-02-12T07:36:40Z",
-            "owner": "wangdahoo",
-            "repo": "vonic",
-            "stars": 3379
-          }
-        },
-        {
-          "node_type": "item",
           "title": "vue-amap",
           "description": "★571 - 基于Vue 2和高德地图的地图组件",
           "children": [],
@@ -391,6 +376,21 @@
             "owner": "ElemeFE",
             "repo": "vue-amap",
             "stars": 3379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vonic",
+          "description": "★1913 - 快速构建移动端单页应用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66696928,
+            "language": "Vue",
+            "last_commit": "2022-02-12T07:36:40Z",
+            "owner": "wangdahoo",
+            "repo": "vonic",
+            "stars": 3378
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2022-12-03T15:41:52Z",
             "owner": "dai-siki",
             "repo": "vue-image-crop-upload",
-            "stars": 2078
+            "stars": 2079
           }
         },
         {
@@ -2796,7 +2796,7 @@
             "last_commit": "2024-10-10T07:24:15Z",
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210236
+            "stars": 210247
           }
         },
         {
@@ -2811,7 +2811,7 @@
             "last_commit": "2024-10-24T11:25:46Z",
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90208
+            "stars": 90206
           }
         },
         {
@@ -2823,10 +2823,10 @@
             "archived": false,
             "id": 43695474,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T14:43:30Z",
+            "last_commit": "2026-08-20T15:08:26Z",
             "owner": "quasarframework",
             "repo": "quasar",
-            "stars": 27205
+            "stars": 27207
           }
         },
         {
@@ -2841,7 +2841,7 @@
             "last_commit": "2022-01-14T15:11:42Z",
             "owner": "SimulatedGREG",
             "repo": "electron-vue",
-            "stars": 15386
+            "stars": 15385
           }
         },
         {
@@ -2856,7 +2856,7 @@
             "last_commit": "2020-04-06T12:06:14Z",
             "owner": "vue-bulma",
             "repo": "vue-admin",
-            "stars": 9330
+            "stars": 9329
           }
         },
         {
@@ -3102,7 +3102,7 @@
             "last_commit": "2024-09-25T13:26:41Z",
             "owner": "vuejs",
             "repo": "vuex",
-            "stars": 28318
+            "stars": 28317
           }
         },
         {
@@ -3132,7 +3132,7 @@
             "last_commit": "2024-12-31T15:15:58Z",
             "owner": "kazupon",
             "repo": "vue-i18n",
-            "stars": 7222
+            "stars": 7221
           }
         },
         {
@@ -3222,7 +3222,7 @@
             "last_commit": "2023-11-25T19:14:42Z",
             "owner": "LinusBorg",
             "repo": "portal-vue",
-            "stars": 3888
+            "stars": 3887
           }
         },
         {
@@ -3369,7 +3369,7 @@
             "archived": false,
             "id": 83400754,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T22:30:35Z",
+            "last_commit": "2026-08-21T01:47:33Z",
             "owner": "uiv-lib",
             "repo": "uiv",
             "stars": 938
@@ -3624,7 +3624,7 @@
             "archived": false,
             "id": 76510980,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T20:17:39Z",
+            "last_commit": "2026-08-20T22:12:44Z",
             "owner": "vuejs",
             "repo": "vue-eslint-parser",
             "stars": 487
@@ -4410,10 +4410,10 @@
             "archived": false,
             "id": 71995937,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T21:28:15Z",
+            "last_commit": "2026-08-20T15:20:28Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60764
+            "stars": 60770
           }
         },
         {
@@ -4620,7 +4620,7 @@
             "last_commit": "2024-08-17T10:54:54Z",
             "owner": "lin-xin",
             "repo": "vue-manage-system",
-            "stars": 19624
+            "stars": 19625
           }
         },
         {
@@ -4635,7 +4635,7 @@
             "last_commit": "2026-08-19T20:49:08Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17222
+            "stars": 17221
           }
         },
         {
@@ -4650,7 +4650,7 @@
             "last_commit": "2022-09-30T19:04:02Z",
             "owner": "pagekit",
             "repo": "pagekit",
-            "stars": 5457
+            "stars": 5456
           }
         },
         {
@@ -4896,7 +4896,7 @@
             "last_commit": "2025-04-11T12:52:02Z",
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 41025
+            "stars": 41026
           }
         },
         {
@@ -4926,7 +4926,7 @@
             "last_commit": "2023-03-11T08:06:55Z",
             "owner": "bailicangdu",
             "repo": "vue2-happyfri",
-            "stars": 10538
+            "stars": 10537
           }
         },
         {
@@ -6674,7 +6674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:24:49.869Z",
+    "last_updated": "2026-08-21T03:30:17.681Z",
     "original_repository": "opendigg/awesome-github-vue",
     "original_repository_id": 84019065,
     "original_repository_sha": "2ee30deb7b580c2958c4e3b16f55898220d8cd79",
