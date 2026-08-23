@@ -15,7 +15,7 @@
             "last_commit": "2024-08-20T07:40:13Z",
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54057
+            "stars": 54058
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T02:38:25Z",
+            "last_commit": "2026-08-22T17:26:09Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41030
+            "stars": 41031
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T16:55:07Z",
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24368
+            "stars": 24372
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-01-15T00:27:21Z",
             "owner": "iview",
             "repo": "iview",
-            "stars": 23775
+            "stars": 23776
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-03-04T07:33:56Z",
             "owner": "SortableJS",
             "repo": "Vue.Draggable",
-            "stars": 20589
+            "stars": 20588
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-12T06:13:53Z",
             "owner": "Akryum",
             "repo": "vue-virtual-scroller",
-            "stars": 10790
+            "stars": 10791
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-21T11:04:50Z",
             "owner": "shentao",
             "repo": "vue-multiselect",
-            "stars": 6780
+            "stars": 6778
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2025-03-05T09:30:29Z",
             "owner": "hinesboy",
             "repo": "mavonEditor",
-            "stars": 6578
+            "stars": 6579
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2023-11-18T15:05:15Z",
             "owner": "ElemeFE",
             "repo": "vue-infinite-scroll",
-            "stars": 2856
+            "stars": 2855
           }
         },
         {
@@ -2796,7 +2796,7 @@
             "last_commit": "2024-10-10T07:24:15Z",
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210342
+            "stars": 210454
           }
         },
         {
@@ -2811,7 +2811,7 @@
             "last_commit": "2024-10-24T11:25:46Z",
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90207
+            "stars": 90210
           }
         },
         {
@@ -2826,7 +2826,7 @@
             "last_commit": "2026-08-21T15:11:41Z",
             "owner": "quasarframework",
             "repo": "quasar",
-            "stars": 27207
+            "stars": 27204
           }
         },
         {
@@ -2841,7 +2841,7 @@
             "last_commit": "2022-01-14T15:11:42Z",
             "owner": "SimulatedGREG",
             "repo": "electron-vue",
-            "stars": 15385
+            "stars": 15384
           }
         },
         {
@@ -2856,7 +2856,7 @@
             "last_commit": "2020-04-06T12:06:14Z",
             "owner": "vue-bulma",
             "repo": "vue-admin",
-            "stars": 9329
+            "stars": 9328
           }
         },
         {
@@ -2901,7 +2901,7 @@
             "last_commit": "2025-03-26T01:48:22Z",
             "owner": "devjin0617",
             "repo": "vue2-admin-lte",
-            "stars": 1068
+            "stars": 1069
           }
         },
         {
@@ -3102,7 +3102,7 @@
             "last_commit": "2024-09-25T13:26:41Z",
             "owner": "vuejs",
             "repo": "vuex",
-            "stars": 28321
+            "stars": 28320
           }
         },
         {
@@ -3327,7 +3327,7 @@
             "last_commit": "2024-03-14T17:33:56Z",
             "owner": "dgrubelic",
             "repo": "vue-authenticate",
-            "stars": 1423
+            "stars": 1424
           }
         },
         {
@@ -4410,10 +4410,10 @@
             "archived": false,
             "id": 71995937,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:41:44Z",
+            "last_commit": "2026-08-22T17:12:59Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60775
+            "stars": 60780
           }
         },
         {
@@ -4632,10 +4632,10 @@
             "archived": false,
             "id": 47495360,
             "language": "PHP",
-            "last_commit": "2026-08-19T20:49:08Z",
+            "last_commit": "2026-08-22T13:35:45Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17221
+            "stars": 17225
           }
         },
         {
@@ -4877,6 +4877,21 @@
             "repo": "vue-dashing-js",
             "stars": 80
           }
+        },
+        {
+          "node_type": "item",
+          "title": "fewords",
+          "description": "★63 - 功能极其简单的笔记本",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45992990,
+            "language": "Swift",
+            "last_commit": "2026-08-22T13:38:30Z",
+            "owner": "sapjax",
+            "repo": "fewords",
+            "stars": 0
+          }
         }
       ],
       "title": "应用实例"
@@ -4896,7 +4911,7 @@
             "last_commit": "2025-04-11T12:52:02Z",
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 41025
+            "stars": 41026
           }
         },
         {
@@ -4911,7 +4926,7 @@
             "last_commit": "2024-07-05T12:16:35Z",
             "owner": "bailicangdu",
             "repo": "vue2-manage",
-            "stars": 13619
+            "stars": 13618
           }
         },
         {
@@ -4971,7 +4986,7 @@
             "last_commit": "2023-01-27T15:19:40Z",
             "owner": "javaswing",
             "repo": "NeteaseCloudWebApp",
-            "stars": 2578
+            "stars": 2577
           }
         },
         {
@@ -5631,7 +5646,7 @@
             "last_commit": "2021-07-10T02:59:22Z",
             "owner": "zhixuanziben",
             "repo": "gouyan-movie-vue",
-            "stars": 415
+            "stars": 414
           }
         },
         {
@@ -5976,7 +5991,7 @@
             "last_commit": "2017-03-07T13:28:59Z",
             "owner": "CommanderXL",
             "repo": "x-blog",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -6674,7 +6689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:21:35.107Z",
+    "last_updated": "2026-08-23T03:29:34.813Z",
     "original_repository": "opendigg/awesome-github-vue",
     "original_repository_id": 84019065,
     "original_repository_sha": "2ee30deb7b580c2958c4e3b16f55898220d8cd79",
