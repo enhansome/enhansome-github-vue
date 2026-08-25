@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T03:06:32Z",
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24375
+            "stars": 24376
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 86840811,
             "language": "Vue",
-            "last_commit": "2026-08-24T23:14:29Z",
+            "last_commit": "2026-08-25T04:34:30Z",
             "owner": "buefy",
             "repo": "buefy",
             "stars": 9519
@@ -2796,7 +2796,7 @@
             "last_commit": "2024-10-10T07:24:15Z",
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210662
+            "stars": 210690
           }
         },
         {
@@ -4413,7 +4413,7 @@
             "last_commit": "2026-08-24T20:29:49Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60793
+            "stars": 60792
           }
         },
         {
@@ -4635,7 +4635,7 @@
             "last_commit": "2026-08-22T13:35:45Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17229
+            "stars": 17230
           }
         },
         {
@@ -6689,7 +6689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:26:32.027Z",
+    "last_updated": "2026-08-25T05:45:22.758Z",
     "original_repository": "opendigg/awesome-github-vue",
     "original_repository_id": 84019065,
     "original_repository_sha": "2ee30deb7b580c2958c4e3b16f55898220d8cd79",
