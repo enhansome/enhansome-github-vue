@@ -14,24 +14,24 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 
 ## UI组件
 
-* [element](https://github.com/ElemeFE/element) ⭐ 54,058 | 🐛 2,964 | 🌐 Vue | 📅 2024-08-20 ★13489 - 饿了么出品的Vue2的web UI工具套件
-* [vuetify](https://github.com/vuetifyjs/vuetify) ⭐ 41,035 | 🐛 388 | 🌐 TypeScript | 📅 2026-08-25 ★2925 - 为移动而生的Vue JS 2组件框架
-* [vant](https://github.com/youzan/vant) ⭐ 24,376 | 🐛 222 | 🌐 TypeScript | 📅 2026-08-24 ★74 - 有赞出品的Vue2.0移动UI
-* [iview](https://github.com/iview/iview) ⭐ 23,775 | 🐛 1,235 | 🌐 Vue | 📅 2024-01-15 ★6634 - 基于 Vuejs 的开源 UI 组件库
+* [element](https://github.com/ElemeFE/element) ⭐ 54,057 | 🐛 2,964 | 🌐 Vue | 📅 2024-08-20 ★13489 - 饿了么出品的Vue2的web UI工具套件
+* [vuetify](https://github.com/vuetifyjs/vuetify) ⭐ 41,041 | 🐛 390 | 🌐 TypeScript | 📅 2026-08-27 ★2925 - 为移动而生的Vue JS 2组件框架
+* [vant](https://github.com/youzan/vant) ⭐ 24,376 | 🐛 222 | 🌐 TypeScript | 📅 2026-08-26 ★74 - 有赞出品的Vue2.0移动UI
+* [iview](https://github.com/iview/iview) ⭐ 23,773 | 🐛 1,235 | 🌐 Vue | 📅 2024-01-15 ★6634 - 基于 Vuejs 的开源 UI 组件库
 * [Vue.Draggable](https://github.com/David-Desmaisons/Vue.Draggable) ⭐ 20,588 | 🐛 286 | 🌐 JavaScript | 📅 2024-03-04 ★1191 - 实现拖放和视图模型数组同步
 * [Vux](https://github.com/airyland/vux) ⭐ 17,461 | 🐛 405 | 🌐 Vue | 📅 2026-07-17 ★8133 - 基于Vue和WeUI的组件库
 * [mint-ui](https://github.com/ElemeFE/mint-ui) ⭐ 16,437 | 🐛 291 | 🌐 Vue | 📅 2022-02-28 ★6253 - Vue 2的移动UI元素
-* [bootstrap-vue](https://github.com/pi0/bootstrap-vue) ⭐ 14,427 | 🐛 202 | 🌐 JavaScript | 📅 2026-04-02 ★1267 - 应用于Vuejs2的Twitter的Bootstrap 4组件
+* [bootstrap-vue](https://github.com/pi0/bootstrap-vue) ⭐ 14,428 | 🐛 202 | 🌐 JavaScript | 📅 2026-04-02 ★1267 - 应用于Vuejs2的Twitter的Bootstrap 4组件
 * [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) ⚠️ Archived ★1012 - vue.js触摸滑动组件
 * [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⭐ 10,791 | 🐛 198 | 🌐 TypeScript | 📅 2026-08-12 ★238 - 带任意数目数据的顺畅的滚动
-* [vue-echarts](https://github.com/Justineo/vue-echarts) ⭐ 10,737 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-26 ★649 - VueJS的ECharts组件
-* [buefy](https://github.com/rafaelpimpa/buefy) ⭐ 9,519 | 🐛 67 | 🌐 Vue | 📅 2026-08-25 ★755 - 响应式UI组件轻量级库
+* [vue-echarts](https://github.com/Justineo/vue-echarts) ⭐ 10,742 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-26 ★649 - VueJS的ECharts组件
+* [buefy](https://github.com/rafaelpimpa/buefy) ⭐ 9,521 | 🐛 68 | 🌐 Vue | 📅 2026-08-26 ★755 - 响应式UI组件轻量级库
 * [muse-ui](https://github.com/museui/muse-ui) ⭐ 8,137 | 🐛 186 | 🌐 Vue | 📅 2022-12-09 ★3705 - 三端样式一致的响应式 UI 库
 * [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ⭐ 7,399 | 🐛 263 | 🌐 JavaScript | 📅 2024-05-17 ★615 - 基于Quill适用于Vue2的富文本编辑器
 * [vue-multiselect](https://github.com/monterail/vue-multiselect) ⭐ 6,778 | 🐛 307 | 🌐 JavaScript | 📅 2026-08-21 ★1539 - Vue.js选择框解决方案
 * [mavonEditor](https://github.com/hinesboy/mavonEditor) ⭐ 6,578 | 🐛 377 | 🌐 Vue | 📅 2025-03-05 ★179 - 基于Vue的markdown编辑器
 * [vueAdmin](https://github.com/taylorchen709/vueAdmin) ⭐ 6,559 | 🐛 19 | 🌐 Vue | 📅 2022-06-17 ★1455 - 基于vuejs2和element的简单的管理员模板
-* [vue-chartjs](https://github.com/apertureless/vue-chartjs) ⭐ 5,712 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-25 ★694 - vue中的Chartjs的封装
+* [vue-chartjs](https://github.com/apertureless/vue-chartjs) ⭐ 5,712 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-26 ★694 - vue中的Chartjs的封装
 * [vue-video-player](https://github.com/surmon-china/vue-video-player) ⭐ 5,441 | 🐛 200 | 🌐 TypeScript | 📅 2022-08-23 ★336 - VueJS视频及直播播放器
 * [vue-cropper](https://github.com/xyxiao001/vue-cropper) ⭐ 4,559 | 🐛 189 | 🌐 Vue | 📅 2026-03-09 ★42 - 一个简单的vue 的图片裁剪插件
 * [vue-js-modal](https://github.com/euvl/vue-js-modal) ⭐ 4,312 | 🐛 102 | 🌐 Vue | 📅 2023-03-20 ★228 - 移动友好的Vuejs2的modal
@@ -41,8 +41,8 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [vue-amap](https://github.com/ElemeFE/vue-amap) ⭐ 3,379 | 🐛 242 | 🌐 JavaScript | 📅 2022-12-07 ★571 - 基于Vue 2和高德地图的地图组件
 * [vonic](https://github.com/wangdahoo/vonic) ⭐ 3,378 | 🐛 71 | 🌐 Vue | 📅 2022-02-12 ★1913 - 快速构建移动端单页应用
 * [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) ⭐ 2,855 | 🐛 96 | 🌐 JavaScript | 📅 2023-11-18 ★779 - VueJS的无限滚动指令
-* [vue-ydui](https://github.com/ydcss/vue-ydui) ⭐ 2,728 | 🐛 201 | 🌐 Vue | 📅 2026-07-27 ★247 - 基于Vue2的移动端和微信UI
-* [vue-upload-component](https://github.com/lian-yue/vue-upload-component) ⭐ 2,688 | 🐛 201 | 🌐 Vue | 📅 2026-08-25 ★298 - Vuejs文件上传组件
+* [vue-ydui](https://github.com/ydcss/vue-ydui) ⭐ 2,727 | 🐛 201 | 🌐 Vue | 📅 2026-07-27 ★247 - 基于Vue2的移动端和微信UI
+* [vue-upload-component](https://github.com/lian-yue/vue-upload-component) ⭐ 2,687 | 🐛 201 | 🌐 Vue | 📅 2026-08-25 ★298 - Vuejs文件上传组件
 * [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) ⭐ 2,645 | 🐛 77 | 🌐 JavaScript | 📅 2023-09-19 ★501 - VueJS的无限滚动插件
 * [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) ⭐ 2,589 | 🐛 260 | 🌐 JavaScript | 📅 2024-07-09 ★314 - vue日期选择器组件
 * [vue2-editor](https://github.com/davidroyer/vue2-editor) ⭐ 2,513 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-11 ★155 - HTML编辑器
@@ -54,13 +54,13 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [eme](https://github.com/egoist/eme) ⭐ 2,058 | 🐛 63 | 🌐 JavaScript | 📅 2022-12-10 ★1529 - 优雅的Markdown编辑器
 * [vue-dropzone](https://github.com/rowanwins/vue-dropzone) ⭐ 2,004 | 🐛 146 | 🌐 Vue | 📅 2024-03-28 ★233 - 用于文件上传的Vue组件
 * [vue-table](https://github.com/ratiw/vue-table) ⭐ 1,821 | 🐛 65 | 🌐 Vue | 📅 2018-08-21 ★1009 - 简化数据表格
-* [vue-chat](https://github.com/Coffcer/vue-chat) ⭐ 1,775 | 🐛 20 | 🌐 Vue | 📅 2024-06-11 ★859 - vuejs和vuex及webpack的聊天示例
+* [vue-chat](https://github.com/Coffcer/vue-chat) ⭐ 1,776 | 🐛 20 | 🌐 Vue | 📅 2024-06-11 ★859 - vuejs和vuex及webpack的聊天示例
 * [vue-scroller](https://github.com/wangdahoo/vue-scroller) ⭐ 1,774 | 🐛 113 | 🌐 JavaScript | 📅 2020-02-17 ★444 - Vonic UI的功能性组件
 * [DataVisualization](https://github.com/SimonZhangITer/DataVisualization) ⭐ 1,726 | 🐛 3 | 🌐 Vue | 📅 2020-09-16 ★298 - 数据可视化
 * [vue-blu](https://github.com/chenz24/vue-blu) ⭐ 1,559 | 🐛 64 | 🌐 Vue | 📅 2025-06-08 ★850 - 帮助你轻松创建web应用
 * [vue-tables-2](https://github.com/matfish2/vue-tables-2) ⚠️ Archived ★291 - 显示数据的bootstrap样式网格
 * [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) ⭐ 1,503 | 🐛 98 | 🌐 JavaScript | 📅 2021-07-09 ★313 - 基于vue.js的全日历组件
-* [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) ⭐ 1,477 | 🐛 28 | 📅 2023-10-30 ★655 - Sublime Text语法高亮
+* [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) ⭐ 1,478 | 🐛 28 | 📅 2023-10-30 ★655 - Sublime Text语法高亮
 * [vue-progressbar](https://github.com/hilongjw/vue-progressbar) ⭐ 1,447 | 🐛 45 | 🌐 JavaScript | 📅 2024-03-10 ★379 - vue轻量级进度条
 * [vue-particles](https://github.com/creotip/vue-particles) ⭐ 1,438 | 🐛 51 | 🌐 JavaScript | 📅 2024-03-16 ★168 - 粒子背景的vue组件
 * [vue-recyclerview](https://github.com/hilongjw/vue-recyclerview) ⭐ 1,436 | 🐛 11 | 🌐 JavaScript | 📅 2020-03-30 ★849 - 管理大列表的vue-recyclerview
@@ -71,14 +71,14 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [vue-trend](https://github.com/QingWei-Li/vue-trend) ⭐ 1,186 | 🐛 25 | 🌐 JavaScript | 📅 2022-12-06 ★332 - 简单优雅的星光线条
 * [veui](https://github.com/ecomfe/veui) ⭐ 1,064 | 🐛 14 | 🌐 JavaScript | 📅 2026-04-27 ★50 - VueJS百度企业UI
 * [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) ⭐ 1,015 | 🐛 8 | 🌐 JavaScript | 📅 2023-06-26 ★266 - VueJS2数据表格
-* [vue-carousel-3d](https://github.com/Wlada/vue-carousel-3d) ⭐ 980 | 🐛 0 | 🌐 Vue | 📅 2026-08-12 ★173 - VueJS的3D轮播组件
+* [vue-carousel-3d](https://github.com/Wlada/vue-carousel-3d) ⭐ 981 | 🐛 0 | 🌐 Vue | 📅 2026-08-12 ★173 - VueJS的3D轮播组件
 * [vue-chat](https://github.com/microzz/vue-chat) ⭐ 976 | 🐛 8 | 🌐 Vue | 📅 2017-05-10 ★200 - Vue全家桶+Socket.io+Express/Koa2打造一个智能聊天室
 * [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) ⚠️ Archived ★303 - html5所见即所得编辑器
 * [vue-slider](https://github.com/warpcgd/vue-slider) ⭐ 914 | 🐛 52 | 🌐 Vue | 📅 2022-12-09 ★224 - vue 滑动组件
 * [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) ⭐ 912 | 🐛 12 | 🌐 TypeScript | 📅 2024-02-21 ★127 - 创建svg图标组件的工具
 * [vue-swipe](https://github.com/ElemeFE/vue-swipe) ⭐ 910 | 🐛 41 | 🌐 Vue | 📅 2019-10-15 ★481 - VueJS触摸滑块
 * [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) ⭐ 893 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-14 ★351 - VueJS组件封装
-* [radon-ui](https://github.com/luojilab/radon-ui) ⭐ 891 | 🐛 12 | 🌐 Vue | 📅 2018-05-30 ★715 - 快速开发产品的Vue组件库
+* [radon-ui](https://github.com/luojilab/radon-ui) ⭐ 892 | 🐛 12 | 🌐 Vue | 📅 2018-05-30 ★715 - 快速开发产品的Vue组件库
 * [vue-picture-input](https://github.com/alessiomaffeis/vue-picture-input) ⭐ 885 | 🐛 1 | 🌐 Vue | 📅 2026-08-18 ★352 - 移动友好的图片文件输入组件
 * [vue-carbon](https://github.com/myronliu347/vue-carbon) ⭐ 855 | 🐛 10 | 🌐 Vue | 📅 2016-11-15 ★684 - 基于 vue 开发MD风格的移动端
 * [VueStar](https://github.com/OYsun/VueStar) ⭐ 855 | 🐛 15 | 🌐 CSS | 📅 2019-12-17 ★270 - 带星星动画的vue点赞按钮
@@ -207,9 +207,9 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 
 ## 开发框架
 
-* [vue.js](https://github.com/vuejs/vue) ⭐ 210,694 | 🐛 638 | 🌐 TypeScript | 📅 2024-10-10 ★56380 - 流行的轻量高效的前端组件化方案
-* [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) ⭐ 90,207 | 🐛 1,402 | 🌐 Vue | 📅 2024-10-24 ★1986 - vue2管理系统模板
-* [quasar](https://github.com/quasarframework/quasar) ⭐ 27,203 | 🐛 280 | 🌐 JavaScript | 📅 2026-08-25 ★2353 - 响应式网站和混合移动应用程序
+* [vue.js](https://github.com/vuejs/vue) ⭐ 210,754 | 🐛 636 | 🌐 TypeScript | 📅 2024-10-10 ★56380 - 流行的轻量高效的前端组件化方案
+* [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) ⭐ 90,204 | 🐛 1,402 | 🌐 Vue | 📅 2024-10-24 ★1986 - vue2管理系统模板
+* [quasar](https://github.com/quasarframework/quasar) ⭐ 27,201 | 🐛 256 | 🌐 JavaScript | 📅 2026-08-26 ★2353 - 响应式网站和混合移动应用程序
 * [electron-vue](https://github.com/SimulatedGREG/electron-vue) ⚠️ Archived ★2085 - Electron及VueJS快速启动样板
 * [vue-admin](https://github.com/fundon/vue-admin) ⭐ 9,328 | 🐛 103 | 📅 2020-04-06 ★4612 - Vue管理面板框架
 * [vuepack](https://github.com/egoist/vuepack) ⭐ 2,394 | 🐛 38 | 🌐 JavaScript | 📅 2022-06-26 ★1618 - 现代VueJS启动器
@@ -237,7 +237,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [vue-i18n](https://github.com/kazupon/vue-i18n) ⚠️ Archived ★1053 - VueJS的多语言切换插件
 * [vuelidate](https://github.com/monterail/vuelidate) ⭐ 6,874 | 🐛 212 | 🌐 JavaScript | 📅 2025-06-10 ★1075 - 简单轻量级的基于模块的Vue.js验证
 * [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) ⚠️ Archived ★104 - VueJS和属性Decorator
-* [vue-loader](https://github.com/vuejs/vue-loader) ⭐ 4,962 | 🐛 231 | 🌐 TypeScript | 📅 2024-08-07 ★1847 - Vue.js 针对Webpack的组件装载插件
+* [vue-loader](https://github.com/vuejs/vue-loader) ⭐ 4,963 | 🐛 231 | 🌐 TypeScript | 📅 2024-08-07 ★1847 - Vue.js 针对Webpack的组件装载插件
 * [vue-meta](https://github.com/declandewet/vue-meta) ⚠️ Archived ★467 - 管理app的meta信息
 * [Vue-Socketio](https://github.com/MetinSeylan/Vue-Socket.io) ⭐ 3,898 | 🐛 54 | 🌐 JavaScript | 📅 2023-02-09 ★533 - VueJS的socketio实现
 * [portal-vue](https://github.com/LinusBorg/portal-vue) ⭐ 3,887 | 🐛 39 | 🌐 Vue | 📅 2023-11-25 ★239 - 在组件外部渲染DOM
@@ -248,9 +248,9 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) ⭐ 1,644 | 🐛 30 | 🌐 JavaScript | 📅 2022-11-08 ★42 - 当元素在页面上可见或隐藏时检测
 * [http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) ⚠️ Archived ★84 - 从html及js环境加载vue文件
 * [vue-authenticate](https://github.com/dgrubelic/vue-authenticate) ⭐ 1,424 | 🐛 112 | 🌐 JavaScript | 📅 2024-03-14 ★177 - 简单的VueJS身份认证库
-* [vue-aplayer](https://github.com/SevenOutman/vue-aplayer) ⭐ 1,334 | 🐛 88 | 🌐 Vue | 📅 2026-08-21 ★100 - 便于配置的音乐播放器vue2组件
-* [vue-head](https://github.com/ktquez/vue-head) ⭐ 976 | 🐛 8 | 🌐 JavaScript | 📅 2023-06-08 ★396 - head标签的meta信息操作
-* [uiv](https://github.com/wxsms/uiv) ⭐ 937 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-25 ★70 - Vue实现的Bootstrap组件
+* [vue-aplayer](https://github.com/SevenOutman/vue-aplayer) ⭐ 1,333 | 🐛 88 | 🌐 Vue | 📅 2026-08-27 ★100 - 便于配置的音乐播放器vue2组件
+* [vue-head](https://github.com/ktquez/vue-head) ⭐ 977 | 🐛 8 | 🌐 JavaScript | 📅 2023-06-08 ★396 - head标签的meta信息操作
+* [uiv](https://github.com/wxsms/uiv) ⭐ 937 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-27 ★70 - Vue实现的Bootstrap组件
 * [vue-shortkey](https://github.com/iFgR/vue-shortkey) ⭐ 891 | 🐛 63 | 🌐 JavaScript | 📅 2024-03-15 ★74 - 应用于Vue.js的Vue-ShortKey 插件
 * [meteor-vue-component](https://github.com/Akryum/meteor-vue-component) ⭐ 885 | 🐛 109 | 🌐 JavaScript | 📅 2023-05-17 ★382 - vue和meteor整合
 * [vuep](https://github.com/QingWei-Li/vuep) ⭐ 877 | 🐛 40 | 🌐 JavaScript | 📅 2022-12-06 ★118 - 用实时编辑和预览来渲染Vue组件
@@ -267,7 +267,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [vue-desktop](https://github.com/ElemeFE/vue-desktop) ⭐ 540 | 🐛 14 | 🌐 Vue | 📅 2022-02-11 ★496 - 创建管理面板网站的UI库
 * [vue-ls](https://github.com/RobinCK/vue-ls) ⭐ 528 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-21 ★49 - 适配Vuecontext中LocalStorage的Vue插件
 * [vue-websocket](https://github.com/icebob/vue-websocket) ⚠️ Archived ★91 - VueJS的Websocket插件
-* [vue-eslint-parser](https://github.com/mysticatea/vue-eslint-parser) ⭐ 487 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-20 ★27 - ESLint自定义解析
+* [vue-eslint-parser](https://github.com/mysticatea/vue-eslint-parser) ⭐ 489 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-20 ★27 - ESLint自定义解析
 * [vuet](https://github.com/medevicex/vuet) ⭐ 416 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-24 ★116 - 一个跨页面、跨组件的状态管理插件
 * [vue-focus](https://github.com/simplesmiler/vue-focus) ⭐ 398 | 🐛 10 | 🌐 JavaScript | 📅 2021-04-18 ★148 - 可重用VueJS组件的焦点指令
 * [blessed-vue](https://github.com/lyonlai/blessed-vue) ⭐ 380 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-12 ★181 - 编写命令行UI的VueJS运行时
@@ -324,7 +324,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 
 ## 服务端
 
-* [nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,803 | 🐛 543 | 🌐 TypeScript | 📅 2026-08-26 ★4564 - 用于服务器渲染Vue app的最小化框架
+* [nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,803 | 🐛 545 | 🌐 TypeScript | 📅 2026-08-27 ★4564 - 用于服务器渲染Vue app的最小化框架
 * [express-vue](https://github.com/danmademe/express-vue) ⭐ 1,299 | 🐛 47 | 🌐 JavaScript | 📅 2022-11-10 ★302 - 简单的使用服务器端渲染vue.js
 * [unvue](https://github.com/egoist/unvue) ⚠️ Archived ★310 - 使用简单的通用VueJS应用
 * [doubanMovie-SSR](https://github.com/monkeyWangs/doubanMovie-SSR) ⭐ 524 | 🐛 8 | 🌐 Vue | 📅 2017-09-02 ★85 - Vue豆瓣电影服务端渲染
@@ -343,10 +343,10 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 
 ## 应用实例
 
-* [vue-manage-system](https://github.com/lin-xin/vue-manage-system) ⭐ 19,626 | 🐛 152 | 🌐 Vue | 📅 2024-08-17 ★2057 - 后台管理系统解决方案
-* [koel](https://github.com/phanan/koel) ⭐ 17,233 | 🐛 15 | 🌐 PHP | 📅 2026-08-22 ★7773 - 基于网络的个人音频流媒体服务
+* [vue-manage-system](https://github.com/lin-xin/vue-manage-system) ⭐ 19,622 | 🐛 152 | 🌐 Vue | 📅 2024-08-17 ★2057 - 后台管理系统解决方案
+* [koel](https://github.com/phanan/koel) ⭐ 17,234 | 🐛 15 | 🌐 PHP | 📅 2026-08-22 ★7773 - 基于网络的个人音频流媒体服务
 * [pagekit](https://github.com/pagekit/pagekit) ⚠️ Archived ★4225 - 轻量级的CMS建站系统
-* [PJ Blog](https://github.com/jcc/blog) ⭐ 2,854 | 🐛 38 | 🌐 PHP | 📅 2023-06-08 ★1018 - 开源博客
+* [PJ Blog](https://github.com/jcc/blog) ⭐ 2,853 | 🐛 38 | 🌐 PHP | 📅 2023-06-08 ★1018 - 开源博客
 * [rss-reader](https://github.com/mrgodhani/rss-reader) ⚠️ Archived ★368 - 简单的rss阅读器
 * [vuedo](https://github.com/Vuedo/vuedo) ⭐ 2,268 | 🐛 24 | 🌐 PHP | 📅 2020-10-01 ★1265 - 博客平台
 * [goldfish](https://github.com/Caiyeon/goldfish) ⚠️ Archived ★518 - 用于HashiCorp Vault的Admin UI
@@ -361,13 +361,13 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [swoole-vue-webim](https://github.com/wh469012917/swoole-vue-webim) ⭐ 299 | 🐛 1 | 🌐 Vue | 📅 2016-12-02 ★137 - Web版的聊天应用
 * [tomato5](https://github.com/zhangxin840/tomato5) ⭐ 238 | 🐛 13 | 🌐 Vue | 📅 2016-12-14 ★134 - 实时的协作工具
 * [vue-dashing-js](https://github.com/thelinuxlich/vue-dashing-js) ⭐ 80 | 🐛 2 | 🌐 JavaScript | 📅 2017-03-17 ★70 - nuvo-dashing-js的fork
+* [fewords](https://github.com/sapjax/fewords) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2026-08-26 ★63 - 功能极其简单的笔记本
 * [vms](https://github.com/ericjjj/vms) ★629 - vuejs2管理系统
-* [fewords](https://github.com/sapjax/fewords) ★63 - 功能极其简单的笔记本
 
 ## Demo示例
 
-* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 41,024 | 🐛 121 | 🌐 Vue | 📅 2025-04-11 ★8036 - 重写饿了么webapp
-* [vue2-manage](https://github.com/bailicangdu/vue2-manage) ⭐ 13,618 | 🐛 110 | 🌐 Vue | 📅 2024-07-05 ★457 - 基于 vue + element-ui 的后台管理系统
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 41,020 | 🐛 121 | 🌐 Vue | 📅 2025-04-11 ★8036 - 重写饿了么webapp
+* [vue2-manage](https://github.com/bailicangdu/vue2-manage) ⭐ 13,617 | 🐛 110 | 🌐 Vue | 📅 2024-07-05 ★457 - 基于 vue + element-ui 的后台管理系统
 * [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) ⭐ 10,535 | 🐛 30 | 🌐 JavaScript | 📅 2023-03-11 ★1535 - vue2及vuex的入门练习项目
 * [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) ⭐ 3,018 | 🐛 3 | 🌐 JavaScript | 📅 2017-11-18 ★2491 - 基于vue重写Cnodejs.org的webapp
 * [vue-axios-github](https://github.com/superman66/vue-axios-github) ⭐ 2,668 | 🐛 8 | 🌐 JavaScript | 📅 2020-06-09 ★448 - 登录拦截登出功能
@@ -375,7 +375,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [douban](https://github.com/jeneser/douban) ⭐ 2,291 | 🐛 4 | 🌐 Vue | 📅 2017-11-05 ★606 - 基于vue全家桶的精致豆瓣DEMO
 * [vue-WeChat](https://github.com/zhaohaodang/vue-WeChat) ⭐ 2,114 | 🐛 24 | 🌐 Vue | 📅 2023-03-05 ★558 - 基于Vue2高仿微信App的单页应用
 * [vue2-demo](https://github.com/lzxb/vue2-demo) ⭐ 2,097 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-14 ★994 - 从零构建vue2 + vue-router + vuex 开发环境
-* [vue-todos](https://github.com/liangxiaojuan/vue-todos) ⭐ 1,960 | 🐛 24 | 🌐 JavaScript | 📅 2021-08-03 ★95 - vue最新实战项目教程
+* [vue-todos](https://github.com/liangxiaojuan/vue-todos) ⭐ 1,961 | 🐛 24 | 🌐 JavaScript | 📅 2021-08-03 ★95 - vue最新实战项目教程
 * [vue-wechat](https://github.com/useryangtao/vue-wechat) ⭐ 1,676 | 🐛 11 | 🌐 Vue | 📅 2017-10-19 ★939 - vue.js开发微信app界面
 * [vue-music](https://github.com/Sioxas/vue-music) ⭐ 1,594 | 🐛 9 | 🌐 Vue | 📅 2022-09-06 ★621 - Vue 音乐搜索播放
 * [eleme](https://github.com/liangxiaojuan/eleme) ⭐ 1,589 | 🐛 1 | 📅 2020-04-20 ★882 - 高仿饿了么app商家详情
@@ -397,7 +397,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [vue2-MiniQQ](https://github.com/jiangqizheng/vue2-MiniQQ) ⭐ 719 | 🐛 8 | 🌐 Vue | 📅 2020-12-10 ★351 - 基于Vue2实现的仿手机QQ单页面应用
 * [VueBlog](https://github.com/FatDong1/VueBlog) ⭐ 672 | 🐛 5 | 🌐 Vue | 📅 2026-01-25 ★73 - 前后端分离的个人博客
 * [zhihudaily-vue](https://github.com/yatessss/zhihudaily-vue) ⭐ 666 | 🐛 7 | 🌐 Vue | 📅 2019-05-17 ★455 - 知乎日报web版
-* [notepad](https://github.com/lin-xin/notepad) ⭐ 628 | 🐛 5 | 🌐 Vue | 📅 2019-07-15 ★216 - 本地存储的记事本
+* [notepad](https://github.com/lin-xin/notepad) ⭐ 629 | 🐛 5 | 🌐 Vue | 📅 2019-07-15 ★216 - 本地存储的记事本
 * [vue-shopping](https://github.com/andylei18/vue-shopping) ⭐ 618 | 🐛 9 | 🌐 CSS | 📅 2021-08-03 ★404 - 蘑菇街移动端
 * [vue-blog](https://github.com/BUPT-HJM/vue-blog) ⭐ 593 | 🐛 4 | 🌐 JavaScript | 📅 2022-02-11 ★171 - 单用户博客
 * [vue-jd](https://github.com/huangche007/vue-jd) ⭐ 593 | 🐛 1 | 🌐 Vue | 📅 2022-01-29 ★76 - 京东移动web商城
@@ -498,4 +498,4 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
