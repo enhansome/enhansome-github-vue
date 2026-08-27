@@ -27,7 +27,7 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:45:17Z",
+            "last_commit": "2026-08-27T11:58:36Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
             "stars": 41041
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 88717215,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:00:12Z",
+            "last_commit": "2026-08-27T11:57:32Z",
             "owner": "youzan",
             "repo": "vant",
             "stars": 24376
@@ -495,7 +495,7 @@
             "last_commit": "2024-08-01T07:06:28Z",
             "owner": "NightCatSama",
             "repo": "vue-slider-component",
-            "stars": 2421
+            "stars": 2420
           }
         },
         {
@@ -2796,7 +2796,7 @@
             "last_commit": "2024-10-10T07:24:15Z",
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210754
+            "stars": 210753
           }
         },
         {
@@ -2811,7 +2811,7 @@
             "last_commit": "2024-10-24T11:25:46Z",
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90204
+            "stars": 90203
           }
         },
         {
@@ -4413,7 +4413,7 @@
             "last_commit": "2026-08-27T11:07:03Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60803
+            "stars": 60802
           }
         },
         {
@@ -6689,7 +6689,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:11.177Z",
+    "last_updated": "2026-08-27T12:59:54.421Z",
     "original_repository_info": {
       "archived": false,
       "id": 84019065,
