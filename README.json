@@ -16,7 +16,8 @@
             "owner": "ElemeFE",
             "repo": "element",
             "stars": 54057
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:58:36Z",
+            "last_commit": "2026-08-28T02:36:02Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41041
-          }
+            "stars": 41043
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 88717215,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:57:32Z",
+            "last_commit": "2026-08-27T22:55:47Z",
             "owner": "youzan",
             "repo": "vant",
             "stars": 24376
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "iview",
             "repo": "iview",
             "stars": 23773
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "SortableJS",
             "repo": "Vue.Draggable",
             "stars": 20588
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-07-17T23:32:23Z",
             "owner": "airyland",
             "repo": "vux",
-            "stars": 17461
-          }
+            "stars": 17462
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "ElemeFE",
             "repo": "mint-ui",
             "stars": 16437
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "bootstrap-vue",
             "repo": "bootstrap-vue",
             "stars": 14428
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "surmon-china",
             "repo": "vue-awesome-swiper",
             "stars": 12772
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2026-08-12T06:13:53Z",
             "owner": "Akryum",
             "repo": "vue-virtual-scroller",
-            "stars": 10791
-          }
+            "stars": 10792
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "ecomfe",
             "repo": "vue-echarts",
             "stars": 10742
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "buefy",
             "repo": "buefy",
             "stars": 9521
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -195,8 +207,9 @@
             "last_commit": "2022-12-09T01:15:39Z",
             "owner": "museui",
             "repo": "muse-ui",
-            "stars": 8137
-          }
+            "stars": 8138
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "surmon-china",
             "repo": "vue-quill-editor",
             "stars": 7399
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -225,8 +239,9 @@
             "last_commit": "2026-08-21T11:04:50Z",
             "owner": "shentao",
             "repo": "vue-multiselect",
-            "stars": 6778
-          }
+            "stars": 6783
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "hinesboy",
             "repo": "mavonEditor",
             "stars": 6578
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "taylorchen709",
             "repo": "vue-admin",
             "stars": 6559
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -267,11 +284,12 @@
             "archived": false,
             "id": 61990007,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T11:11:36Z",
+            "last_commit": "2026-08-28T11:34:02Z",
             "owner": "apertureless",
             "repo": "vue-chartjs",
             "stars": 5712
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "surmon-china",
             "repo": "videojs-player",
             "stars": 5441
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "xyxiao001",
             "repo": "vue-cropper",
             "stars": 4559
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "euvl",
             "repo": "vue-js-modal",
             "stars": 4312
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "JosephusPaye",
             "repo": "Keen-UI",
             "stars": 4052
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "Zulko",
             "repo": "eagle.js",
             "stars": 4052
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "Akryum",
             "repo": "floating-vue",
             "stars": 3463
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -375,8 +399,9 @@
             "last_commit": "2022-12-07T23:04:30Z",
             "owner": "ElemeFE",
             "repo": "vue-amap",
-            "stars": 3379
-          }
+            "stars": 3380
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "wangdahoo",
             "repo": "vonic",
             "stars": 3378
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "ElemeFE",
             "repo": "vue-infinite-scroll",
             "stars": 2855
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "ydcss",
             "repo": "vue-ydui",
             "stars": 2727
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "lian-yue",
             "repo": "vue-upload-component",
             "stars": 2687
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "PeachScript",
             "repo": "vue-infinite-loading",
             "stars": 2645
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -466,7 +496,8 @@
             "owner": "charliekassel",
             "repo": "vuejs-datepicker",
             "stars": 2589
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "davidroyer",
             "repo": "vue2-editor",
             "stars": 2513
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "NightCatSama",
             "repo": "vue-slider-component",
             "stars": 2420
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -511,7 +544,8 @@
             "owner": "Dafrok",
             "repo": "vue-baidu-map",
             "stars": 2408
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -526,7 +560,8 @@
             "owner": "MopTym",
             "repo": "vue-waterfall",
             "stars": 2196
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -541,7 +576,8 @@
             "owner": "FE-Driver",
             "repo": "vue-beauty",
             "stars": 2099
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -556,7 +592,8 @@
             "owner": "dai-siki",
             "repo": "vue-image-crop-upload",
             "stars": 2079
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -571,7 +608,8 @@
             "owner": "egoist",
             "repo": "eme",
             "stars": 2058
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -586,7 +624,8 @@
             "owner": "rowanwins",
             "repo": "vue-dropzone",
             "stars": 2004
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -601,7 +640,8 @@
             "owner": "ratiw",
             "repo": "vue-table",
             "stars": 1821
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -616,7 +656,8 @@
             "owner": "Coffcer",
             "repo": "vue-chat",
             "stars": 1776
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -631,7 +672,8 @@
             "owner": "wangdahoo",
             "repo": "vue-scroller",
             "stars": 1774
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -646,7 +688,8 @@
             "owner": "SimonZhangITer",
             "repo": "DataVisualization",
             "stars": 1726
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -661,7 +704,8 @@
             "owner": "chenz24",
             "repo": "vue-blu",
             "stars": 1559
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -676,7 +720,8 @@
             "owner": "matfish2",
             "repo": "vue-tables-2",
             "stars": 1511
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -691,7 +736,8 @@
             "owner": "Wanderxx",
             "repo": "vue-fullcalendar",
             "stars": 1503
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -706,7 +752,8 @@
             "owner": "vuejs",
             "repo": "vue-syntax-highlight",
             "stars": 1478
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -721,7 +768,8 @@
             "owner": "hilongjw",
             "repo": "vue-progressbar",
             "stars": 1447
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -736,7 +784,8 @@
             "owner": "creotip",
             "repo": "vue-particles",
             "stars": 1438
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -751,7 +800,8 @@
             "owner": "hilongjw",
             "repo": "vue-recyclerview",
             "stars": 1436
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -765,8 +815,9 @@
             "last_commit": "2021-07-09T14:18:15Z",
             "owner": "jinzhe",
             "repo": "vue-calendar",
-            "stars": 1406
-          }
+            "stars": 1405
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -781,7 +832,8 @@
             "owner": "nicolasbeauvais",
             "repo": "vue-social-sharing",
             "stars": 1372
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -796,7 +848,8 @@
             "owner": "Vanthink-UED",
             "repo": "vue-core-image-upload",
             "stars": 1343
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -811,7 +864,8 @@
             "owner": "OYsun",
             "repo": "VueCircleMenu",
             "stars": 1210
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -826,7 +880,8 @@
             "owner": "QingWei-Li",
             "repo": "vue-trend",
             "stars": 1186
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -841,7 +896,8 @@
             "owner": "ecomfe",
             "repo": "veui",
             "stars": 1064
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -856,7 +912,8 @@
             "owner": "njleonzhang",
             "repo": "vue-data-tables",
             "stars": 1015
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -871,7 +928,8 @@
             "owner": "Wlada",
             "repo": "vue-carousel-3d",
             "stars": 981
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -886,7 +944,8 @@
             "owner": "microzz",
             "repo": "vue-chat",
             "stars": 976
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -901,7 +960,8 @@
             "owner": "PeakTai",
             "repo": "vue-html5-editor",
             "stars": 951
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -916,7 +976,8 @@
             "owner": "warpcgd",
             "repo": "vue-concise-slider",
             "stars": 914
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -931,7 +992,8 @@
             "owner": "MMF-FE",
             "repo": "svgicon",
             "stars": 912
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1008,8 @@
             "owner": "ElemeFE",
             "repo": "vue-swipe",
             "stars": 910
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1024,8 @@
             "owner": "xlsdg",
             "repo": "vue-echarts-v3",
             "stars": 893
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -976,7 +1040,8 @@
             "owner": "luojilab",
             "repo": "radon-ui",
             "stars": 892
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1056,8 @@
             "owner": "alessiomaffeis",
             "repo": "vue-picture-input",
             "stars": 885
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1072,8 @@
             "owner": "myronliu347",
             "repo": "vue-carbon",
             "stars": 855
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1088,8 @@
             "owner": "OYsun",
             "repo": "VueStar",
             "stars": 855
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1104,8 @@
             "owner": "Awheat",
             "repo": "vue2-douban-market",
             "stars": 853
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1120,8 @@
             "owner": "jsmmth",
             "repo": "vue-loop",
             "stars": 803
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1136,8 @@
             "owner": "cngu",
             "repo": "vue-typer",
             "stars": 789
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1152,8 @@
             "owner": "lokyoung",
             "repo": "vuejs-paginate",
             "stars": 768
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1096,7 +1168,8 @@
             "owner": "F-loat",
             "repo": "vue-simplemde",
             "stars": 766
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1184,8 @@
             "owner": "hilongjw",
             "repo": "vue-dragging",
             "stars": 752
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1200,8 @@
             "owner": "ankane",
             "repo": "vue-chartkick",
             "stars": 749
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1216,8 @@
             "owner": "gilbitron",
             "repo": "laravel-vue-pagination",
             "stars": 746
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1232,8 @@
             "owner": "visma-meglerfront",
             "repo": "sweet-modal-vue",
             "stars": 745
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1171,7 +1248,8 @@
             "owner": "microzz",
             "repo": "vue-music-player",
             "stars": 728
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1186,7 +1264,8 @@
             "owner": "MatteoGabriele",
             "repo": "vue-progressive-image",
             "stars": 720
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1201,7 +1280,8 @@
             "owner": "sagalbot",
             "repo": "vue-sortable",
             "stars": 716
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1296,8 @@
             "owner": "hilongjw",
             "repo": "vue-datepicker",
             "stars": 694
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1312,8 @@
             "owner": "craigh411",
             "repo": "vue-star-rating",
             "stars": 652
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1328,8 @@
             "owner": "hifarer",
             "repo": "vueditor",
             "stars": 634
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1344,8 @@
             "owner": "GeoffZhu",
             "repo": "vue-event-calendar",
             "stars": 623
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1276,7 +1360,8 @@
             "owner": "spatie",
             "repo": "vue-tabs-component",
             "stars": 614
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1291,7 +1376,8 @@
             "owner": "staskjs",
             "repo": "vue-slick",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1306,7 +1392,8 @@
             "owner": "TahaSh",
             "repo": "vue-paginate",
             "stars": 593
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1408,8 @@
             "owner": "GuillaumeLeclerc",
             "repo": "vue-google-maps",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1424,8 @@
             "owner": "waynecz",
             "repo": "vue-img-inputer",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1351,7 +1440,8 @@
             "owner": "jrainlau",
             "repo": "markcook",
             "stars": 547
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1366,7 +1456,8 @@
             "owner": "egoist",
             "repo": "vue-mugen-scroll",
             "stars": 532
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1381,7 +1472,8 @@
             "owner": "Zhangdroid",
             "repo": "Gokotta",
             "stars": 510
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1396,7 +1488,8 @@
             "owner": "icai",
             "repo": "vue3-calendar",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1411,7 +1504,8 @@
             "owner": "ovenslove",
             "repo": "vue-mdEditor",
             "stars": 487
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1520,8 @@
             "owner": "tianyong90",
             "repo": "we-vue",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1536,8 @@
             "owner": "surmon-china",
             "repo": "vue-touch-ripple",
             "stars": 475
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1456,7 +1552,8 @@
             "owner": "fitzhavey",
             "repo": "vue-json-tree-view",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1471,7 +1568,8 @@
             "owner": "CroudTech",
             "repo": "vue-fullcalendar",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1486,7 +1584,8 @@
             "owner": "jkchao",
             "repo": "vue-loading",
             "stars": 470
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1501,7 +1600,8 @@
             "owner": "phoenixwong",
             "repo": "vue2-timepicker",
             "stars": 427
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1616,8 @@
             "owner": "santiblanko",
             "repo": "vue-instant",
             "stars": 419
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1531,7 +1632,8 @@
             "owner": "coderdiaz",
             "repo": "vue-datasource",
             "stars": 408
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1546,7 +1648,8 @@
             "owner": "weizhenye",
             "repo": "vue-highcharts",
             "stars": 405
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1561,7 +1664,8 @@
             "owner": "chenjiahan",
             "repo": "vodal",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1576,7 +1680,8 @@
             "owner": "hzzly",
             "repo": "MagicMusic",
             "stars": 372
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1591,7 +1696,8 @@
             "owner": "Astray-git",
             "repo": "vue-dragula",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1606,7 +1712,8 @@
             "owner": "shhdgit",
             "repo": "vue-easy-slider",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1621,7 +1728,8 @@
             "owner": "GimmyHchs",
             "repo": "vue-charts",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1636,7 +1744,8 @@
             "owner": "Haixing-Hu",
             "repo": "vue-datetime-picker",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1651,7 +1760,8 @@
             "owner": "hejianxian",
             "repo": "vue-drag-and-drop-list",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1666,7 +1776,8 @@
             "owner": "jkchao",
             "repo": "vue-emoji",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1681,7 +1792,8 @@
             "owner": "hilongjw",
             "repo": "vue-video",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1696,7 +1808,8 @@
             "owner": "mint-ui",
             "repo": "mint-loadmore",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1711,7 +1824,8 @@
             "owner": "icebob",
             "repo": "vue-touch-keyboard",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1726,7 +1840,8 @@
             "owner": "phanan",
             "repo": "vue-google-signin-button",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1741,7 +1856,8 @@
             "owner": "xaksis",
             "repo": "vue-good-wizard",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1756,7 +1872,8 @@
             "owner": "ccforward",
             "repo": "rubik",
             "stars": 279
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1771,7 +1888,8 @@
             "owner": "ValorLin",
             "repo": "vue-swiper",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1786,7 +1904,8 @@
             "owner": "PygmySlowLoris",
             "repo": "vue-ripple-directive",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1801,7 +1920,8 @@
             "owner": "LucienLee",
             "repo": "vue-data-grid",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1816,7 +1936,8 @@
             "owner": "BosNaufal",
             "repo": "vue2-loading-bar",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1831,7 +1952,8 @@
             "owner": "wormsan",
             "repo": "vue-lazyload-img",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1846,7 +1968,8 @@
             "owner": "wdfe",
             "repo": "wdui",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1861,7 +1984,8 @@
             "owner": "bbonnin",
             "repo": "vue-morris",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1876,7 +2000,8 @@
             "owner": "formly-js",
             "repo": "vue-formly",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1891,7 +2016,8 @@
             "owner": "ElemeFE",
             "repo": "vue-msgbox",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1906,7 +2032,8 @@
             "owner": "BosNaufal",
             "repo": "vue2-autocomplete",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1921,7 +2048,8 @@
             "owner": "SinanMtl",
             "repo": "vue-rate",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1936,7 +2064,8 @@
             "owner": "vuwe",
             "repo": "vuwe",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1951,7 +2080,8 @@
             "owner": "luiguild",
             "repo": "v-bar",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1966,7 +2096,8 @@
             "owner": "littlewin-wang",
             "repo": "vue-images",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1981,7 +2112,8 @@
             "owner": "hilongjw",
             "repo": "vue-slide",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -1996,7 +2128,8 @@
             "owner": "NewDadaFE",
             "repo": "vue-impression",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2011,7 +2144,8 @@
             "owner": "yunfeihuang",
             "repo": "vx-ui",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2026,7 +2160,8 @@
             "owner": "bartkozal",
             "repo": "vue-float-label",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2041,7 +2176,8 @@
             "owner": "wirecardBrasil",
             "repo": "awesome-mask",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2056,7 +2192,8 @@
             "owner": "QingWei-Li",
             "repo": "vue-region-picker",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2071,7 +2208,8 @@
             "owner": "alexqdjay",
             "repo": "vue-tabs",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2086,7 +2224,8 @@
             "owner": "saivarunk",
             "repo": "vue-simple-upload",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2101,7 +2240,8 @@
             "owner": "ElemeFE",
             "repo": "vue-toast-mobile",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2116,7 +2256,8 @@
             "owner": "lisiyizu",
             "repo": "vue-ztree",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2131,7 +2272,8 @@
             "owner": "Coffcer",
             "repo": "vue-loading",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2146,7 +2288,8 @@
             "owner": "bajian",
             "repo": "vue-pull-to-refresh",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2161,7 +2304,8 @@
             "owner": "xinxingyu",
             "repo": "vue-city",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2176,7 +2320,8 @@
             "owner": "galenyuan",
             "repo": "vue-datatable",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2191,7 +2336,8 @@
             "owner": "CroudTech",
             "repo": "vue-quill",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2206,7 +2352,8 @@
             "owner": "BosNaufal",
             "repo": "vue-scrollbar",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2221,7 +2368,8 @@
             "owner": "vue-bulma",
             "repo": "datepicker",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2236,7 +2384,8 @@
             "owner": "weifeiyue",
             "repo": "vue-datepicker",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2251,7 +2400,8 @@
             "owner": "8788",
             "repo": "vue-date-picker",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2266,7 +2416,8 @@
             "owner": "fangyongbao",
             "repo": "cubeex",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2281,7 +2432,8 @@
             "owner": "jbaysolutions",
             "repo": "vue-bootstrap-table",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2296,7 +2448,8 @@
             "owner": "legeneek",
             "repo": "vue-image-clip",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2311,7 +2464,8 @@
             "owner": "vue-comps",
             "repo": "vue-parallax",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2326,7 +2480,8 @@
             "owner": "weibangtuo",
             "repo": "vue-tree",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2341,7 +2496,8 @@
             "owner": "blue0728",
             "repo": "vue-area",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2356,7 +2512,8 @@
             "owner": "ShanaMaid",
             "repo": "vue-image-scroll",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2371,7 +2528,8 @@
             "owner": "Ginhing",
             "repo": "vue-tagsinput",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2386,7 +2544,8 @@
             "owner": "yunyi1895",
             "repo": "vue-music-master",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2401,7 +2560,8 @@
             "owner": "myronliu347",
             "repo": "vue-popup-mixin",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2416,7 +2576,8 @@
             "owner": "lithiumjake",
             "repo": "vue-placeholders",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2431,7 +2592,8 @@
             "owner": "mint-ui",
             "repo": "mint-indicator",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2446,7 +2608,8 @@
             "owner": "vue-bulma",
             "repo": "chartjs",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2461,7 +2624,8 @@
             "owner": "darrynten",
             "repo": "vue-lazy-background-images",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2476,7 +2640,8 @@
             "owner": "kocisov",
             "repo": "coffeebreak",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2491,7 +2656,8 @@
             "owner": "Teddy-Zhu",
             "repo": "vue-smoothscroll",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2506,7 +2672,8 @@
             "owner": "dai-siki",
             "repo": "vue-datepicker-simple",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2521,7 +2688,8 @@
             "owner": "matfish2",
             "repo": "vue-form-2",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2536,7 +2704,8 @@
             "owner": "shiye515",
             "repo": "vue-m-carousel",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2551,7 +2720,8 @@
             "owner": "vue-comps",
             "repo": "vue-side-nav",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2566,7 +2736,8 @@
             "owner": "miaolz123",
             "repo": "vue-chart",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2581,7 +2752,8 @@
             "owner": "BosNaufal",
             "repo": "vue-ripple",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2596,7 +2768,8 @@
             "owner": "Teddy-Zhu",
             "repo": "vue-waves",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2611,7 +2784,8 @@
             "owner": "aweiu",
             "repo": "vue-verify-pop",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2626,7 +2800,8 @@
             "owner": "vue-bulma",
             "repo": "handsontable",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2641,7 +2816,8 @@
             "owner": "JackGit",
             "repo": "vue-img-loader",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2656,7 +2832,8 @@
             "owner": "suguangwen",
             "repo": "vue-scroll",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2671,7 +2848,8 @@
             "owner": "doodlewind",
             "repo": "vue-cmap",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2686,7 +2864,8 @@
             "owner": "ik0r",
             "repo": "vue-ios-alertview",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2701,7 +2880,8 @@
             "owner": "eduardostuart",
             "repo": "vue-typewriter",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2716,7 +2896,8 @@
             "owner": "savokiss",
             "repo": "vue-cascading-address",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2731,7 +2912,8 @@
             "owner": "sinchang",
             "repo": "vue-laypage",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2746,7 +2928,8 @@
             "owner": "steven5538",
             "repo": "vue-button",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2761,7 +2944,8 @@
             "owner": "yeseason",
             "repo": "paco-ui-vue",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2776,7 +2960,8 @@
             "owner": "ibufu",
             "repo": "dd-vue-component",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         }
       ],
       "title": "UI组件"
@@ -2796,8 +2981,9 @@
             "last_commit": "2024-10-10T07:24:15Z",
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210753
-          }
+            "stars": 210751
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2811,8 +2997,9 @@
             "last_commit": "2024-10-24T11:25:46Z",
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90203
-          }
+            "stars": 90202
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2823,11 +3010,12 @@
             "archived": false,
             "id": 43695474,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T16:43:12Z",
+            "last_commit": "2026-08-28T14:13:05Z",
             "owner": "quasarframework",
             "repo": "quasar",
-            "stars": 27201
-          }
+            "stars": 27203
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2842,7 +3030,8 @@
             "owner": "SimulatedGREG",
             "repo": "electron-vue",
             "stars": 15381
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2857,7 +3046,8 @@
             "owner": "vue-bulma",
             "repo": "vue-admin",
             "stars": 9328
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2872,7 +3062,8 @@
             "owner": "egoist",
             "repo": "vuepack",
             "stars": 2394
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2887,7 +3078,8 @@
             "owner": "honraytech",
             "repo": "VueThink",
             "stars": 1327
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2902,7 +3094,8 @@
             "owner": "devjin0617",
             "repo": "vue2-admin-lte",
             "stars": 1069
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2917,7 +3110,8 @@
             "owner": "N3-components",
             "repo": "N3-components",
             "stars": 1003
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2932,7 +3126,8 @@
             "owner": "petervmeijgaard",
             "repo": "vue-2-boilerplate",
             "stars": 855
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2947,7 +3142,8 @@
             "owner": "framework7io",
             "repo": "framework7-vue",
             "stars": 667
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2962,7 +3158,8 @@
             "owner": "annnhan",
             "repo": "vue-spa-template",
             "stars": 662
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2977,7 +3174,8 @@
             "owner": "shenghy",
             "repo": "jspangAdmin",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -2992,7 +3190,8 @@
             "owner": "andrewcourtice",
             "repo": "vuetiful",
             "stars": 475
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3007,7 +3206,8 @@
             "owner": "wangxg2016",
             "repo": "vue-bulma",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3022,7 +3222,8 @@
             "owner": "erguotou520",
             "repo": "vue-fullstack",
             "stars": 295
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3037,7 +3238,8 @@
             "owner": "Metnew",
             "repo": "vue-element-starter",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3052,7 +3254,8 @@
             "owner": "cklmercer",
             "repo": "vue-stack-2.0",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3067,7 +3270,8 @@
             "owner": "threeaccents",
             "repo": "vue-webgulp",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3082,7 +3286,8 @@
             "owner": "cristijora",
             "repo": "vue-paper-dashboard",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         }
       ],
       "title": "开发框架"
@@ -3102,8 +3307,9 @@
             "last_commit": "2024-09-25T13:26:41Z",
             "owner": "vuejs",
             "repo": "vuex",
-            "stars": 28321
-          }
+            "stars": 28323
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3118,7 +3324,8 @@
             "owner": "hilongjw",
             "repo": "vue-lazyload",
             "stars": 7993
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3133,7 +3340,8 @@
             "owner": "kazupon",
             "repo": "vue-i18n",
             "stars": 7223
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3148,7 +3356,8 @@
             "owner": "vuelidate",
             "repo": "vuelidate",
             "stars": 6874
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3163,7 +3372,8 @@
             "owner": "kaorun343",
             "repo": "vue-property-decorator",
             "stars": 5468
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3178,7 +3388,8 @@
             "owner": "vuejs",
             "repo": "vue-loader",
             "stars": 4963
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3193,7 +3404,8 @@
             "owner": "nuxt",
             "repo": "vue-meta",
             "stars": 4069
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3208,7 +3420,8 @@
             "owner": "MetinSeylan",
             "repo": "Vue-Socket.io",
             "stars": 3898
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3223,7 +3436,8 @@
             "owner": "LinusBorg",
             "repo": "portal-vue",
             "stars": 3887
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3238,7 +3452,8 @@
             "owner": "Justineo",
             "repo": "vue-awesome",
             "stars": 2426
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3253,7 +3468,8 @@
             "owner": "kazupon",
             "repo": "vue-validator",
             "stars": 2168
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3268,7 +3484,8 @@
             "owner": "rigor789",
             "repo": "vue-scrollto",
             "stars": 2063
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3279,11 +3496,12 @@
             "archived": false,
             "id": 71871673,
             "language": "JavaScript",
-            "last_commit": "2024-06-18T15:37:24Z",
+            "last_commit": "2026-08-28T14:28:44Z",
             "owner": "imcvampire",
             "repo": "vue-axios",
             "stars": 1998
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3298,7 +3516,8 @@
             "owner": "Akryum",
             "repo": "vue-observe-visibility",
             "stars": 1644
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3313,7 +3532,8 @@
             "owner": "FranckFreiburger",
             "repo": "http-vue-loader",
             "stars": 1479
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3328,7 +3548,8 @@
             "owner": "dgrubelic",
             "repo": "vue-authenticate",
             "stars": 1424
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3339,11 +3560,12 @@
             "archived": false,
             "id": 74473078,
             "language": "Vue",
-            "last_commit": "2026-08-27T02:44:59Z",
+            "last_commit": "2026-08-28T08:00:15Z",
             "owner": "SevenOutman",
             "repo": "vue-aplayer",
             "stars": 1333
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3358,7 +3580,8 @@
             "owner": "ktquez",
             "repo": "vue-head",
             "stars": 977
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3369,11 +3592,12 @@
             "archived": false,
             "id": 83400754,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:33:29Z",
+            "last_commit": "2026-08-28T13:42:18Z",
             "owner": "uiv-lib",
             "repo": "uiv",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3388,7 +3612,8 @@
             "owner": "fgr-araujo",
             "repo": "vue-shortkey",
             "stars": 891
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3403,7 +3628,8 @@
             "owner": "meteor-vue",
             "repo": "vue-meteor",
             "stars": 885
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3418,7 +3644,8 @@
             "owner": "QingWei-Li",
             "repo": "vuep",
             "stars": 877
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3433,7 +3660,8 @@
             "owner": "eddyerburgh",
             "repo": "avoriaz",
             "stars": 749
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3448,7 +3676,8 @@
             "owner": "egoist",
             "repo": "vue-timeago",
             "stars": 717
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3463,7 +3692,8 @@
             "owner": "se-panfilov",
             "repo": "vue-notifications",
             "stars": 693
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3478,7 +3708,8 @@
             "owner": "pinguinjkeke",
             "repo": "vue-local-storage",
             "stars": 669
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3493,7 +3724,8 @@
             "owner": "dkfbasel",
             "repo": "vuex-i18n",
             "stars": 656
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3508,7 +3740,8 @@
             "owner": "apertureless",
             "repo": "vue-parallax",
             "stars": 628
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3523,7 +3756,8 @@
             "owner": "israelss",
             "repo": "vue-worker",
             "stars": 585
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3538,7 +3772,8 @@
             "owner": "apertureless",
             "repo": "vue-password-strength-meter",
             "stars": 562
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3553,7 +3788,8 @@
             "owner": "cenkai88",
             "repo": "vue-svg-icon",
             "stars": 554
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3568,7 +3804,8 @@
             "owner": "xanf",
             "repo": "vuex-shared-mutations",
             "stars": 546
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3583,7 +3820,8 @@
             "owner": "ElemeFE",
             "repo": "vue-desktop",
             "stars": 540
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3598,7 +3836,8 @@
             "owner": "RobinCK",
             "repo": "vue-ls",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3613,7 +3852,8 @@
             "owner": "icebob",
             "repo": "vue-websocket",
             "stars": 523
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3628,7 +3868,8 @@
             "owner": "vuejs",
             "repo": "vue-eslint-parser",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3643,7 +3884,8 @@
             "owner": "lzxb",
             "repo": "vuet",
             "stars": 416
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3658,7 +3900,8 @@
             "owner": "simplesmiler",
             "repo": "vue-focus",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3673,7 +3916,8 @@
             "owner": "lyonlai",
             "repo": "blessed-vue",
             "stars": 380
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3688,7 +3932,8 @@
             "owner": "leonardovilarinho",
             "repo": "vue-acl",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3703,7 +3948,8 @@
             "owner": "kartsims",
             "repo": "vue-cordova",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3718,7 +3964,8 @@
             "owner": "David-Desmaisons",
             "repo": "Vue.resize",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3733,7 +3980,8 @@
             "owner": "lynzz",
             "repo": "element-admin",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3748,7 +3996,8 @@
             "owner": "JiriChara",
             "repo": "vue-kindergarten",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3763,7 +4012,8 @@
             "owner": "yangmingshan",
             "repo": "vue-bus",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3778,7 +4028,8 @@
             "owner": "SimulatedGREG",
             "repo": "vue-electron",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3793,7 +4044,8 @@
             "owner": "superman66",
             "repo": "vue-qart",
             "stars": 291
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3808,7 +4060,8 @@
             "owner": "xtongs",
             "repo": "vue-recyclist",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3823,7 +4076,8 @@
             "owner": "cklmercer",
             "repo": "vue-events",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3838,7 +4092,8 @@
             "owner": "HeftyKoo",
             "repo": "vue-lazy-render",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3853,7 +4108,8 @@
             "owner": "thetutlage",
             "repo": "vue-clip",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3868,7 +4124,8 @@
             "owner": "wrseward",
             "repo": "vue-unit",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3883,7 +4140,8 @@
             "owner": "matfish2",
             "repo": "vue-pagination-2",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3898,7 +4156,8 @@
             "owner": "haydenbbickerton",
             "repo": "vue-animate",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3913,7 +4172,8 @@
             "owner": "xiaokaike",
             "repo": "vue-clipboard",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3928,7 +4188,8 @@
             "owner": "Coffcer",
             "repo": "vue-bootstrap-modal",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3943,7 +4204,8 @@
             "owner": "mlyknown",
             "repo": "vue-gesture",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3958,7 +4220,8 @@
             "owner": "David-Desmaisons",
             "repo": "Vue.ImagesLoaded",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3973,7 +4236,8 @@
             "owner": "gocanto",
             "repo": "vuemit",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -3988,7 +4252,8 @@
             "owner": "zhouzhuojie",
             "repo": "meteor-vue",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4003,7 +4268,8 @@
             "owner": "rop7",
             "repo": "vue-reactive-storage",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4018,7 +4284,8 @@
             "owner": "surmon-china",
             "repo": "vue-drag-zone",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4033,7 +4300,8 @@
             "owner": "Sopamo",
             "repo": "vue-online",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4048,7 +4316,8 @@
             "owner": "repairearth",
             "repo": "vue-router-transition",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4063,7 +4332,8 @@
             "owner": "AStaroverov",
             "repo": "v-media-query",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4078,7 +4348,8 @@
             "owner": "vue-bulma",
             "repo": "cleave",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4093,7 +4364,8 @@
             "owner": "lmk123",
             "repo": "vue-framework7",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4108,7 +4380,8 @@
             "owner": "HerringtonDarkholme",
             "repo": "vue-ts-loader",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4123,7 +4396,8 @@
             "owner": "ElderJames",
             "repo": "vue-router-storage",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4138,7 +4412,8 @@
             "owner": "Coffcer",
             "repo": "vue-lazy-component",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4153,7 +4428,8 @@
             "owner": "Vuedeux",
             "repo": "vuedeux",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4168,7 +4444,8 @@
             "owner": "miaolz123",
             "repo": "vue-helmet",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4183,7 +4460,8 @@
             "owner": "gocanto",
             "repo": "lazy-vue",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4198,7 +4476,8 @@
             "owner": "imcvampire",
             "repo": "vue-truncate-filter",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4213,7 +4492,8 @@
             "owner": "vue-bulma",
             "repo": "modal",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4228,7 +4508,8 @@
             "owner": "BosNaufal",
             "repo": "vue-file-base64",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4243,7 +4524,8 @@
             "owner": "lzxb",
             "repo": "vue-methods-promise",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4258,7 +4540,8 @@
             "owner": "richardanaya",
             "repo": "voir",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4273,7 +4556,8 @@
             "owner": "wakeupmypig",
             "repo": "vue-plan",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4288,7 +4572,8 @@
             "owner": "vue-comps",
             "repo": "vue-zoombox",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4303,7 +4588,8 @@
             "owner": "LeoHuiyi",
             "repo": "leo-vue-validator",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4318,7 +4604,8 @@
             "owner": "MetinSeylan",
             "repo": "Vue-Easy-Validator",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4333,7 +4620,8 @@
             "owner": "syropian",
             "repo": "vue-input-autosize",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4348,7 +4636,8 @@
             "owner": "irwansyahwii",
             "repo": "Famous-Vue",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4363,7 +4652,8 @@
             "owner": "yodfz",
             "repo": "vue-lazyloadImg",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4378,7 +4668,8 @@
             "owner": "Haixing-Hu",
             "repo": "vue-titlecase",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4393,7 +4684,8 @@
             "owner": "phphe",
             "repo": "vue-data-validator",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         }
       ],
       "title": "实用库"
@@ -4410,11 +4702,12 @@
             "archived": false,
             "id": 71995937,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:07:03Z",
+            "last_commit": "2026-08-28T12:33:14Z",
             "owner": "nuxt",
             "repo": "nuxt",
             "stars": 60802
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4429,7 +4722,8 @@
             "owner": "express-vue",
             "repo": "express-vue",
             "stars": 1299
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4444,7 +4738,8 @@
             "owner": "ream",
             "repo": "deprecated",
             "stars": 814
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4459,7 +4754,8 @@
             "owner": "muwoo",
             "repo": "doubanMovie-SSR",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4474,7 +4770,8 @@
             "owner": "ccforward",
             "repo": "vue-ssr",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4489,7 +4786,8 @@
             "owner": "hilongjw",
             "repo": "vue-ssr",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4504,7 +4802,8 @@
             "owner": "leaves4j",
             "repo": "vue-easy-renderer",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         }
       ],
       "title": "服务端"
@@ -4525,7 +4824,8 @@
             "owner": "vue-play",
             "repo": "vue-play",
             "stars": 959
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4540,7 +4840,8 @@
             "owner": "MiCottOn",
             "repo": "DejaVue",
             "stars": 768
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4555,7 +4856,8 @@
             "owner": "OYsun",
             "repo": "vscode-VueHelper",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4570,7 +4872,8 @@
             "owner": "NetanelBasal",
             "repo": "vue-generate-component",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4585,7 +4888,8 @@
             "owner": "xwpongithub",
             "repo": "vue-multipage-cli",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4600,7 +4904,8 @@
             "owner": "MetinSeylan",
             "repo": "VuejsStarterKit",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         }
       ],
       "title": "辅助工具"
@@ -4620,8 +4925,9 @@
             "last_commit": "2024-08-17T10:54:54Z",
             "owner": "lin-xin",
             "repo": "vue-manage-system",
-            "stars": 19622
-          }
+            "stars": 19621
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4635,8 +4941,9 @@
             "last_commit": "2026-08-22T13:35:45Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17234
-          }
+            "stars": 17236
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4651,7 +4958,8 @@
             "owner": "pagekit",
             "repo": "pagekit",
             "stars": 5457
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4666,7 +4974,8 @@
             "owner": "jcc",
             "repo": "blog",
             "stars": 2853
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4681,7 +4990,8 @@
             "owner": "hello-efficiency-inc",
             "repo": "raven-reader",
             "stars": 2810
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4696,7 +5006,8 @@
             "owner": "Vuedo",
             "repo": "vuedo",
             "stars": 2268
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4711,7 +5022,8 @@
             "owner": "Caiyeon",
             "repo": "goldfish",
             "stars": 2127
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4726,7 +5038,8 @@
             "owner": "surmon-china",
             "repo": "surmon.me",
             "stars": 2125
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4741,7 +5054,8 @@
             "owner": "hutuxuhui",
             "repo": "jackblog-vue",
             "stars": 1932
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4756,7 +5070,8 @@
             "owner": "suweiteng",
             "repo": "vue2-management-platform",
             "stars": 1822
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4771,7 +5086,8 @@
             "owner": "lzxb",
             "repo": "vue-cnode",
             "stars": 1109
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4786,7 +5102,8 @@
             "owner": "topfullstack",
             "repo": "adminify",
             "stars": 958
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4801,7 +5118,8 @@
             "owner": "ciqulover",
             "repo": "CMS-of-Blog",
             "stars": 659
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4816,7 +5134,8 @@
             "owner": "viko16",
             "repo": "vue-ghpages-blog",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4831,7 +5150,8 @@
             "owner": "Angarsk8",
             "repo": "Loopa-News",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4846,7 +5166,8 @@
             "owner": "mogody",
             "repo": "swoole-vue-webim",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4861,7 +5182,8 @@
             "owner": "zhangxin840",
             "repo": "tomato5",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4876,7 +5198,8 @@
             "owner": "thelinuxlich",
             "repo": "vue-dashing-js",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4891,7 +5214,8 @@
             "owner": "sapjax",
             "repo": "fewords",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         }
       ],
       "title": "应用实例"
@@ -4911,8 +5235,9 @@
             "last_commit": "2025-04-11T12:52:02Z",
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 41020
-          }
+            "stars": 41019
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4927,7 +5252,8 @@
             "owner": "bailicangdu",
             "repo": "vue2-manage",
             "stars": 13617
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4942,7 +5268,8 @@
             "owner": "bailicangdu",
             "repo": "vue2-happyfri",
             "stars": 10535
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4957,7 +5284,8 @@
             "owner": "shinygang",
             "repo": "Vue-cnodejs",
             "stars": 3018
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4972,7 +5300,8 @@
             "owner": "superman66",
             "repo": "vue-axios-github",
             "stars": 2668
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -4987,7 +5316,8 @@
             "owner": "javaswing",
             "repo": "NeteaseCloudWebApp",
             "stars": 2577
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5002,7 +5332,8 @@
             "owner": "jeneser",
             "repo": "douban",
             "stars": 2291
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5017,7 +5348,8 @@
             "owner": "zhaohaodang",
             "repo": "vue-WeChat",
             "stars": 2114
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5032,7 +5364,8 @@
             "owner": "lzxb",
             "repo": "vue-demo",
             "stars": 2097
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5047,7 +5380,8 @@
             "owner": "liangxiaojuan",
             "repo": "vue-todos",
             "stars": 1961
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5062,7 +5396,8 @@
             "owner": "useryangtao",
             "repo": "vue-wechat",
             "stars": 1676
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5077,7 +5412,8 @@
             "owner": "Sioxas",
             "repo": "vue-music",
             "stars": 1594
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5092,7 +5428,8 @@
             "owner": "liangxiaojuan",
             "repo": "eleme",
             "stars": 1589
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5107,7 +5444,8 @@
             "owner": "liangxiaojuan",
             "repo": "vue-Meizi",
             "stars": 1522
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5122,7 +5460,8 @@
             "owner": "SimonZhangITer",
             "repo": "VueDemo_Sell_Eleme",
             "stars": 1373
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5137,7 +5476,8 @@
             "owner": "lanux",
             "repo": "Vue-Admin",
             "stars": 1321
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5152,7 +5492,8 @@
             "owner": "hzzly",
             "repo": "xyy-vue",
             "stars": 1309
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5167,7 +5508,8 @@
             "owner": "kenberkeley",
             "repo": "vue-demo",
             "stars": 1291
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5182,7 +5524,8 @@
             "owner": "hilongjw",
             "repo": "vue-zhihu-daily",
             "stars": 1268
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5197,7 +5540,8 @@
             "owner": "canfoo",
             "repo": "vue2.0-taopiaopiao",
             "stars": 1221
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5212,7 +5556,8 @@
             "owner": "lavyun",
             "repo": "vue-demo-kugou",
             "stars": 965
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5227,7 +5572,8 @@
             "owner": "TIGERB",
             "repo": "easy-vue",
             "stars": 901
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5242,7 +5588,8 @@
             "owner": "codecasts",
             "repo": "spa-starter-kit",
             "stars": 900
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5257,7 +5604,8 @@
             "owner": "superman66",
             "repo": "vue2.x-douban",
             "stars": 791
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5272,7 +5620,8 @@
             "owner": "ShanaMaid",
             "repo": "vue-163-music",
             "stars": 788
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5287,7 +5636,8 @@
             "owner": "zhengguorong",
             "repo": "maizuo",
             "stars": 757
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5302,7 +5652,8 @@
             "owner": "Molunerfinn",
             "repo": "vue-koa-demo",
             "stars": 749
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5317,7 +5668,8 @@
             "owner": "hua1995116",
             "repo": "musiccloudWebapp",
             "stars": 725
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5332,7 +5684,8 @@
             "owner": "jiangqizheng",
             "repo": "vue2-MiniQQ",
             "stars": 719
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5347,7 +5700,8 @@
             "owner": "rudyxu1102",
             "repo": "vue-blog",
             "stars": 672
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5362,7 +5716,8 @@
             "owner": "yatessss",
             "repo": "zhihudaily-vue",
             "stars": 666
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5377,7 +5732,8 @@
             "owner": "lin-xin",
             "repo": "notepad",
             "stars": 629
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5392,7 +5748,8 @@
             "owner": "andylei18",
             "repo": "vue-shopping",
             "stars": 618
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5407,7 +5764,8 @@
             "owner": "BUPT-HJM",
             "repo": "vue-blog",
             "stars": 593
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5422,7 +5780,8 @@
             "owner": "huangche007",
             "repo": "vue-jd",
             "stars": 593
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5437,7 +5796,8 @@
             "owner": "xrr2016",
             "repo": "vue-express-mongodb",
             "stars": 584
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5452,7 +5812,8 @@
             "owner": "A-FE",
             "repo": "houtai",
             "stars": 575
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5467,7 +5828,8 @@
             "owner": "odranoelBR",
             "repo": "vue-quasar-admin-example",
             "stars": 568
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5482,7 +5844,8 @@
             "owner": "ddqre12345",
             "repo": "vue-music",
             "stars": 561
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5497,7 +5860,8 @@
             "owner": "zimplexing",
             "repo": "vue-nReader",
             "stars": 535
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5512,7 +5876,8 @@
             "owner": "muwoo",
             "repo": "doubanMovie-SSR",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5527,7 +5892,8 @@
             "owner": "walleeeee",
             "repo": "daily-zhihu",
             "stars": 523
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5542,7 +5908,8 @@
             "owner": "hzzly",
             "repo": "vue-particle-line",
             "stars": 514
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5557,7 +5924,8 @@
             "owner": "werbhelius",
             "repo": "Pixel-Web",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5572,7 +5940,8 @@
             "owner": "taomas",
             "repo": "mi-by-vue",
             "stars": 487
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5587,7 +5956,8 @@
             "owner": "Panda-Hope",
             "repo": "vue-qqmusic",
             "stars": 476
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5602,7 +5972,8 @@
             "owner": "beauty-enjoy",
             "repo": "beauty",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5617,7 +5988,8 @@
             "owner": "MengZhaoFly",
             "repo": "netease_yanxuan",
             "stars": 421
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5632,7 +6004,8 @@
             "owner": "secreter",
             "repo": "websocket_chat",
             "stars": 418
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5647,7 +6020,8 @@
             "owner": "zhixuanziben",
             "repo": "gouyan-movie-vue",
             "stars": 414
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5662,7 +6036,8 @@
             "owner": "muwoo",
             "repo": "doubanMovie",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5677,7 +6052,8 @@
             "owner": "liujians",
             "repo": "vue-adminLte-vue-router",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5692,7 +6068,8 @@
             "owner": "reusser",
             "repo": "VueMusic-PC",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5707,7 +6084,8 @@
             "owner": "lybenson",
             "repo": "bilibili-vue",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5722,7 +6100,8 @@
             "owner": "jiangjiu",
             "repo": "vue-leancloud-blog",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5737,7 +6116,8 @@
             "owner": "193Eric",
             "repo": "study",
             "stars": 338
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5752,7 +6132,8 @@
             "owner": "liupeijun",
             "repo": "vue2-hybridapp-haoshiqi",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5767,7 +6148,8 @@
             "owner": "rokups",
             "repo": "hello-vue-django",
             "stars": 328
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5782,7 +6164,8 @@
             "owner": "ChuckCZC",
             "repo": "vue-demo-maizuo",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5797,7 +6180,8 @@
             "owner": "xiaobinwu",
             "repo": "Wuji",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5812,7 +6196,8 @@
             "owner": "biaodigit",
             "repo": "vue-news",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5827,7 +6212,8 @@
             "owner": "hbxywdk",
             "repo": "eleme-vue2",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5842,7 +6228,8 @@
             "owner": "elva2596",
             "repo": "vueBlog",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5857,7 +6244,8 @@
             "owner": "cccyb",
             "repo": "vue-zhihu-daily",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5872,7 +6260,8 @@
             "owner": "dmtrbrl",
             "repo": "tmdb-app",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5887,7 +6276,8 @@
             "owner": "yjj5855",
             "repo": "node-vue-server-webpack",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5902,7 +6292,8 @@
             "owner": "RalfZhang",
             "repo": "Vdo",
             "stars": 269
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5917,7 +6308,8 @@
             "owner": "BosNaufal",
             "repo": "vue-mini-shop",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5932,7 +6324,8 @@
             "owner": "vanishcode",
             "repo": "iview2-management-system",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5947,7 +6340,8 @@
             "owner": "microzz",
             "repo": "vue-cnode",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5962,7 +6356,8 @@
             "owner": "renjie1996",
             "repo": "Vue-draggable-router-tencent-sport",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5977,7 +6372,8 @@
             "owner": "beidan",
             "repo": "photoShare",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -5992,7 +6388,8 @@
             "owner": "CommanderXL",
             "repo": "x-blog",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6007,7 +6404,8 @@
             "owner": "iHaPBoy",
             "repo": "vue-zhihudaily",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6022,7 +6420,8 @@
             "owner": "qxl1231",
             "repo": "generator-loopback-vue",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6037,7 +6436,8 @@
             "owner": "lxyisme",
             "repo": "vue-musicApp",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6052,7 +6452,8 @@
             "owner": "pomelo-chuan",
             "repo": "Zhihu-Daily-Vue.js",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6067,7 +6468,8 @@
             "owner": "NewsNIng",
             "repo": "vue-h5plus",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6082,7 +6484,8 @@
             "owner": "wszgxa",
             "repo": "vue-cnode",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6097,7 +6500,8 @@
             "owner": "scarecrowdu",
             "repo": "vue2.x-Cnode",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6112,7 +6516,8 @@
             "owner": "xingbofeng",
             "repo": "douban-movie",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6127,7 +6532,8 @@
             "owner": "l20",
             "repo": "vue-weather",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6142,7 +6548,8 @@
             "owner": "MrMoveon",
             "repo": "doubanApp",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6157,7 +6564,8 @@
             "owner": "gaohongwei11",
             "repo": "vuecommunity",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6172,7 +6580,8 @@
             "owner": "SidKwok",
             "repo": "github-explorer",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6187,7 +6596,8 @@
             "owner": "JerryYgh",
             "repo": "m-eleme",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6202,7 +6612,8 @@
             "owner": "youknowznm",
             "repo": "vue-memo",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6217,7 +6628,8 @@
             "owner": "zhoou",
             "repo": "vue-cli-multipage-bootstrap",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6232,7 +6644,8 @@
             "owner": "cs1707",
             "repo": "vue-zhihudaily-2.0",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6247,7 +6660,8 @@
             "owner": "hql123",
             "repo": "vue-ruby-china",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6262,7 +6676,8 @@
             "owner": "safaring",
             "repo": "Vue2-MV",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6277,7 +6692,8 @@
             "owner": "lavieAll",
             "repo": "eagles",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6292,7 +6708,8 @@
             "owner": "pluto1114",
             "repo": "vue-music163",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6307,7 +6724,8 @@
             "owner": "AnnoWook",
             "repo": "project-2016",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6322,7 +6740,8 @@
             "owner": "leehomeok",
             "repo": "Vue-NetEaseCloudMusic",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6337,7 +6756,8 @@
             "owner": "heyacherry",
             "repo": "simply-calculator-vuejs",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6352,7 +6772,8 @@
             "owner": "fishenal",
             "repo": "Todos_Vuejs",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6367,7 +6788,8 @@
             "owner": "momopig",
             "repo": "vue-flexible-app",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6382,7 +6804,8 @@
             "owner": "jo0ger",
             "repo": "cnode-vue",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6397,7 +6820,8 @@
             "owner": "shaqihe",
             "repo": "life-app-vue",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6412,7 +6836,8 @@
             "owner": "GitaiQAQ",
             "repo": "HyaReader",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6427,7 +6852,8 @@
             "owner": "hj624608494",
             "repo": "vue-shopping-mall",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6442,7 +6868,8 @@
             "owner": "soulcm",
             "repo": "vue-cnode-mobile",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6457,7 +6884,8 @@
             "owner": "littlewin-wang",
             "repo": "Zhihu_Daily",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6472,7 +6900,8 @@
             "owner": "albertchan",
             "repo": "vue-ssr-boilerplate",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6487,7 +6916,8 @@
             "owner": "fishenal",
             "repo": "vuejs-demo-project",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6502,7 +6932,8 @@
             "owner": "doterlin",
             "repo": "vue-user-center",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6517,7 +6948,8 @@
             "owner": "IgorHalfeld",
             "repo": "v-notes",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6532,7 +6964,8 @@
             "owner": "ITCNZ",
             "repo": "vue-dropload",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6547,7 +6980,8 @@
             "owner": "tyllo",
             "repo": "Framework7-VueJS",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6562,7 +6996,8 @@
             "owner": "xrr2016",
             "repo": "zhihu-daily",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6577,7 +7012,8 @@
             "owner": "wx1993",
             "repo": "node-vue-fabaocn",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6592,7 +7028,8 @@
             "owner": "yangbo5207",
             "repo": "qqmusic",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6607,7 +7044,8 @@
             "owner": "xandeer",
             "repo": "gank",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6622,7 +7060,8 @@
             "owner": "moonou",
             "repo": "zhihu-daily-vue",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6637,7 +7076,8 @@
             "owner": "BosNaufal",
             "repo": "vue-starter",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6652,7 +7092,8 @@
             "owner": "deshes",
             "repo": "vue-weather",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6667,7 +7108,8 @@
             "owner": "Damonlw",
             "repo": "vue-cnode",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         },
         {
           "node_type": "item",
@@ -6682,14 +7124,15 @@
             "owner": "beautifulBoys",
             "repo": "vue-XiaoMi-Shop",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
         }
       ],
       "title": "Demo示例"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:59:54.421Z",
+    "last_updated": "2026-08-28T14:31:05.718Z",
     "original_repository_info": {
       "archived": false,
       "id": 84019065,
