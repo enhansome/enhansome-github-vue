@@ -19,7 +19,7 @@
             "open_issues": 2964,
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54057,
+            "stars": 54056,
             "topics": [
               "components",
               "element-ui",
@@ -89,7 +89,7 @@
             "open_issues": 223,
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24376,
+            "stars": 24377,
             "topics": [
               "components",
               "mobile",
@@ -175,7 +175,7 @@
             "open_issues": 405,
             "owner": "airyland",
             "repo": "vux",
-            "stars": 17463,
+            "stars": 17462,
             "topics": [
               "ant",
               "components",
@@ -334,7 +334,7 @@
             "open_issues": 4,
             "owner": "ecomfe",
             "repo": "vue-echarts",
-            "stars": 10740,
+            "stars": 10741,
             "topics": [
               "echarts",
               "vue",
@@ -1097,7 +1097,7 @@
             "open_issues": 63,
             "owner": "egoist",
             "repo": "eme",
-            "stars": 2058,
+            "stars": 2059,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -4691,7 +4691,7 @@
             "open_issues": 636,
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210750,
+            "stars": 210749,
             "topics": [
               "framework",
               "frontend",
@@ -4717,7 +4717,7 @@
             "open_issues": 1402,
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90200,
+            "stars": 90199,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -4833,7 +4833,7 @@
             "open_issues": 103,
             "owner": "vue-bulma",
             "repo": "vue-admin",
-            "stars": 9328,
+            "stars": 9327,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -5243,7 +5243,7 @@
             "open_issues": 143,
             "owner": "vuejs",
             "repo": "vuex",
-            "stars": 28322,
+            "stars": 28323,
             "topics": [
               "javascript",
               "state-management",
@@ -5479,7 +5479,7 @@
             "id": 55218353,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-01T12:07:54Z",
+            "last_commit": "2026-08-29T07:28:51Z",
             "open_issues": 47,
             "owner": "Justineo",
             "repo": "vue-awesome",
@@ -5664,7 +5664,7 @@
             "language": "Vue",
             "license": "MIT",
             "last_commit": "2026-08-28T08:00:15Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "SevenOutman",
             "repo": "vue-aplayer",
             "stars": 1333,
@@ -7433,8 +7433,8 @@
             "id": 71995937,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:08:43Z",
-            "open_issues": 541,
+            "last_commit": "2026-08-29T09:09:36Z",
+            "open_issues": 545,
             "owner": "nuxt",
             "repo": "nuxt",
             "stars": 60802,
@@ -7813,7 +7813,7 @@
             "open_issues": 15,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17237,
+            "stars": 17239,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -8321,7 +8321,7 @@
             "open_issues": 121,
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 41018,
+            "stars": 41017,
             "topics": [
               "es2015",
               "flex",
@@ -8350,7 +8350,7 @@
             "open_issues": 110,
             "owner": "bailicangdu",
             "repo": "vue2-manage",
-            "stars": 13617,
+            "stars": 13618,
             "topics": [
               "element-ui",
               "less",
@@ -8431,7 +8431,7 @@
             "open_issues": 8,
             "owner": "superman66",
             "repo": "vue-axios-github",
-            "stars": 2668,
+            "stars": 2667,
             "topics": [
               "axios",
               "login-oauth",
@@ -10495,7 +10495,7 @@
             "open_issues": 6,
             "owner": "gaohongwei11",
             "repo": "vuecommunity",
-            "stars": 126,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -11367,7 +11367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:49.148Z",
+    "last_updated": "2026-08-29T09:17:44.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "Vue相关开源项目库汇总",
