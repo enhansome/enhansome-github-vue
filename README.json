@@ -19,7 +19,7 @@
             "open_issues": 2965,
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54047,
+            "stars": 54046,
             "topics": [
               "components",
               "element-ui",
@@ -44,11 +44,11 @@
             "id": 67962648,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T01:20:48Z",
-            "open_issues": 394,
+            "last_commit": "2026-09-11T22:51:15Z",
+            "open_issues": 397,
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41038,
+            "stars": 41039,
             "topics": [
               "javascript",
               "material",
@@ -85,11 +85,11 @@
             "id": 88717215,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T21:08:42Z",
-            "open_issues": 218,
+            "last_commit": "2026-09-12T06:00:56Z",
+            "open_issues": 219,
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24383,
+            "stars": 24382,
             "topics": [
               "components",
               "mobile",
@@ -208,7 +208,7 @@
             "open_issues": 291,
             "owner": "ElemeFE",
             "repo": "mint-ui",
-            "stars": 16434,
+            "stars": 16435,
             "topics": [
               "component",
               "mobile",
@@ -235,7 +235,7 @@
             "open_issues": 201,
             "owner": "bootstrap-vue",
             "repo": "bootstrap-vue",
-            "stars": 14425,
+            "stars": 14424,
             "topics": [
               "a11y",
               "accessibility",
@@ -307,7 +307,7 @@
             "open_issues": 201,
             "owner": "Akryum",
             "repo": "vue-virtual-scroller",
-            "stars": 10795,
+            "stars": 10796,
             "topics": [
               "scroller",
               "virtual-scroller",
@@ -330,11 +330,11 @@
             "id": 61364083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T02:55:14Z",
+            "last_commit": "2026-09-12T00:37:08Z",
             "open_issues": 4,
             "owner": "ecomfe",
             "repo": "vue-echarts",
-            "stars": 10752,
+            "stars": 10754,
             "topics": [
               "echarts",
               "vue",
@@ -721,7 +721,7 @@
             "open_issues": 153,
             "owner": "Akryum",
             "repo": "floating-vue",
-            "stars": 3463,
+            "stars": 3461,
             "topics": [
               "dropdown",
               "menu",
@@ -931,7 +931,7 @@
             "id": 75029275,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T00:11:54Z",
+            "last_commit": "2026-09-12T04:19:16Z",
             "open_issues": 6,
             "owner": "davidroyer",
             "repo": "vue2-editor",
@@ -1428,7 +1428,7 @@
             "open_issues": 18,
             "owner": "nicolasbeauvais",
             "repo": "vue-social-sharing",
-            "stars": 1371,
+            "stars": 1370,
             "topics": [
               "hacktoberfest",
               "nuxtjs",
@@ -4691,7 +4691,7 @@
             "open_issues": 640,
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 212463,
+            "stars": 212464,
             "topics": [
               "framework",
               "frontend",
@@ -4754,8 +4754,8 @@
             "id": 43695474,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T14:13:52Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-11T15:43:35Z",
+            "open_issues": 72,
             "owner": "quasarframework",
             "repo": "quasar",
             "stars": 27212,
@@ -5663,7 +5663,7 @@
             "id": 74473078,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-11T04:00:26Z",
+            "last_commit": "2026-09-11T21:36:57Z",
             "open_issues": 88,
             "owner": "SevenOutman",
             "repo": "vue-aplayer",
@@ -5719,11 +5719,11 @@
             "id": 83400754,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T01:02:19Z",
+            "last_commit": "2026-09-11T20:28:30Z",
             "open_issues": 6,
             "owner": "wxsms",
             "repo": "uiv",
-            "stars": 938,
+            "stars": 937,
             "topics": [
               "bootstrap",
               "ui",
@@ -6509,6 +6509,32 @@
         },
         {
           "node_type": "item",
+          "title": "vue-lazy-render",
+          "description": "★87 - 用于Vue组件的延迟渲染",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A vue component for lazy rending vue component",
+            "homepage": null,
+            "id": 77235243,
+            "language": "Vue",
+            "license": null,
+            "last_commit": "2025-06-07T00:34:02Z",
+            "open_issues": 1,
+            "owner": "HeftyKoo",
+            "repo": "vue-lazy-render",
+            "stars": 232,
+            "topics": [
+              "vue",
+              "vue-components",
+              "vue-lazy-render",
+              "vue-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
+        },
+        {
+          "node_type": "item",
           "title": "vue-events",
           "description": "★83 - 简化事件的VueJS插件",
           "children": [],
@@ -6530,32 +6556,6 @@
               "plugin",
               "vue",
               "vue-events"
-            ]
-          },
-          "first_seen": "2026-08-28T14:31:05.718Z"
-        },
-        {
-          "node_type": "item",
-          "title": "vue-lazy-render",
-          "description": "★87 - 用于Vue组件的延迟渲染",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A vue component for lazy rending vue component",
-            "homepage": null,
-            "id": 77235243,
-            "language": "Vue",
-            "license": null,
-            "last_commit": "2025-06-07T00:34:02Z",
-            "open_issues": 1,
-            "owner": "HeftyKoo",
-            "repo": "vue-lazy-render",
-            "stars": 231,
-            "topics": [
-              "vue",
-              "vue-components",
-              "vue-lazy-render",
-              "vue-plugin"
             ]
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -7433,11 +7433,11 @@
             "id": 71995937,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T20:42:42Z",
-            "open_issues": 474,
+            "last_commit": "2026-09-12T01:52:17Z",
+            "open_issues": 472,
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60840,
+            "stars": 60842,
             "topics": [
               "csr",
               "framework",
@@ -7809,7 +7809,7 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T15:45:32Z",
+            "last_commit": "2026-09-12T05:01:03Z",
             "open_issues": 16,
             "owner": "koel",
             "repo": "koel",
@@ -7901,7 +7901,7 @@
             "open_issues": 97,
             "owner": "hello-efficiency-inc",
             "repo": "raven-reader",
-            "stars": 2809,
+            "stars": 2808,
             "topics": [
               "desktop-app",
               "desktop-application",
@@ -8694,7 +8694,7 @@
             "open_issues": 13,
             "owner": "liangxiaojuan",
             "repo": "vue-Meizi",
-            "stars": 1522,
+            "stars": 1523,
             "topics": [
               "css3",
               "demo",
@@ -11367,7 +11367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:25:31.842Z",
+    "last_updated": "2026-09-12T07:17:59.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Vue相关开源项目库汇总",
