@@ -19,7 +19,7 @@
             "open_issues": 2965,
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54046,
+            "stars": 54045,
             "topics": [
               "components",
               "element-ui",
@@ -44,8 +44,8 @@
             "id": 67962648,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T22:51:15Z",
-            "open_issues": 397,
+            "last_commit": "2026-09-13T03:22:08Z",
+            "open_issues": 399,
             "owner": "vuetifyjs",
             "repo": "vuetify",
             "stars": 41039,
@@ -85,11 +85,11 @@
             "id": 88717215,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T06:00:56Z",
+            "last_commit": "2026-09-12T17:14:32Z",
             "open_issues": 219,
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24382,
+            "stars": 24381,
             "topics": [
               "components",
               "mobile",
@@ -118,7 +118,7 @@
             "open_issues": 1238,
             "owner": "iview",
             "repo": "iview",
-            "stars": 23764,
+            "stars": 23763,
             "topics": [
               "components",
               "css",
@@ -150,7 +150,7 @@
             "open_issues": 286,
             "owner": "SortableJS",
             "repo": "Vue.Draggable",
-            "stars": 20584,
+            "stars": 20582,
             "topics": [
               "component",
               "drag-and-drop",
@@ -175,7 +175,7 @@
             "open_issues": 404,
             "owner": "airyland",
             "repo": "vux",
-            "stars": 17459,
+            "stars": 17458,
             "topics": [
               "ant",
               "components",
@@ -269,7 +269,7 @@
             "open_issues": 307,
             "owner": "surmon-china",
             "repo": "vue-awesome-swiper",
-            "stars": 12769,
+            "stars": 12768,
             "topics": [
               "carousel",
               "carrousel",
@@ -452,7 +452,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-21T11:04:50Z",
-            "open_issues": 307,
+            "open_issues": 306,
             "owner": "shentao",
             "repo": "vue-multiselect",
             "stars": 6782,
@@ -1041,7 +1041,7 @@
             "open_issues": 63,
             "owner": "FE-Driver",
             "repo": "vue-beauty",
-            "stars": 2097,
+            "stars": 2096,
             "topics": [
               "components",
               "javascript",
@@ -4691,7 +4691,7 @@
             "open_issues": 640,
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 212464,
+            "stars": 212483,
             "topics": [
               "framework",
               "frontend",
@@ -4833,7 +4833,7 @@
             "open_issues": 103,
             "owner": "vue-bulma",
             "repo": "vue-admin",
-            "stars": 9324,
+            "stars": 9323,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -5243,7 +5243,7 @@
             "open_issues": 143,
             "owner": "vuejs",
             "repo": "vuex",
-            "stars": 28313,
+            "stars": 28312,
             "topics": [
               "javascript",
               "state-management",
@@ -5295,7 +5295,7 @@
             "open_issues": 258,
             "owner": "kazupon",
             "repo": "vue-i18n",
-            "stars": 7221,
+            "stars": 7220,
             "topics": [
               "i18n",
               "internationalization",
@@ -5323,7 +5323,7 @@
             "open_issues": 212,
             "owner": "vuelidate",
             "repo": "vuelidate",
-            "stars": 6871,
+            "stars": 6870,
             "topics": [
               "javascript",
               "validation",
@@ -5377,7 +5377,7 @@
             "open_issues": 231,
             "owner": "vuejs",
             "repo": "vue-loader",
-            "stars": 4960,
+            "stars": 4959,
             "topics": [
               "hot-reload",
               "single-file-component",
@@ -5479,7 +5479,7 @@
             "id": 55218353,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T15:59:40Z",
+            "last_commit": "2026-09-12T15:12:20Z",
             "open_issues": 49,
             "owner": "Justineo",
             "repo": "vue-awesome",
@@ -5663,7 +5663,7 @@
             "id": 74473078,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-11T21:36:57Z",
+            "last_commit": "2026-09-12T16:46:22Z",
             "open_issues": 88,
             "owner": "SevenOutman",
             "repo": "vue-aplayer",
@@ -5719,8 +5719,8 @@
             "id": 83400754,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T20:28:30Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-13T06:10:35Z",
+            "open_issues": 7,
             "owner": "wxsms",
             "repo": "uiv",
             "stars": 937,
@@ -6010,7 +6010,7 @@
             "open_issues": 22,
             "owner": "israelss",
             "repo": "vue-worker",
-            "stars": 585,
+            "stars": 584,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -7434,10 +7434,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-12T01:52:17Z",
-            "open_issues": 472,
+            "open_issues": 474,
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60842,
+            "stars": 60848,
             "topics": [
               "csr",
               "framework",
@@ -7809,11 +7809,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-12T05:01:03Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-13T06:33:34Z",
+            "open_issues": 15,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17243,
+            "stars": 17245,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -8402,7 +8402,7 @@
             "open_issues": 3,
             "owner": "shinygang",
             "repo": "Vue-cnodejs",
-            "stars": 3016,
+            "stars": 3015,
             "topics": [
               "vue",
               "vue-cnodejs",
@@ -8910,6 +8910,35 @@
         },
         {
           "node_type": "item",
+          "title": "spa-starter-kit",
+          "description": "★646 - 单页应用启动套件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A highly opinionated starter kit for building Single Page Applications with Laravel and Vue.js",
+            "homepage": null,
+            "id": 74694970,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2018-10-03T23:19:57Z",
+            "open_issues": 22,
+            "owner": "codecasts",
+            "repo": "spa-starter-kit",
+            "stars": 901,
+            "topics": [
+              "javascript",
+              "laravel",
+              "php",
+              "single-page-app",
+              "spa",
+              "starter-kit",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
+        },
+        {
+          "node_type": "item",
           "title": "easy-vue",
           "description": "★370 - 使用Vue实现简易web",
           "children": [],
@@ -8943,35 +8972,6 @@
               "webpack3",
               "webpack3-demo",
               "webpack4"
-            ]
-          },
-          "first_seen": "2026-08-28T14:31:05.718Z"
-        },
-        {
-          "node_type": "item",
-          "title": "spa-starter-kit",
-          "description": "★646 - 单页应用启动套件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A highly opinionated starter kit for building Single Page Applications with Laravel and Vue.js",
-            "homepage": null,
-            "id": 74694970,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2018-10-03T23:19:57Z",
-            "open_issues": 22,
-            "owner": "codecasts",
-            "repo": "spa-starter-kit",
-            "stars": 900,
-            "topics": [
-              "javascript",
-              "laravel",
-              "php",
-              "single-page-app",
-              "spa",
-              "starter-kit",
-              "vue"
             ]
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -11367,7 +11367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:17:59.024Z",
+    "last_updated": "2026-09-13T07:36:18.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "Vue相关开源项目库汇总",
