@@ -15,8 +15,8 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 ## UI组件
 
 * [element](https://github.com/ElemeFE/element) ⭐ 54,037 | 🐛 2,966 | 🌐 Vue | 📅 2024-08-20 ★13489 - 饿了么出品的Vue2的web UI工具套件
-* [vuetify](https://github.com/vuetifyjs/vuetify) ⭐ 41,033 | 🐛 389 | 🌐 TypeScript | 📅 2026-10-02 ★2925 - 为移动而生的Vue JS 2组件框架
-* [vant](https://github.com/youzan/vant) ⭐ 24,385 | 🐛 227 | 🌐 TypeScript | 📅 2026-10-03 ★74 - 有赞出品的Vue2.0移动UI
+* [vuetify](https://github.com/vuetifyjs/vuetify) ⭐ 41,033 | 🐛 390 | 🌐 TypeScript | 📅 2026-10-02 ★2925 - 为移动而生的Vue JS 2组件框架
+* [vant](https://github.com/youzan/vant) ⭐ 24,386 | 🐛 227 | 🌐 TypeScript | 📅 2026-10-03 ★74 - 有赞出品的Vue2.0移动UI
 * [iview](https://github.com/iview/iview) ⭐ 23,757 | 🐛 1,237 | 🌐 Vue | 📅 2024-01-15 ★6634 - 基于 Vuejs 的开源 UI 组件库
 * [Vue.Draggable](https://github.com/David-Desmaisons/Vue.Draggable) ⭐ 20,569 | 🐛 286 | 🌐 JavaScript | 📅 2024-03-04 ★1191 - 实现拖放和视图模型数组同步
 * [Vux](https://github.com/airyland/vux) ⭐ 17,455 | 🐛 404 | 🌐 Vue | 📅 2026-07-17 ★8133 - 基于Vue和WeUI的组件库
@@ -250,7 +250,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 * [vue-authenticate](https://github.com/dgrubelic/vue-authenticate) ⭐ 1,423 | 🐛 112 | 🌐 JavaScript | 📅 2024-03-14 ★177 - 简单的VueJS身份认证库
 * [vue-aplayer](https://github.com/SevenOutman/vue-aplayer) ⭐ 1,333 | 🐛 88 | 🌐 Vue | 📅 2026-10-01 ★100 - 便于配置的音乐播放器vue2组件
 * [vue-head](https://github.com/ktquez/vue-head) ⭐ 977 | 🐛 8 | 🌐 JavaScript | 📅 2023-06-08 ★396 - head标签的meta信息操作
-* [uiv](https://github.com/wxsms/uiv) ⭐ 937 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-02 ★70 - Vue实现的Bootstrap组件
+* [uiv](https://github.com/wxsms/uiv) ⭐ 937 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-03 ★70 - Vue实现的Bootstrap组件
 * [vue-shortkey](https://github.com/iFgR/vue-shortkey) ⭐ 891 | 🐛 63 | 🌐 JavaScript | 📅 2024-03-15 ★74 - 应用于Vue.js的Vue-ShortKey 插件
 * [meteor-vue-component](https://github.com/Akryum/meteor-vue-component) ⭐ 885 | 🐛 109 | 🌐 JavaScript | 📅 2023-05-17 ★382 - vue和meteor整合
 * [vuep](https://github.com/QingWei-Li/vuep) ⭐ 877 | 🐛 40 | 🌐 JavaScript | 📅 2022-12-06 ★118 - 用实时编辑和预览来渲染Vue组件
@@ -324,7 +324,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 
 ## 服务端
 
-* [nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,917 | 🐛 464 | 🌐 TypeScript | 📅 2026-10-02 ★4564 - 用于服务器渲染Vue app的最小化框架
+* [nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,918 | 🐛 464 | 🌐 TypeScript | 📅 2026-10-02 ★4564 - 用于服务器渲染Vue app的最小化框架
 * [express-vue](https://github.com/danmademe/express-vue) ⭐ 1,298 | 🐛 47 | 🌐 JavaScript | 📅 2022-11-10 ★302 - 简单的使用服务器端渲染vue.js
 * [unvue](https://github.com/egoist/unvue) ⚠️ Archived ★310 - 使用简单的通用VueJS应用
 * [doubanMovie-SSR](https://github.com/monkeyWangs/doubanMovie-SSR) ⭐ 525 | 🐛 8 | 🌐 Vue | 📅 2017-09-02 ★85 - Vue豆瓣电影服务端渲染
@@ -344,7 +344,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 ## 应用实例
 
 * [vue-manage-system](https://github.com/lin-xin/vue-manage-system) ⭐ 19,612 | 🐛 152 | 🌐 Vue | 📅 2024-08-17 ★2057 - 后台管理系统解决方案
-* [koel](https://github.com/phanan/koel) ⭐ 17,269 | 🐛 17 | 🌐 PHP | 📅 2026-10-02 ★7773 - 基于网络的个人音频流媒体服务
+* [koel](https://github.com/phanan/koel) ⭐ 17,268 | 🐛 18 | 🌐 PHP | 📅 2026-10-03 ★7773 - 基于网络的个人音频流媒体服务
 * [pagekit](https://github.com/pagekit/pagekit) ⚠️ Archived ★4225 - 轻量级的CMS建站系统
 * [PJ Blog](https://github.com/jcc/blog) ⭐ 2,854 | 🐛 38 | 🌐 PHP | 📅 2023-06-08 ★1018 - 开源博客
 * [rss-reader](https://github.com/mrgodhani/rss-reader) ⚠️ Archived ★368 - 简单的rss阅读器
