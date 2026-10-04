@@ -19,7 +19,7 @@
             "open_issues": 2966,
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54037,
+            "stars": 54036,
             "topics": [
               "components",
               "element-ui",
@@ -48,7 +48,7 @@
             "open_issues": 390,
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41033,
+            "stars": 41034,
             "topics": [
               "javascript",
               "material",
@@ -118,7 +118,7 @@
             "open_issues": 1237,
             "owner": "iview",
             "repo": "iview",
-            "stars": 23757,
+            "stars": 23755,
             "topics": [
               "components",
               "css",
@@ -235,7 +235,7 @@
             "open_issues": 200,
             "owner": "bootstrap-vue",
             "repo": "bootstrap-vue",
-            "stars": 14419,
+            "stars": 14418,
             "topics": [
               "a11y",
               "accessibility",
@@ -527,7 +527,7 @@
             "id": 61990007,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:48:33Z",
+            "last_commit": "2026-10-03T23:27:52Z",
             "open_issues": 29,
             "owner": "apertureless",
             "repo": "vue-chartjs",
@@ -4688,10 +4688,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-10-10T07:24:15Z",
-            "open_issues": 640,
+            "open_issues": 641,
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 212828,
+            "stars": 212826,
             "topics": [
               "framework",
               "frontend",
@@ -4717,7 +4717,7 @@
             "open_issues": 1401,
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90169,
+            "stars": 90165,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -5270,7 +5270,7 @@
             "open_issues": 198,
             "owner": "hilongjw",
             "repo": "vue-lazyload",
-            "stars": 7985,
+            "stars": 7986,
             "topics": [
               "lazyload",
               "vue",
@@ -6167,7 +6167,7 @@
             "open_issues": 8,
             "owner": "icebob",
             "repo": "vue-websocket",
-            "stars": 523,
+            "stars": 522,
             "topics": [
               "vue",
               "vue-websocket",
@@ -7433,11 +7433,11 @@
             "id": 71995937,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:13:26Z",
-            "open_issues": 464,
+            "last_commit": "2026-10-03T20:59:11Z",
+            "open_issues": 468,
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60918,
+            "stars": 60917,
             "topics": [
               "csr",
               "framework",
@@ -7809,11 +7809,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-03T08:13:04Z",
+            "last_commit": "2026-10-03T09:05:18Z",
             "open_issues": 18,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17268,
+            "stars": 17269,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -7901,7 +7901,7 @@
             "open_issues": 97,
             "owner": "hello-efficiency-inc",
             "repo": "raven-reader",
-            "stars": 2807,
+            "stars": 2806,
             "topics": [
               "desktop-app",
               "desktop-application",
@@ -8300,7 +8300,7 @@
             "open_issues": 2,
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 40997,
+            "stars": 40996,
             "topics": [
               "es2015",
               "flex",
@@ -11346,7 +11346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:27:25.865Z",
+    "last_updated": "2026-10-04T08:40:04.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "Vue相关开源项目库汇总",
