@@ -44,11 +44,11 @@
             "id": 67962648,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T22:54:09Z",
-            "open_issues": 391,
+            "last_commit": "2026-10-06T08:23:52Z",
+            "open_issues": 387,
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41036,
+            "stars": 41037,
             "topics": [
               "javascript",
               "material",
@@ -85,7 +85,7 @@
             "id": 88717215,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T02:12:19Z",
+            "last_commit": "2026-10-05T17:54:10Z",
             "open_issues": 226,
             "owner": "youzan",
             "repo": "vant",
@@ -330,8 +330,8 @@
             "id": 61364083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T09:17:05Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-05T21:36:33Z",
+            "open_issues": 5,
             "owner": "ecomfe",
             "repo": "vue-echarts",
             "stars": 10757,
@@ -414,7 +414,7 @@
             "open_issues": 263,
             "owner": "surmon-china",
             "repo": "vue-quill-editor",
-            "stars": 7393,
+            "stars": 7392,
             "topics": [
               "editor",
               "editor-plugin",
@@ -2253,7 +2253,7 @@
             "open_issues": 31,
             "owner": "GeoffZhu",
             "repo": "vue-event-calendar",
-            "stars": 623,
+            "stars": 622,
             "topics": [
               "event-calendar",
               "vue",
@@ -2448,7 +2448,7 @@
             "open_issues": 5,
             "owner": "Zhangdroid",
             "repo": "Gokotta",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "electron",
               "music-player",
@@ -2662,7 +2662,7 @@
             "open_issues": 17,
             "owner": "phoenixwong",
             "repo": "vue2-timepicker",
-            "stars": 427,
+            "stars": 426,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -3074,6 +3074,27 @@
         },
         {
           "node_type": "item",
+          "title": "vue-swiper",
+          "description": "★167 - 易于使用的滑块组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Swiper component For Vue 1.0.",
+            "homepage": null,
+            "id": 58324411,
+            "language": "Vue",
+            "license": "MIT",
+            "last_commit": "2020-01-02T01:56:28Z",
+            "open_issues": 11,
+            "owner": "ValorLin",
+            "repo": "vue-swiper",
+            "stars": 280,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
+        },
+        {
+          "node_type": "item",
           "title": "rubik",
           "description": "★217 - 基于Vuejs2的开源 UI 组件库",
           "children": [],
@@ -3099,27 +3120,6 @@
               "vue-components",
               "vue-ui"
             ]
-          },
-          "first_seen": "2026-08-28T14:31:05.718Z"
-        },
-        {
-          "node_type": "item",
-          "title": "vue-swiper",
-          "description": "★167 - 易于使用的滑块组件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Swiper component For Vue 1.0.",
-            "homepage": null,
-            "id": 58324411,
-            "language": "Vue",
-            "license": "MIT",
-            "last_commit": "2020-01-02T01:56:28Z",
-            "open_issues": 11,
-            "owner": "ValorLin",
-            "repo": "vue-swiper",
-            "stars": 279,
-            "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
         },
@@ -4688,10 +4688,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-10-10T07:24:15Z",
-            "open_issues": 641,
+            "open_issues": 640,
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 212829,
+            "stars": 212821,
             "topics": [
               "framework",
               "frontend",
@@ -4717,7 +4717,7 @@
             "open_issues": 1400,
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90163,
+            "stars": 90161,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -4754,7 +4754,7 @@
             "id": 43695474,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:08:59Z",
+            "last_commit": "2026-10-05T16:24:48Z",
             "open_issues": 58,
             "owner": "quasarframework",
             "repo": "quasar",
@@ -5663,7 +5663,7 @@
             "id": 74473078,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:05:22Z",
+            "last_commit": "2026-10-05T22:42:09Z",
             "open_issues": 88,
             "owner": "SevenOutman",
             "repo": "vue-aplayer",
@@ -5719,7 +5719,7 @@
             "id": 83400754,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T08:57:44Z",
+            "last_commit": "2026-10-05T22:44:54Z",
             "open_issues": 6,
             "owner": "wxsms",
             "repo": "uiv",
@@ -7433,11 +7433,11 @@
             "id": 71995937,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T08:42:01Z",
-            "open_issues": 466,
+            "last_commit": "2026-10-06T08:38:55Z",
+            "open_issues": 472,
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60918,
+            "stars": 60919,
             "topics": [
               "csr",
               "framework",
@@ -7533,7 +7533,7 @@
             "open_issues": 8,
             "owner": "muwoo",
             "repo": "doubanMovie-SSR",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -7787,7 +7787,7 @@
             "open_issues": 152,
             "owner": "lin-xin",
             "repo": "vue-manage-system",
-            "stars": 19612,
+            "stars": 19613,
             "topics": [
               "element-plus",
               "pinia",
@@ -7809,11 +7809,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-03T09:05:18Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-05T19:35:18Z",
+            "open_issues": 17,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17270,
+            "stars": 17271,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -8300,7 +8300,7 @@
             "open_issues": 2,
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 40995,
+            "stars": 40996,
             "topics": [
               "es2015",
               "flex",
@@ -9427,7 +9427,7 @@
             "open_issues": 8,
             "owner": "muwoo",
             "repo": "doubanMovie-SSR",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -10156,7 +10156,7 @@
             "open_issues": 2,
             "owner": "renjie1996",
             "repo": "Vue-draggable-router-tencent-sport",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -11346,7 +11346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T09:29:54.927Z",
+    "last_updated": "2026-10-06T09:15:11.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "Vue相关开源项目库汇总",
