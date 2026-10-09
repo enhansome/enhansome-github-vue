@@ -19,7 +19,7 @@
             "open_issues": 2966,
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54031,
+            "stars": 54028,
             "topics": [
               "components",
               "element-ui",
@@ -44,11 +44,11 @@
             "id": 67962648,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T21:55:20Z",
-            "open_issues": 390,
+            "last_commit": "2026-10-08T22:14:42Z",
+            "open_issues": 389,
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41034,
+            "stars": 41031,
             "topics": [
               "javascript",
               "material",
@@ -85,11 +85,11 @@
             "id": 88717215,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T05:51:51Z",
+            "last_commit": "2026-10-08T14:55:54Z",
             "open_issues": 226,
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24387,
+            "stars": 24385,
             "topics": [
               "components",
               "mobile",
@@ -118,7 +118,7 @@
             "open_issues": 1238,
             "owner": "iview",
             "repo": "iview",
-            "stars": 23751,
+            "stars": 23750,
             "topics": [
               "components",
               "css",
@@ -150,7 +150,7 @@
             "open_issues": 286,
             "owner": "SortableJS",
             "repo": "Vue.Draggable",
-            "stars": 20567,
+            "stars": 20566,
             "topics": [
               "component",
               "drag-and-drop",
@@ -175,7 +175,7 @@
             "open_issues": 404,
             "owner": "airyland",
             "repo": "vux",
-            "stars": 17454,
+            "stars": 17453,
             "topics": [
               "ant",
               "components",
@@ -208,7 +208,7 @@
             "open_issues": 291,
             "owner": "ElemeFE",
             "repo": "mint-ui",
-            "stars": 16431,
+            "stars": 16430,
             "topics": [
               "component",
               "mobile",
@@ -235,7 +235,7 @@
             "open_issues": 200,
             "owner": "bootstrap-vue",
             "repo": "bootstrap-vue",
-            "stars": 14414,
+            "stars": 14413,
             "topics": [
               "a11y",
               "accessibility",
@@ -304,7 +304,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-09-24T10:30:15Z",
-            "open_issues": 202,
+            "open_issues": 203,
             "owner": "Akryum",
             "repo": "vue-virtual-scroller",
             "stars": 10796,
@@ -330,11 +330,11 @@
             "id": 61364083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T02:00:23Z",
+            "last_commit": "2026-10-09T08:21:59Z",
             "open_issues": 4,
             "owner": "ecomfe",
             "repo": "vue-echarts",
-            "stars": 10753,
+            "stars": 10750,
             "topics": [
               "echarts",
               "vue",
@@ -359,7 +359,7 @@
             "open_issues": 74,
             "owner": "buefy",
             "repo": "buefy",
-            "stars": 9511,
+            "stars": 9510,
             "topics": [
               "bulma",
               "components",
@@ -387,7 +387,7 @@
             "open_issues": 186,
             "owner": "museui",
             "repo": "muse-ui",
-            "stars": 8133,
+            "stars": 8132,
             "topics": [
               "material",
               "muse-ui",
@@ -414,7 +414,7 @@
             "open_issues": 263,
             "owner": "surmon-china",
             "repo": "vue-quill-editor",
-            "stars": 7390,
+            "stars": 7389,
             "topics": [
               "editor",
               "editor-plugin",
@@ -455,7 +455,7 @@
             "open_issues": 305,
             "owner": "shentao",
             "repo": "vue-multiselect",
-            "stars": 6779,
+            "stars": 6780,
             "topics": [
               "component",
               "dropdown",
@@ -482,7 +482,7 @@
             "open_issues": 377,
             "owner": "hinesboy",
             "repo": "mavonEditor",
-            "stars": 6571,
+            "stars": 6569,
             "topics": [
               "editor",
               "html",
@@ -510,7 +510,7 @@
             "open_issues": 19,
             "owner": "taylorchen709",
             "repo": "vue-admin",
-            "stars": 6554,
+            "stars": 6553,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -527,11 +527,11 @@
             "id": 61990007,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T23:27:52Z",
+            "last_commit": "2026-10-08T20:03:42Z",
             "open_issues": 29,
             "owner": "apertureless",
             "repo": "vue-chartjs",
-            "stars": 5718,
+            "stars": 5717,
             "topics": [
               "chart",
               "charting-library",
@@ -608,7 +608,7 @@
             "open_issues": 189,
             "owner": "xyxiao001",
             "repo": "vue-cropper",
-            "stars": 4553,
+            "stars": 4554,
             "topics": [
               "crop",
               "cropper",
@@ -692,7 +692,7 @@
             "open_issues": 13,
             "owner": "Zulko",
             "repo": "eagle.js",
-            "stars": 4048,
+            "stars": 4047,
             "topics": [
               "html",
               "presentations",
@@ -748,7 +748,7 @@
             "open_issues": 242,
             "owner": "ElemeFE",
             "repo": "vue-amap",
-            "stars": 3385,
+            "stars": 3386,
             "topics": [
               "amap",
               "component-library",
@@ -823,7 +823,7 @@
             "open_issues": 201,
             "owner": "ydcss",
             "repo": "vue-ydui",
-            "stars": 2725,
+            "stars": 2724,
             "topics": [
               "backtop",
               "component",
@@ -1020,7 +1020,7 @@
             "open_issues": 38,
             "owner": "MopTym",
             "repo": "vue-waterfall",
-            "stars": 2195,
+            "stars": 2194,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -1041,7 +1041,7 @@
             "open_issues": 63,
             "owner": "FE-Driver",
             "repo": "vue-beauty",
-            "stars": 2098,
+            "stars": 2097,
             "topics": [
               "components",
               "javascript",
@@ -1070,7 +1070,7 @@
             "open_issues": 120,
             "owner": "dai-siki",
             "repo": "vue-image-crop-upload",
-            "stars": 2077,
+            "stars": 2076,
             "topics": [
               "avatar",
               "file-upload",
@@ -1097,7 +1097,7 @@
             "open_issues": 62,
             "owner": "egoist",
             "repo": "eme",
-            "stars": 2054,
+            "stars": 2053,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -1118,7 +1118,7 @@
             "open_issues": 146,
             "owner": "rowanwins",
             "repo": "vue-dropzone",
-            "stars": 2003,
+            "stars": 2002,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -1212,7 +1212,7 @@
             "open_issues": 3,
             "owner": "SimonZhangITer",
             "repo": "DataVisualization",
-            "stars": 1726,
+            "stars": 1724,
             "topics": [
               "echarts",
               "vue",
@@ -1262,7 +1262,7 @@
             "open_issues": 0,
             "owner": "matfish2",
             "repo": "vue-tables-2",
-            "stars": 1511,
+            "stars": 1510,
             "topics": [
               "datatable",
               "grid",
@@ -1464,7 +1464,7 @@
             "open_issues": 139,
             "owner": "Vanthink-UED",
             "repo": "vue-core-image-upload",
-            "stars": 1342,
+            "stars": 1341,
             "topics": [
               "crop",
               "upload",
@@ -1544,7 +1544,7 @@
             "open_issues": 14,
             "owner": "ecomfe",
             "repo": "veui",
-            "stars": 1064,
+            "stars": 1063,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -1565,7 +1565,7 @@
             "open_issues": 8,
             "owner": "njleonzhang",
             "repo": "vue-data-tables",
-            "stars": 1015,
+            "stars": 1014,
             "topics": [
               "datatable",
               "datatables",
@@ -1752,7 +1752,7 @@
             "open_issues": 12,
             "owner": "luojilab",
             "repo": "radon-ui",
-            "stars": 893,
+            "stars": 892,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -1773,7 +1773,7 @@
             "open_issues": 0,
             "owner": "xlsdg",
             "repo": "vue-echarts-v3",
-            "stars": 893,
+            "stars": 892,
             "topics": [
               "chart",
               "echarts",
@@ -1852,7 +1852,7 @@
             "open_issues": 15,
             "owner": "OYsun",
             "repo": "VueStar",
-            "stars": 855,
+            "stars": 856,
             "topics": [
               "component",
               "ui-design",
@@ -1935,32 +1935,6 @@
         },
         {
           "node_type": "item",
-          "title": "vuejs-paginate",
-          "description": "★80 - 分页VueJS组件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Vue.js(v2.x+) component for creating pagination.",
-            "homepage": null,
-            "id": 78718184,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2022-06-03T09:04:20Z",
-            "open_issues": 30,
-            "owner": "lokyoung",
-            "repo": "vuejs-paginate",
-            "stars": 766,
-            "topics": [
-              "pagination",
-              "vue",
-              "vue-components",
-              "vue2"
-            ]
-          },
-          "first_seen": "2026-08-28T14:31:05.718Z"
-        },
-        {
-          "node_type": "item",
           "title": "vue-simplemde",
           "description": "★166 - VueJS的Markdown编辑器组件",
           "children": [],
@@ -1981,6 +1955,32 @@
               "markdown",
               "simplemde",
               "vue"
+            ]
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vuejs-paginate",
+          "description": "★80 - 分页VueJS组件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Vue.js(v2.x+) component for creating pagination.",
+            "homepage": null,
+            "id": 78718184,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2022-06-03T09:04:20Z",
+            "open_issues": 30,
+            "owner": "lokyoung",
+            "repo": "vuejs-paginate",
+            "stars": 765,
+            "topics": [
+              "pagination",
+              "vue",
+              "vue-components",
+              "vue2"
             ]
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -2473,7 +2473,7 @@
             "open_issues": 3,
             "owner": "icai",
             "repo": "vue3-calendar",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "bootstrap-theme",
               "calendar",
@@ -2710,7 +2710,7 @@
             "open_issues": 6,
             "owner": "coderdiaz",
             "repo": "vue-datasource",
-            "stars": 408,
+            "stars": 407,
             "topics": [
               "dynamic-tables",
               "laravel",
@@ -4691,7 +4691,7 @@
             "open_issues": 640,
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 212813,
+            "stars": 212596,
             "topics": [
               "framework",
               "frontend",
@@ -4755,10 +4755,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-07T08:54:07Z",
-            "open_issues": 56,
+            "open_issues": 58,
             "owner": "quasarframework",
             "repo": "quasar",
-            "stars": 27205,
+            "stars": 27204,
             "topics": [
               "android",
               "browser-extension",
@@ -4799,7 +4799,7 @@
             "open_issues": 281,
             "owner": "SimulatedGREG",
             "repo": "electron-vue",
-            "stars": 15359,
+            "stars": 15358,
             "topics": [
               "babel",
               "boilerplate",
@@ -4833,7 +4833,7 @@
             "open_issues": 102,
             "owner": "vue-bulma",
             "repo": "vue-admin",
-            "stars": 9318,
+            "stars": 9316,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -4854,7 +4854,7 @@
             "open_issues": 38,
             "owner": "egoist",
             "repo": "vuepack",
-            "stars": 2390,
+            "stars": 2389,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -4896,7 +4896,7 @@
             "open_issues": 28,
             "owner": "devjin0617",
             "repo": "vue2-admin-lte",
-            "stars": 1067,
+            "stars": 1066,
             "topics": [
               "admin-lte-vue",
               "adminlte",
@@ -4930,7 +4930,7 @@
             "open_issues": 7,
             "owner": "N3-components",
             "repo": "N3-components",
-            "stars": 1001,
+            "stars": 1000,
             "topics": [
               "components",
               "css",
@@ -5035,7 +5035,7 @@
             "open_issues": 0,
             "owner": "shenghy",
             "repo": "jspangAdmin",
-            "stars": 490,
+            "stars": 489,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -5243,7 +5243,7 @@
             "open_issues": 143,
             "owner": "vuejs",
             "repo": "vuex",
-            "stars": 28299,
+            "stars": 28297,
             "topics": [
               "javascript",
               "state-management",
@@ -5270,7 +5270,7 @@
             "open_issues": 198,
             "owner": "hilongjw",
             "repo": "vue-lazyload",
-            "stars": 7985,
+            "stars": 7984,
             "topics": [
               "lazyload",
               "vue",
@@ -5403,7 +5403,7 @@
             "open_issues": 77,
             "owner": "nuxt",
             "repo": "vue-meta",
-            "stars": 4068,
+            "stars": 4067,
             "topics": [
               "meta",
               "metadata",
@@ -5483,7 +5483,7 @@
             "open_issues": 49,
             "owner": "Justineo",
             "repo": "vue-awesome",
-            "stars": 2424,
+            "stars": 2423,
             "topics": [
               "font-awesome",
               "icon",
@@ -5719,8 +5719,8 @@
             "id": 83400754,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T04:42:22Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-08T16:34:31Z",
+            "open_issues": 6,
             "owner": "wxsms",
             "repo": "uiv",
             "stars": 937,
@@ -5951,7 +5951,7 @@
             "open_issues": 44,
             "owner": "dkfbasel",
             "repo": "vuex-i18n",
-            "stars": 656,
+            "stars": 655,
             "topics": [
               "internationalization-plugin",
               "language",
@@ -6322,7 +6322,7 @@
             "open_issues": 7,
             "owner": "kartsims",
             "repo": "vue-cordova",
-            "stars": 325,
+            "stars": 324,
             "topics": [
               "cordova",
               "cordova-plugin",
@@ -7433,11 +7433,11 @@
             "id": 71995937,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T22:16:23Z",
-            "open_issues": 488,
+            "last_commit": "2026-10-08T22:37:44Z",
+            "open_issues": 480,
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60926,
+            "stars": 60929,
             "topics": [
               "csr",
               "framework",
@@ -7787,7 +7787,7 @@
             "open_issues": 152,
             "owner": "lin-xin",
             "repo": "vue-manage-system",
-            "stars": 19611,
+            "stars": 19609,
             "topics": [
               "element-plus",
               "pinia",
@@ -7809,11 +7809,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-08T09:20:22Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-08T21:05:36Z",
+            "open_issues": 17,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17273,
+            "stars": 17274,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -7999,7 +7999,7 @@
             "open_issues": 8,
             "owner": "surmon-china",
             "repo": "surmon.me",
-            "stars": 2126,
+            "stars": 2125,
             "topics": [
               "blog",
               "nodepress",
@@ -8038,7 +8038,7 @@
             "open_issues": 2,
             "owner": "hutuxuhui",
             "repo": "jackblog-vue",
-            "stars": 1934,
+            "stars": 1933,
             "topics": [
               "jackblog",
               "vee-validate",
@@ -8129,7 +8129,7 @@
             "open_issues": 8,
             "owner": "topfullstack",
             "repo": "adminify",
-            "stars": 953,
+            "stars": 951,
             "topics": [
               "admin",
               "adonisjs",
@@ -8300,7 +8300,7 @@
             "open_issues": 2,
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 40994,
+            "stars": 40991,
             "topics": [
               "es2015",
               "flex",
@@ -8329,7 +8329,7 @@
             "open_issues": 110,
             "owner": "bailicangdu",
             "repo": "vue2-manage",
-            "stars": 13604,
+            "stars": 13601,
             "topics": [
               "element-ui",
               "less",
@@ -8358,7 +8358,7 @@
             "open_issues": 30,
             "owner": "bailicangdu",
             "repo": "vue2-happyfri",
-            "stars": 10533,
+            "stars": 10531,
             "topics": [
               "vue"
             ]
@@ -8437,7 +8437,7 @@
             "open_issues": 15,
             "owner": "javaswing",
             "repo": "NeteaseCloudWebApp",
-            "stars": 2577,
+            "stars": 2578,
             "topics": [
               "axios",
               "material-design",
@@ -8523,7 +8523,7 @@
             "open_issues": 0,
             "owner": "lzxb",
             "repo": "vue-demo",
-            "stars": 2097,
+            "stars": 2096,
             "topics": [
               "demo",
               "ssr",
@@ -8707,7 +8707,7 @@
             "open_issues": 0,
             "owner": "SimonZhangITer",
             "repo": "VueDemo_Sell_Eleme",
-            "stars": 1373,
+            "stars": 1372,
             "topics": [
               "axios",
               "eslint",
@@ -8736,7 +8736,7 @@
             "open_issues": 15,
             "owner": "lanux",
             "repo": "Vue-Admin",
-            "stars": 1317,
+            "stars": 1315,
             "topics": [
               "axios",
               "echarts",
@@ -8857,7 +8857,7 @@
             "open_issues": 3,
             "owner": "canfoo",
             "repo": "vue2.0-taopiaopiao",
-            "stars": 1221,
+            "stars": 1220,
             "topics": [
               "express",
               "mint",
@@ -9184,7 +9184,7 @@
             "open_issues": 5,
             "owner": "lin-xin",
             "repo": "notepad",
-            "stars": 629,
+            "stars": 627,
             "topics": [
               "localstorage",
               "todolist",
@@ -9267,7 +9267,7 @@
             "open_issues": 1,
             "owner": "huangche007",
             "repo": "vue-jd",
-            "stars": 592,
+            "stars": 590,
             "topics": [
               "axios",
               "mysql",
@@ -9344,7 +9344,7 @@
             "open_issues": 5,
             "owner": "odranoelBR",
             "repo": "vue-quasar-admin-example",
-            "stars": 567,
+            "stars": 566,
             "topics": [
               "admin",
               "quasar",
@@ -9402,7 +9402,7 @@
             "open_issues": 4,
             "owner": "zimplexing",
             "repo": "vue-nReader",
-            "stars": 535,
+            "stars": 534,
             "topics": [
               "api",
               "vue",
@@ -9695,7 +9695,7 @@
             "open_issues": 5,
             "owner": "liujians",
             "repo": "vue-adminLte-vue-router",
-            "stars": 363,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -10071,7 +10071,7 @@
             "open_issues": 2,
             "owner": "BosNaufal",
             "repo": "vue-mini-shop",
-            "stars": 265,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -11346,7 +11346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:20:22.010Z",
+    "last_updated": "2026-10-09T09:28:10.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "Vue相关开源项目库汇总",
@@ -11358,7 +11358,7 @@
       "open_issues": 31,
       "owner": "opendigg",
       "repo": "awesome-github-vue",
-      "stars": 12789,
+      "stars": 12787,
       "topics": [
         "vue",
         "vue-blog",
