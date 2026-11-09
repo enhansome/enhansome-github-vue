@@ -16,10 +16,10 @@
             "language": "Vue",
             "license": "MIT",
             "last_commit": "2024-08-20T07:40:13Z",
-            "open_issues": 2966,
+            "open_issues": 2967,
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 53976,
+            "stars": 53975,
             "topics": [
               "components",
               "element-ui",
@@ -44,8 +44,8 @@
             "id": 67962648,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T05:40:37Z",
-            "open_issues": 334,
+            "last_commit": "2026-11-09T04:24:18Z",
+            "open_issues": 336,
             "owner": "vuetifyjs",
             "repo": "vuetify",
             "stars": 41034,
@@ -89,7 +89,7 @@
             "open_issues": 239,
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24413,
+            "stars": 24417,
             "topics": [
               "components",
               "mobile",
@@ -118,7 +118,7 @@
             "open_issues": 1238,
             "owner": "iview",
             "repo": "iview",
-            "stars": 23742,
+            "stars": 23741,
             "topics": [
               "components",
               "css",
@@ -175,7 +175,7 @@
             "open_issues": 405,
             "owner": "airyland",
             "repo": "vux",
-            "stars": 17444,
+            "stars": 17443,
             "topics": [
               "ant",
               "components",
@@ -307,7 +307,7 @@
             "open_issues": 204,
             "owner": "Akryum",
             "repo": "vue-virtual-scroller",
-            "stars": 10794,
+            "stars": 10793,
             "topics": [
               "scroller",
               "virtual-scroller",
@@ -334,7 +334,7 @@
             "open_issues": 5,
             "owner": "ecomfe",
             "repo": "vue-echarts",
-            "stars": 10744,
+            "stars": 10746,
             "topics": [
               "echarts",
               "vue",
@@ -356,7 +356,7 @@
             "language": "Vue",
             "license": "MIT",
             "last_commit": "2026-09-08T18:47:31Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "buefy",
             "repo": "buefy",
             "stars": 9507,
@@ -414,7 +414,7 @@
             "open_issues": 263,
             "owner": "surmon-china",
             "repo": "vue-quill-editor",
-            "stars": 7380,
+            "stars": 7381,
             "topics": [
               "editor",
               "editor-plugin",
@@ -774,7 +774,7 @@
             "open_issues": 71,
             "owner": "wangdahoo",
             "repo": "vonic",
-            "stars": 3376,
+            "stars": 3374,
             "topics": [
               "components",
               "ionic",
@@ -4662,7 +4662,7 @@
             "open_issues": 645,
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 212630,
+            "stars": 212629,
             "topics": [
               "framework",
               "frontend",
@@ -4688,7 +4688,7 @@
             "open_issues": 1399,
             "owner": "PanJiaChen",
             "repo": "vue-element-admin",
-            "stars": 90114,
+            "stars": 90112,
             "topics": [
               "admin",
               "admin-dashboard",
@@ -4725,11 +4725,11 @@
             "id": 43695474,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T11:55:25Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-09T10:02:24Z",
+            "open_issues": 55,
             "owner": "quasarframework",
             "repo": "quasar",
-            "stars": 27202,
+            "stars": 27203,
             "topics": [
               "android",
               "browser-extension",
@@ -4804,7 +4804,7 @@
             "open_issues": 102,
             "owner": "vue-bulma",
             "repo": "vue-admin",
-            "stars": 9312,
+            "stars": 9313,
             "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
@@ -5400,7 +5400,7 @@
             "open_issues": 53,
             "owner": "MetinSeylan",
             "repo": "Vue-Socket.io",
-            "stars": 3889,
+            "stars": 3888,
             "topics": [
               "realtime",
               "redux",
@@ -5690,8 +5690,8 @@
             "id": 83400754,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T05:06:52Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-09T03:23:04Z",
+            "open_issues": 11,
             "owner": "wxsms",
             "repo": "uiv",
             "stars": 937,
@@ -7404,11 +7404,11 @@
             "id": 71995937,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T09:13:24Z",
-            "open_issues": 483,
+            "last_commit": "2026-11-09T09:55:27Z",
+            "open_issues": 475,
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 61052,
+            "stars": 61054,
             "topics": [
               "csr",
               "framework",
@@ -7758,7 +7758,7 @@
             "open_issues": 152,
             "owner": "lin-xin",
             "repo": "vue-manage-system",
-            "stars": 19586,
+            "stars": 19587,
             "topics": [
               "element-plus",
               "pinia",
@@ -7780,11 +7780,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:19:48Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-08T23:43:50Z",
+            "open_issues": 15,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17335,
+            "stars": 17336,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -7813,7 +7813,7 @@
             "open_issues": 178,
             "owner": "pagekit",
             "repo": "pagekit",
-            "stars": 5447,
+            "stars": 5446,
             "topics": [
               "cms",
               "content",
@@ -8037,7 +8037,7 @@
             "open_issues": 2,
             "owner": "suweiteng",
             "repo": "vue2-management-platform",
-            "stars": 1821,
+            "stars": 1820,
             "topics": [
               "element-ui",
               "vue"
@@ -8271,7 +8271,7 @@
             "open_issues": 2,
             "owner": "bailicangdu",
             "repo": "vue2-elm",
-            "stars": 40959,
+            "stars": 40957,
             "topics": [
               "es2015",
               "flex",
@@ -8942,7 +8942,7 @@
             "open_issues": 4,
             "owner": "superman66",
             "repo": "vue2.x-douban",
-            "stars": 792,
+            "stars": 791,
             "topics": [
               "vue",
               "vue-cli"
@@ -10134,27 +10134,6 @@
         },
         {
           "node_type": "item",
-          "title": "photoShare",
-          "description": "★120 - 基于图片分享的社交平台",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "一个基于图片分享的社交平台",
-            "homepage": null,
-            "id": 75282601,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2017-05-15T01:52:17Z",
-            "open_issues": 4,
-            "owner": "beidan",
-            "repo": "photoShare",
-            "stars": 211,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:31:05.718Z"
-        },
-        {
-          "node_type": "item",
           "title": "x-blog",
           "description": "★145 - 开源的个人blog项目",
           "children": [],
@@ -10174,6 +10153,27 @@
               "vue2",
               "webpack2"
             ]
+          },
+          "first_seen": "2026-08-28T14:31:05.718Z"
+        },
+        {
+          "node_type": "item",
+          "title": "photoShare",
+          "description": "★120 - 基于图片分享的社交平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "一个基于图片分享的社交平台",
+            "homepage": null,
+            "id": 75282601,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2017-05-15T01:52:17Z",
+            "open_issues": 4,
+            "owner": "beidan",
+            "repo": "photoShare",
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:31:05.718Z"
         },
@@ -11317,7 +11317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T09:21:18.757Z",
+    "last_updated": "2026-11-09T10:07:24.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "Vue相关开源项目库汇总",
@@ -11329,7 +11329,7 @@
       "open_issues": 31,
       "owner": "opendigg",
       "repo": "awesome-github-vue",
-      "stars": 12777,
+      "stars": 12778,
       "topics": [
         "vue",
         "vue-blog",
